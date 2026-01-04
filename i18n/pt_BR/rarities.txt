@@ -1,0 +1,71 @@
+Rarities/common/Male/Name=Comum
+Rarities/common/Male/NamePlural=Comuns
+Rarities/common/Male/NameColored=<c val="{#Colors/common}">{#Rarities/common/Male/Name}</c>
+
+Rarities/common/Female/Name=Comum
+Rarities/common/Female/NamePlural=Comuns
+Rarities/common/Female/NameColored=<c val="{#Colors/common}">{#Rarities/common/Female/Name}</c>
+
+Rarities/unusual/Male/Name=Incomum
+Rarities/unusual/Male/NamePlural=Incomuns
+Rarities/unusual/Male/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Male/Name}</c>
+
+Rarities/unusual/Female/Name=Incomum
+Rarities/unusual/Female/NamePlural=Incomuns
+Rarities/unusual/Female/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Female/Name}</c>
+
+Rarities/rare/Male/Name=Raro
+Rarities/rare/Male/NamePlural=Raros
+Rarities/rare/Male/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Male/Name}</c>
+
+Rarities/rare/Female/Name=Rara
+Rarities/rare/Female/NamePlural=Raras
+Rarities/rare/Female/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Female/Name}</c>
+
+Rarities/epic/Male/Name=Épico
+Rarities/epic/Male/NamePlural=Épicos
+Rarities/epic/Male/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Male/Name}</c>
+
+Rarities/epic/Female/Name=Épica
+Rarities/epic/Female/NamePlural=Épicas
+Rarities/epic/Female/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Female/Name}</c>
+
+Rarities/legendary/Male/Name=Lendário
+Rarities/legendary/Male/NamePlural=Lendários
+Rarities/legendary/Male/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Male/Name}</c>
+
+Rarities/legendary/Female/Name=Lendária
+Rarities/legendary/Female/NamePlural=Lendárias
+Rarities/legendary/Female/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Female/Name}</c>
+
+Rarities/mythic/Male/Name=Mítico
+Rarities/mythic/Male/NamePlural=Míticos
+Rarities/mythic/Male/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Male/Name}</c>
+
+Rarities/mythic/Female/Name=Mítica
+Rarities/mythic/Female/NamePlural=Míticas
+Rarities/mythic/Female/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Female/Name}</c>
+
+Rarities/ultra/Male/Name=Fantástico
+Rarities/ultra/Male/NamePlural=Fantásticos
+Rarities/ultra/Male/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Male/Name}</c>
+
+Rarities/ultra/Female/Name=Fantástica
+Rarities/ultra/Female/NamePlural=Fantásticas
+Rarities/ultra/Female/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Female/Name}</c>
+
+Rarities/super/Male/Name=Supremo
+Rarities/super/Male/NamePlural=Supremos
+Rarities/super/Male/NameColored=<c val="{#Colors/super}">{#Rarities/super/Male/Name}</c>
+
+Rarities/super/Female/Name=Suprema
+Rarities/super/Female/NamePlural=Supremas
+Rarities/super/Female/NameColored=<c val="{#Colors/super}">{#Rarities/super/Female/Name}</c>
+
+Rarities/unique/Male/Name=Único
+Rarities/unique/Male/NamePlural=Únicos
+Rarities/unique/Male/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Male/Name}</c>
+
+Rarities/unique/Female/Name=Única
+Rarities/unique/Female/NamePlural=Únicas
+Rarities/unique/Female/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Female/Name}</c>

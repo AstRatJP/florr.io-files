@@ -1,0 +1,263 @@
+Article/Male=O
+Article/Female=A
+Article/Male/Lower=o
+Article/Female/Lower=a
+One/Male=Um
+One/Female=Uma
+
+Petals/AnnouncementPrefix={#One/{#Petals/{0:base}/Gender}} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name}
+Mobs/AnnouncementPrefix={#One/{#Mobs/{0:base}/Gender}} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/{#Mobs/{0:base}/Gender}/Name}
+
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}!
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}!
+
+Chat/PetalCraftedUnnamed/unique={#Chat/PetalCraftedUnnamed/unique/{#Petals/{0:base}/Gender}}
+Chat/PetalCraftedUnnamed/unique/Male=Um {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Male/Name} foi forjado
+Chat/PetalCraftedUnnamed/unique/Female=Uma {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Female/Name} foi forjado
+Chat/PetalCraftedNamed/unique={#Chat/PetalCraftedUnnamed/unique} por {1}
+
+Chat/PetalCraftedUnnamed/not-unique={#Chat/PetalCraftedUnnamed/not-unique/{#Petals/{0:base}/Gender}}
+Chat/PetalCraftedUnnamed/not-unique/Male=Um {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Male/Name} foi combinado
+Chat/PetalCraftedUnnamed/not-unique/Female=Uma {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Female/Name} foi combinada
+Chat/PetalCraftedNamed/not-unique={#Chat/PetalCraftedUnnamed/not-unique} por {1}
+
+Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic/{#Petals/{0:base}/Gender}}
+Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic/{#Petals/{0:base}/Gender}}
+Chat/PetalFoundUnnamed/generic/Male={#Petals/AnnouncementPrefix:0} foi encontrado!
+Chat/PetalFoundUnnamed/generic/Female={#Petals/AnnouncementPrefix:0} foi encontrada!
+Chat/PetalFoundNamed/generic/Male={#Petals/AnnouncementPrefix:0} foi encontrado por {1}!
+Chat/PetalFoundNamed/generic/Female={#Petals/AnnouncementPrefix:0} foi encontrada por {1}!
+
+Chat/PetalFoundUnnamed/pharaoh_crown=A {#Petals/{0:base}/FullName} foi roubada!
+Chat/PetalFoundNamed/pharaoh_crown=A {#Petals/{0:base}/FullName} foi roubada por {1}!
+
+Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
+Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
+
+Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0} apareceu!
+Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} apareceu em algum lugar!
+
+Chat/MobSpawnedHere/Special/sacrifice={#Mobs/AnnouncementPrefix:0} foi {#Sacrifice/{#Mobs/{0:base}/Gender}}!
+Chat/MobSpawnedSomewhere/Special/sacrifice={#Mobs/AnnouncementPrefix:0} foi {#Sacrifice/{#Mobs/{0:base}/Gender}} em algum lugar!
+Sacrifice/Male=invocado
+Sacrifice/Female=invocada
+
+Chat/MobDefeated={#Chat/MobDefeated/{#Mobs/{0:base}/Gender}/{1}}
+
+Chat/MobDefeated/Male/0={#Mobs/AnnouncementPrefix:0} foi derrotado!
+Chat/MobDefeated/Male/1={#Mobs/AnnouncementPrefix:0} foi derrotado por {2}!
+Chat/MobDefeated/Male/2={#Mobs/AnnouncementPrefix:0} foi derrotado por {2} e {3}!
+Chat/MobDefeated/Male/3={#Mobs/AnnouncementPrefix:0} foi derrotado por {2}, {3} e {4}!
+Chat/MobDefeated/Male/4={#Mobs/AnnouncementPrefix:0} foi derrotado por {2}, {3}, {4} e {5}!
+
+Chat/MobDefeated/Female/0={#Mobs/AnnouncementPrefix:0} foi derrotada!
+Chat/MobDefeated/Female/1={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}!
+Chat/MobDefeated/Female/2={#Mobs/AnnouncementPrefix:0} foi derrotada por {2} e {3}!
+Chat/MobDefeated/Female/3={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}, {3} e {4}!
+Chat/MobDefeated/Female/4={#Mobs/AnnouncementPrefix:0} foi derrotada por {2}, {3}, {4} e {5}!
+
+Chat/Rift/Opened=Uma fenda misteriosa se abriu!
+
+Chat/Revived={0} te reviveu.
+Chat/Marked={0} te amaldiçoou.
+
+Chat/Muted=Você não pode usar o chat agora devido à suas mensagens antigas. Você vai poder usar o chat em {0:time}.
+Chat/Muted/Message=Eu disse coisas das quais me arrependo. Agora, reflito em silêncio.
+Chat/Spam=Você está fazendo muito isso.
+Chat/Alone=Ninguém está por perto para lhe ouvir.
+Chat/Banned=No momento você está banido, então você não poderá jogar.
+Chat/NegativeStars=Seu pagamento de estrelas foi revertido, você não pode jogar com saldo de estrelas negativos.
+Chat/BadChannel=Você não pode fazer isso.
+Chat/SquadChannelNotInSquad=Não está em um time.
+Chat/GuildChannelNotInGuild=Não está em um clã.
+Chat/GuildChannelDisabled=Você tem o bate-papo da clã desativado.
+Chat/GuestTooChatty=Desculpe, contas de convidados não tem muitos privilégios de chat até o nível {0}.
+Chat/PlayerReported=Jogador reportado.
+Chat/PlayerBlocked={0} Foi bloqueado.
+Chat/ServerClosing=O servidor está agendado para fechar em {0:time}.
+Chat/ServerClosed=O servidor está fechado, hora de sair.
+Chat/ServerNoLongerClosing=O servidor não está mais agendado para fechar.
+
+Chat/Squad/Created=Time criado.
+Chat/Squad/Joined=Entrou no time.
+Chat/Squad/Left=Saiu do time.
+Chat/Squad/MemberJoined={0} entrou no time.
+Chat/Squad/MemberLeft={0} saiu do time.
+Chat/Squad/InviteSent=Você convidou {0} para o time.
+
+Chat/Squad/Error/InviteExpired=Convite expirou ou o time não existe mais.
+Chat/Squad/Error/NotAllowed=Times não são permitidos nesse modo.
+Chat/Squad/Error/Spam=Você está fazendo muito isso.
+Chat/Squad/Error/DoesNotExist=O time não existe.
+Chat/Squad/Error/CannotJoin=Você não pode entrar neste time.
+Chat/Squad/Error/LevelDifference=Seu nível não está perto do nível do time
+Chat/Squad/Error/Full=O time está cheio.
+Chat/Squad/Error/PendingInvite=Jogador já tem um convite pendente.
+Chat/Squad/Error/AlreadyHasSquad=Jogador já está em um time.
+Chat/Squad/Error/WrongTeam=Você não pode convidar um jogador que não é seu aliado.
+Chat/Squad/Error/SplittedCannotSquad=Apenas uma flor inteira pode ser parte de um time.
+Chat/Squad/Error/CannotInviteSplitted=Você não pode convidar menos que uma flor inteira para um time.
+
+Chat/Channel/Local=Local
+Chat/Channel/Squad=Time
+Chat/Channel/Guild=Clã
+Chat/Channel/Whisper=Sussurro
+Chat/Channel/WhisperTo=@{0}
+Chat/Channel/Map=Mapa
+Chat/Channel/Global=Global
+
+Chat/Guild/PlayerJoined={0} entrou no clã.
+Chat/Guild/PlayerLeft={0} saiu do clã.
+Chat/Guild/NewLeader={0} é o novo líder do clã!
+Chat/Guild/Invited=Você foi convidado para entrar no clã "{0}". Abra o menu do clã para aceitar.
+Chat/Guild/Created=Clã criado.
+Chat/Guild/Left=Você saiu do clã.
+Chat/Guild/InviteSent=Convite enviado.
+Chat/Guild/LeadershipTransferred=Liderança transferida.
+Chat/Guild/Welcome=Bem-vindo ao clã.
+Chat/Guild/Kicked=Jogador expulso.
+Chat/Guild/MOTDUpdated=MOTD atualizado.
+
+Chat/CommandError/Invalid=Comando inválido, digite /help para listar todos os comandos.
+Chat/CommandError/SpaceError=Não pode haver espaços após o "/"
+Chat/CommandError/EmptyMessage=As mensagens não podem estar vazias.
+Chat/CommandError/InvalidNumArguments=Número invalido de argumentos.
+Chat/CommandError/VeryInvalidSquadCode=Isso não parece ser um código de time.
+Chat/CommandError/BlockedPlayerNotFound=Este jogador não está na sua lista de bloqueados.
+Chat/CommandError/NoBlockedPlayers=Nenhum jogador bloqueado.
+Chat/CommandError/BlockListCleared={0} jogadores removidos da lista de bloqueados.
+Chat/CommandError/NotInSquad=Não está em um time.
+Chat/CommandError/MustHaveFlower=Precisa ter uma flor pra fazer isso..
+Chat/CommandError/NoFlowersClose=Nenhuma flor perto de você.
+Chat/CommandError/InvalidValue=Valor Inválido.
+Chat/CommandError/InvalidBooleanArgument=Boolean argument must be y or n.
+Chat/CommandError/InvalidNumberArgument=O numero de argumentos tem de ser válido.
+Chat/CommandError/InvalidMobTypeArgument=Tipo de bicho inválido.
+Chat/CommandError/InvalidMobRarityArgument=Raridade de bicho inválida.
+Chat/CommandError/InvalidMap=Mapa inválido.
+Chat/CommandError/AccountNotLoaded=Conta não carregada.
+Chat/CommandError/TargetEmpty=O destinatário não pode estar vazio.
+Chat/CommandError/TargetSelf=Você não pode ser o destinatário.
+Chat/CommandError/TargetDisconnected=Alvo desconectado.
+Chat/CommandError/TargetNotFound=Destinatário não encontrado.
+Chat/CommandError/TargetMustHaveFlower=O destinatário não e uma flor.
+Chat/CommandError/InternalError=Erro interno.
+Chat/CommandError/InvalidPetalArgument=ID de pétala inválido.
+Chat/CommandError/InvalidWhisperTarget=Destinatário inválido.
+Chat/CommandError/WhisperTargetNotFound=Destinatário não encontrado.
+Chat/CommandError/WhisperTargetNotConnected=Destinatário não encontrado, ou não aceita sussurros.
+Chat/CommandError/WhisperSelf=Deixe esses pensamentos apenas na sua cabeça.
+Chat/CommandError/GuestsCannotSendWhispers=Visitantes não sussurram.
+Chat/CommandError/GuestsCannotReceiveWhispers=Visitantes não podem ouvir sussurros.
+Chat/CommandError/WhispersDisabled=Você não pode enviar sussurros se os mesmos estiverem desligados nas configurações.
+Chat/CommandError/NotInGuild=Você não está em um clã.
+Chat/CommandError/MustHaveNameToJoinGuild=Você precisa de um nome para entrar num clã.
+Chat/CommandError/SquadsNotAllowedInThisMode=Times não são possíveis nesse modo.
+Chat/CommandError/SquadFull=Seu time está lotado.
+Chat/CommandError/AlreadyInGuild=Voce já está em um clã.
+Chat/CommandError/MustHaveNameToCreateGuild=Você precisa de um nome para criar um clã.
+Chat/CommandError/MustLevelToCreateGuild=Tenha no mínimo o nível {0} para poder criar clãs.
+Chat/CommandError/InvalidGuildName=Nome inválido pro clã.
+Chat/CommandError/InvalidGuildTag=Tag inválida pro clã.
+Chat/CommandError/GuildTagAlreadyInUse=Tag pro clã já em uso.
+Chat/CommandError/GuildCreateFailed=Falha ao criar o clã.
+Chat/CommandError/CannotLeaveGuildAsLeader=Você não pode sair do clã se for o líder. Repasse a liderança a outra pessoa.
+Chat/CommandError/MustBeLeaderToDoThat=Você precisa ser o líder para fazer isso.
+Chat/CommandError/MustBeLeaderToInvite=Você precisa ser o líder para convidar pessoas.
+Chat/CommandError/GuildFull=Clã já está lotado.
+Chat/CommandError/PlayerAlreadyInGuild=Jogador já está em um clã.
+Chat/CommandError/PlayerHasPendingGuildInvite=Esse jogador já tem um convite de clã pendente.
+Chat/CommandError/GuildInviteExpired=Convite de clã expirado.
+Chat/CommandError/GuildCannotKickSelf=Você não pode se expulsar.
+Chat/CommandError/BothInSquadsAlready=Você e esse jogador já estão ambos em um time.
+Chat/CommandError/OtherPlayerSquadFull=O time desse jogador já está cheio.
+Chat/CommandError/SquadIncompatibleLevels=Seu nível não é compatível suficiente para participar desse time.
+
+Chat/Oracle/Idle={#Chat/Oracle/Idle/{!math:{0}:%:41}}
+Chat/Oracle/Idle/0=Eu posso ver o futuro
+Chat/Oracle/Idle/1=Podemos fazer uma troca justa
+Chat/Oracle/Idle/2=Se não agora, quando?
+Chat/Oracle/Idle/3=O Oráculo vê tudo
+Chat/Oracle/Idle/4=Que seja tudo o que vemos ou parecemos
+Chat/Oracle/Idle/5=Tantos caminhos para escolher
+Chat/Oracle/Idle/6=Cuidado com oque você deseja
+Chat/Oracle/Idle/7=Alguém pode ter certeza?
+Chat/Oracle/Idle/8=Se é isso que você quer
+Chat/Oracle/Idle/9=E se eu fizer isso?
+Chat/Oracle/Idle/10=E se eu não fizer isso?
+Chat/Oracle/Idle/11=Ho ho! Imagine o resultado
+Chat/Oracle/Idle/12=É sempre assim
+Chat/Oracle/Idle/13=Esse é um dos cursos possíveis
+Chat/Oracle/Idle/14=Garantias não existem
+Chat/Oracle/Idle/15=Tantos destinos
+Chat/Oracle/Idle/16=Interprete isso!
+Chat/Oracle/Idle/17=Escolha sabiamente
+Chat/Oracle/Idle/18=Não tenha medo de se comprometer
+Chat/Oracle/Idle/19=Comprometa-se! Ou não
+Chat/Oracle/Idle/20=Não ligue para mim
+Chat/Oracle/Idle/21=Eu espio com meu olhinho
+Chat/Oracle/Idle/22="Se" não é uma palavra que eu uso levianamente
+Chat/Oracle/Idle/23=Se ao menos fosse tudo tão simples
+Chat/Oracle/Idle/24=Cuidado com as escadas
+Chat/Oracle/Idle/25=Você vai morrer em um incêndio em casa
+Chat/Oracle/Idle/26=Eu vejo você morrendo de extrema velhice. Ou talvez uma pessoa muito velha te mate. Um dos dois
+Chat/Oracle/Idle/27=Esta profecia substitui todas as profecias anteriores
+Chat/Oracle/Idle/28=Ignore todas as profecias anteriores
+Chat/Oracle/Idle/29=Eu tenho uma profecia para entregar
+Chat/Oracle/Idle/30=Ignore todas as declarações anteriores
+Chat/Oracle/Idle/31=Prepare-se para consequências imprevistas
+Chat/Oracle/Idle/32=Alguns destinos são indeterminados
+Chat/Oracle/Idle/33=Parece que estou sofrendo de um ponto cego
+Chat/Oracle/Idle/34=Uma vaga anomalia quando se considera este futuro em particular. Preocupante
+Chat/Oracle/Idle/35=O destino não pode ser negado
+Chat/Oracle/Idle/36=Alguns futuros não podem ser comprados
+Chat/Oracle/Idle/37=O custo da certeza
+Chat/Oracle/Idle/38=De novo, de novo e de novo
+Chat/Oracle/Idle/39=Exatamente como planejado
+Chat/Oracle/Idle/40=Não posso ser responsabilizado por todos os resultados
+
+# When a Super/Unique petal is about to be crafted
+Chat/Oracle/Prediction={#Chat/Oracle/Prediction/{!math:{0}:%:3}}
+Chat/Oracle/Prediction/0=Ah sim, a profecia... deve acontecer a qualquer momento..
+Chat/Oracle/Prediction/1=Foi predito, este é o momento...
+Chat/Oracle/Prediction/2=Eu estava esperando por esse momento...
+
+Chat/Oracle/ShopPrediction/No=O futuro é muito nebuloso para prever
+Chat/Oracle/ShopPrediction/Distance0=É iminente
+Chat/Oracle/ShopPrediction/Distance1=Brevemente
+Chat/Oracle/ShopPrediction/Distance2=Eventualmente
+Chat/Oracle/ShopPrediction/Distance3=Talvez alguns futuros sejam apenas indeterminados
+Chat/Oracle/ShopPrediction/Request=Oráculo, oráculo, faça-me uma previsão sobre {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
+
+# Target dummy says these 4 lines 1 second apart after getting damaged a lot
+Chat/TargetDummy/Damaged/1=Ai
+Chat/TargetDummy/Damaged/2=Quero dizer
+Chat/TargetDummy/Damaged/3=Beep boop
+Chat/TargetDummy/Damaged/4=Sou um robô
+
+Chat/Gambler/Idle={#Chat/Gambler/Idle/{!math:{0}:%:10}}
+Chat/Gambler/Idle/0=EU AMO APOSTAR
+Chat/Gambler/Idle/1=Onde estão as mesas de blackjack?
+Chat/Gambler/Idle/2=Onde estão os slots?
+Chat/Gambler/Idle/3=99% dos apostadores desistem pouco antes de ganhar muito
+Chat/Gambler/Idle/4=Apenas mais um jogo.
+Chat/Gambler/Idle/5=ESTOU DENTRO
+Chat/Gambler/Idle/6=Estou me sentindo sortudo
+Chat/Gambler/Idle/7=Trigésima sétima vez é o charme
+Chat/Gambler/Idle/8=O dobro ou nada?
+Chat/Gambler/Idle/9=Vencedor, vencedor!
+
+Chat/Titan/Idle={#Chat/Titan/Idle/{!math:{0}:%:8}}
+Chat/Titan/Idle/0=Só pode haver um
+Chat/Titan/Idle/1=Eu era o martelo na Fundação
+Chat/Titan/Idle/2=O que é fraco deve quebrar
+Chat/Titan/Idle/3=A forja da criação queima mais quente
+Chat/Titan/Idle/4=O forjador do mundo vagueia
+Chat/Titan/Idle/5=Formado da forja
+Chat/Titan/Idle/6=Como o forjador deseja
+Chat/Titan/Idle/7=Eu caminho pelo plano terrestre
+
+Chat/Trader/Idle={#Chat/Trader/Idle/{!math:{0}:%:3}}
+Chat/Trader/Idle/0=Posso interessá-lo em uma pequena troca?
+Chat/Trader/Idle/1=Estou querendo expandir minha coleção...
+Chat/Trader/Idle/2=Eu tenho a moeda, se você tiver mercadorias

@@ -1,0 +1,301 @@
+Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/Name/{#Mobs/{0:base}/Gender}} {#Mobs/{0:base}/Name}
+Petals/AnnouncementPrefix={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}} {#Petals/{0:base}/FullName}
+
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}/{#Petals/{0:base}/Gender}}
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}/{#Petals/{0:base}/Gender}}
+
+Chat/PetalCraftedUnnamed/unique/Male={#Petals/AnnouncementPrefix:0} был выкован!
+Chat/PetalCraftedUnnamed/unique/Female={#Petals/AnnouncementPrefix:0} была выкована!
+Chat/PetalCraftedUnnamed/unique/Neuter={#Petals/AnnouncementPrefix:0} было выковано!
+Chat/PetalCraftedUnnamed/unique/Plural={#Petals/AnnouncementPrefix:0} были выкованы!
+
+Chat/PetalCraftedNamed/unique/Male={#Petals/AnnouncementPrefix:0} был выкован игроком {1}!
+Chat/PetalCraftedNamed/unique/Female={#Petals/AnnouncementPrefix:0} была выкована игроком {1}!
+Chat/PetalCraftedNamed/unique/Neuter={#Petals/AnnouncementPrefix:0} было выковано игроком {1}!
+Chat/PetalCraftedNamed/unique/Plural={#Petals/AnnouncementPrefix:0} были выкованы игроком {1}!
+
+Chat/PetalCraftedUnnamed/not-unique/Male={#Petals/AnnouncementPrefix:0} был скрафчен!
+Chat/PetalCraftedUnnamed/not-unique/Female={#Petals/AnnouncementPrefix:0} была скрафчена!
+Chat/PetalCraftedUnnamed/not-unique/Neuter={#Petals/AnnouncementPrefix:0} было скрафчено!
+Chat/PetalCraftedUnnamed/not-unique/Plural={#Petals/AnnouncementPrefix:0} были скрафчены!
+
+Chat/PetalCraftedNamed/not-unique/Male={#Petals/AnnouncementPrefix:0} был скрафчен игроком {1}!
+Chat/PetalCraftedNamed/not-unique/Female={#Petals/AnnouncementPrefix:0} была скрафчена игроком {1}!
+Chat/PetalCraftedNamed/not-unique/Neuter={#Petals/AnnouncementPrefix:0} было скрафчено игроком {1}!
+Chat/PetalCraftedNamed/not-unique/Plural={#Petals/AnnouncementPrefix:0} были скрафчены игроком {1}!
+
+Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic/{#Petals/{0:base}/Gender}}
+Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic/{#Petals/{0:base}/Gender}}
+
+Chat/PetalFoundUnnamed/generic/Male={#Petals/AnnouncementPrefix:0} был найден!
+Chat/PetalFoundUnnamed/generic/Female={#Petals/AnnouncementPrefix:0} была найдена!
+Chat/PetalFoundUnnamed/generic/Neuter={#Petals/AnnouncementPrefix:0} было найдено!
+Chat/PetalFoundUnnamed/generic/Plural={#Petals/AnnouncementPrefix:0} были найдены!
+
+Chat/PetalFoundNamed/generic/Male={#Petals/AnnouncementPrefix:0} был найден игроком {1}!
+Chat/PetalFoundNamed/generic/Female={#Petals/AnnouncementPrefix:0} была найдена игроком {1}!
+Chat/PetalFoundNamed/generic/Neuter={#Petals/AnnouncementPrefix:0} было найдено игроком {1}!
+Chat/PetalFoundNamed/generic/Plural={#Petals/AnnouncementPrefix:0} были найдены игроком {1}!
+
+Chat/PetalFoundUnnamed/pharaoh_crown={#Petals/{0:base}/FullName} была украдена!
+Chat/PetalFoundNamed/pharaoh_crown={#Petals/{0:base}/FullName} была украдена игроком {1}!
+
+Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}/{#Mobs/{0:base}/Gender}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/{#Mobs/{0:base}/Gender}}
+Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}/{#Mobs/{0:base}/Gender}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/{#Mobs/{0:base}/Gender}}
+
+Chat/MobSpawnedHere/Male=Появился {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Female=Появилась {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Neuter=Появилось {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Plural=Появились {#Mobs/AnnouncementPrefix:0}!
+
+Chat/MobSpawnedSomewhere/Male=Где-то появился {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Female=Где-то появилась {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Neuter=Где-то появилось {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Plural=Где-то появились {#Mobs/AnnouncementPrefix:0}!
+
+Chat/MobSpawnedHere/Special/sacrifice/Male=Был призван {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Special/sacrifice/Female=Была призвана {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Special/sacrifice/Neuter=Было призвано {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedHere/Special/sacrifice/Plural=Были призваны {#Mobs/AnnouncementPrefix:0}!
+
+Chat/MobSpawnedSomewhere/Special/sacrifice/Male=Где-то был призван {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Special/sacrifice/Female=Где-то была призвана {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Special/sacrifice/Neuter=Где-то было призвано {#Mobs/AnnouncementPrefix:0}!
+Chat/MobSpawnedSomewhere/Special/sacrifice/Plural=Где-то были призваны {#Mobs/AnnouncementPrefix:0}!
+
+Chat/MobDefeated={#Chat/MobDefeated/{1}/{#Mobs/{0:base}/Gender}}
+
+Chat/MobDefeated/0/Male={#Mobs/AnnouncementPrefix:0} был побеждён!
+Chat/MobDefeated/0/Female={#Mobs/AnnouncementPrefix:0} была побеждена!
+Chat/MobDefeated/0/Neuter={#Mobs/AnnouncementPrefix:0} было побеждено!
+Chat/MobDefeated/0/Plural={#Mobs/AnnouncementPrefix:0} были побеждены!
+
+Chat/MobDefeated/1/Male={#Mobs/AnnouncementPrefix:0} был побеждён игроком {2}!
+Chat/MobDefeated/1/Female={#Mobs/AnnouncementPrefix:0} была побеждена игроком {2}!
+Chat/MobDefeated/1/Neuter={#Mobs/AnnouncementPrefix:0} было побеждено игроком {2}!
+Chat/MobDefeated/1/Plural={#Mobs/AnnouncementPrefix:0} были побеждены игроком {2}!
+
+Chat/MobDefeated/2/Male={#Mobs/AnnouncementPrefix:0} был побеждён игроками {2} и {3}!
+Chat/MobDefeated/2/Female={#Mobs/AnnouncementPrefix:0} была побеждена игроками {2} и {3}!
+Chat/MobDefeated/2/Neuter={#Mobs/AnnouncementPrefix:0} было побеждено игроками {2} и {3}!
+Chat/MobDefeated/2/Plural={#Mobs/AnnouncementPrefix:0} были побеждены игроками {2} и {3}!
+
+Chat/MobDefeated/3/Male={#Mobs/AnnouncementPrefix:0} был побеждён игроками {2}, {3} и {4}!
+Chat/MobDefeated/3/Female={#Mobs/AnnouncementPrefix:0} была побеждена игроками {2}, {3} и {4}!
+Chat/MobDefeated/3/Neuter={#Mobs/AnnouncementPrefix:0} было побеждено игроками {2}, {3} и {4}!
+Chat/MobDefeated/3/Plural={#Mobs/AnnouncementPrefix:0} были побеждены игроками {2}, {3} и {4}!
+
+Chat/MobDefeated/4/Male={#Mobs/AnnouncementPrefix:0} был побеждён игроками {2}, {3}, {4} и {5}!
+Chat/MobDefeated/4/Female={#Mobs/AnnouncementPrefix:0} была побеждена игроками {2}, {3}, {4} и {5}!
+Chat/MobDefeated/4/Neuter={#Mobs/AnnouncementPrefix:0} было побеждено игроками {2}, {3}, {4} и {5}!
+Chat/MobDefeated/4/Plural={#Mobs/AnnouncementPrefix:0} были побеждены игроками {2}, {3}, {4} и {5}!
+
+Chat/Rift/Opened=Открылся таинственный разлом!
+
+Chat/Revived=Вы были возрождёны игроком {0}.
+Chat/Marked=Вы были помечены игроком {0}.
+
+Chat/Muted=Сейчас вам запрещено общаться в чате из-за прошлых неприличных сообщений.<n/>Вы сможете общаться снова через {0:time:accusative}.
+Chat/Muted/Message=Ранее я говорил вещи, о которых сожалею. Теперь я размышляю в молчании.
+Chat/Spam=Вы делаете это слишком часто.
+Chat/Alone=Рядом нет никого, кто мог бы вас услышать.
+Chat/Banned=Сейчас ваш аккаунт забанен, поэтому вы не можете играть.
+Chat/NegativeStars=Ваш платёж за звёзды был отменён, вы не можете играть, пока ваш баланс отрицательный.
+Chat/BadChannel=Вы не можете это делать
+Chat/SquadChannelNotInSquad=Вы не в команде.
+Chat/GuildChannelNotInGuild=Вы не в гильдии.
+Chat/GuildChannelDisabled=У вас отключён чат гильдии.
+Chat/GuestTooChatty=К сожалению, гостевые аккаунты имеют ограниченные права в чате до {0}-го уровня.
+Chat/PlayerReported=Жалоба отправлена.
+Chat/PlayerBlocked=Игрок {0} заблокирован.
+Chat/ServerClosing=Этот сервер запланирован закрыться через {0:time:accusative}.
+Chat/ServerClosed=Сервер закрыт, пора уходить.
+Chat/ServerNoLongerClosing=Сервер больше не запланирован закрыться.
+Chat/MatchEnding=Этот матч заканчивается через {0:time:accusative}.
+Chat/MatchEnded=Матч окончен. До встречи.
+Chat/MatchWinner=Игрок {0} — победитель матча.
+
+Chat/Squad/Created=Команда создана.
+Chat/Squad/Joined=Вы зашли в команду.
+Chat/Squad/Left=Вы вышли из команды.
+Chat/Squad/MemberJoined=Игрок {0} зашёл в команду.
+Chat/Squad/MemberLeft=Игрок {0} вышел из команды.
+Chat/Squad/InviteSent=Вы пригласили игрока {0} в команду.
+
+Chat/Squad/Error/InviteExpired=Приглашение истекло или команда уже не существует.
+Chat/Squad/Error/NotAllowed=Команды отключены в этом режиме.
+Chat/Squad/Error/Spam=Вы делаете это слишком часто.
+Chat/Squad/Error/DoesNotExist=Команда не существует.
+Chat/Squad/Error/CannotJoin=Вы не можете зайти в эту команду.
+Chat/Squad/Error/LevelDifference=Ваш уровень недостаточно близок к уровню команды.
+Chat/Squad/Error/Full=Команда полная.
+Chat/Squad/Error/PendingInvite=Игрок уже получил приглашение.
+Chat/Squad/Error/AlreadyHasSquad=Игрок уже находится в команде.
+Chat/Squad/Error/WrongTeam=Вы не можете приглашать игроков-противников.
+Chat/Squad/Error/SplittedCannotSquad=Только целый цветок может быть частью команды.
+Chat/Squad/Error/CannotInviteSplitted=Вы не можете пригласить часть цветка в команду.
+
+Chat/Channel/Local=Окр.
+Chat/Channel/Squad=Команда
+Chat/Channel/Guild=Гильдия
+Chat/Channel/Whisper=Шёпот
+Chat/Channel/WhisperTo=@{0}
+Chat/Channel/Map=Карта
+Chat/Channel/Global=Мир
+
+Chat/Guild/PlayerJoined=Игрок {0} вступил в гильдию.
+Chat/Guild/PlayerLeft=Игрок {0} покинул гильдию.
+Chat/Guild/NewLeader=Игрок {0} — новый лидер гильдии!
+Chat/Guild/Invited=Вы были приглашены вступить в гильдию "{0}". Откройте меню гильдии, чтобы принять приглашение.
+Chat/Guild/Created=Гильдия создана.
+Chat/Guild/Left=Вы покинули гильдию.
+Chat/Guild/InviteSent=Приглашение отправлено.
+Chat/Guild/LeadershipTransferred=Лидерство передано.
+Chat/Guild/Welcome=Добро пожаловать в гильдию.
+Chat/Guild/Kicked=Игрок выгнан.
+Chat/Guild/MOTDUpdated=Сообщение дня обновлено.
+
+Chat/CommandError/Invalid=Неверная команда, введите /help, чтобы показать все команды.
+Chat/CommandError/SpaceError=После / не должно быть пробела.
+Chat/CommandError/EmptyMessage=Сообщение не может быть пустым.
+Chat/CommandError/InvalidNumArguments=Неверное количество аргументов.
+Chat/CommandError/VeryInvalidSquadCode=Это не похоже на код команды.
+Chat/CommandError/BlockedPlayerNotFound=Такого игрока нет в вашем чёрном списке.
+Chat/CommandError/NoBlockedPlayers=Вы пока никого не заблокировали.
+# TODO implement different endings here
+Chat/CommandError/BlockListCleared=Все игроки удалены из чёрного списка.
+Chat/CommandError/NotInSquad=Вы не в команде.
+Chat/CommandError/MustHaveFlower=Для этого нужен цветок.
+Chat/CommandError/NoFlowersClose=Рядом с вами нет цветков.
+Chat/CommandError/InvalidValue=Неверное значение.
+Chat/CommandError/InvalidBooleanArgument=Логический аргумент должен быть "y" (да) или "n" (нет).
+Chat/CommandError/InvalidNumberArgument=Числовой аргумент должен быть допустимым числом.
+Chat/CommandError/InvalidMobTypeArgument=Неверный тип моба.
+Chat/CommandError/InvalidMobRarityArgument=Неверная редкость моба.
+Chat/CommandError/InvalidMap=Неверная карта.
+Chat/CommandError/AccountNotLoaded=Аккаунт не загружен.
+Chat/CommandError/TargetEmpty=Цель не может быть пустой.
+Chat/CommandError/TargetSelf=Нельзя выбрать целью себя.
+Chat/CommandError/TargetDisconnected=Цель вышла из сети.
+Chat/CommandError/TargetNotFound=Цель не найдена.
+Chat/CommandError/TargetMustHaveFlower=Цель не имеет цветок.
+Chat/CommandError/InternalError=Внутренняя ошибка.
+Chat/CommandError/InvalidPetalArgument=Неверный ID лепестка.
+Chat/CommandError/InvalidWhisperTarget=Неверная цель.
+Chat/CommandError/WhisperTargetNotFound=Цель не найдена.
+Chat/CommandError/WhisperTargetNotConnected=Цель не в сети или не принимает шёпот.
+Chat/CommandError/WhisperSelf=Вы можете оставить эти мысли в своей голове.
+Chat/CommandError/GuestsCannotSendWhispers=Гости не могут отправлять шёпот.
+Chat/CommandError/GuestsCannotReceiveWhispers=Гости не могут получать шёпот.
+Chat/CommandError/WhispersDisabled=Вы не можете отправлять шёпот, если он отключён в настройках.
+Chat/CommandError/NotInGuild=Вы не состоите в гильдии.
+Chat/CommandError/MustHaveNameToJoinGuild=Вы должны иметь имя, чтобы вступить в гильдию.
+Chat/CommandError/SquadsNotAllowedInThisMode=Команды отключены в этом режиме.
+Chat/CommandError/SquadFull=Ваша команда полная.
+Chat/CommandError/AlreadyInGuild=Вы уже состоите в гильдии.
+Chat/CommandError/MustHaveNameToCreateGuild=Вы должны иметь имя, чтобы создать гильдию.
+Chat/CommandError/MustLevelToCreateGuild=Вы должны быть не ниже {0}-го уровня, чтобы создать гильдию.
+Chat/CommandError/InvalidGuildName=Неверное название гильдии.
+Chat/CommandError/InvalidGuildTag=Неверный тег гильдии.
+Chat/CommandError/GuildTagAlreadyInUse=Такой тег гильдии уже занят.
+Chat/CommandError/GuildCreateFailed=Не удалось создать гильдию.
+Chat/CommandError/CannotLeaveGuildAsLeader=Вы не можете покинуть гильдию, пока вы её лидер, сначала передайте лидерство.
+Chat/CommandError/MustBeLeaderToDoThat=Вы должны быть лидером, чтобы сделать это.
+Chat/CommandError/MustBeLeaderToInvite=Вы должны быть лидером, чтобы приглашать других.
+Chat/CommandError/GuildFull=Гильдия полная.
+Chat/CommandError/PlayerAlreadyInGuild=Игрок уже состоит в гильдии.
+Chat/CommandError/PlayerHasPendingGuildInvite=Этот игрок уже получил приглашение в гильдию.
+Chat/CommandError/GuildInviteExpired=Приглашение уже истекло.
+Chat/CommandError/GuildCannotKickSelf=Вы не можете выгнать себя.
+Chat/CommandError/BothInSquadsAlready=Вы и этот игрок уже находитесь в командах.
+Chat/CommandError/OtherPlayerSquadFull=Команда этого игрока полная.
+Chat/CommandError/SquadIncompatibleLevels=Ваши уровни слишком отличаются, чтобы объединиться в команду.
+
+Chat/Oracle/Idle={#Chat/Oracle/Idle/{!math:{0}:%:41}}
+Chat/Oracle/Idle/0=Я могу видеть будущее
+Chat/Oracle/Idle/1=Мы можем совершить честный обмен
+Chat/Oracle/Idle/2=Если не сейчас, то когда?
+Chat/Oracle/Idle/3=Оракул видит всё
+Chat/Oracle/Idle/4=Пусть это будет всё, что мы видим или представляем
+Chat/Oracle/Idle/5=Так много путей для выбора
+Chat/Oracle/Idle/6=Остерегайся того, чего желаешь
+Chat/Oracle/Idle/7=Можно ли быть действительно уверенным?
+Chat/Oracle/Idle/8=Если это то, чего хочется
+Chat/Oracle/Idle/9=А что если я сделаю?
+Chat/Oracle/Idle/10=А что если я не сделаю?
+Chat/Oracle/Idle/11=Хо-хо! Представь себе такой исход
+Chat/Oracle/Idle/12=Это всегда так
+Chat/Oracle/Idle/13=Это один из возможных вариантов
+Chat/Oracle/Idle/14=Нет никаких гарантий
+Chat/Oracle/Idle/15=Так много судеб
+Chat/Oracle/Idle/16=Истолкуй это!
+Chat/Oracle/Idle/17=Выбирай мудро
+Chat/Oracle/Idle/18=Не бойся совершать
+Chat/Oracle/Idle/19=Соверши! Или не делай этого
+Chat/Oracle/Idle/20=Не обращай на меня внимания
+Chat/Oracle/Idle/21=Я наблюдаю своим маленьким глазом
+Chat/Oracle/Idle/22=Если это не то слово, которое я использую легкомысленно
+Chat/Oracle/Idle/23=Если бы всё было так просто
+Chat/Oracle/Idle/24=Остерегайся лестниц
+Chat/Oracle/Idle/25=Ты погибнешь во время пожара в доме
+Chat/Oracle/Idle/26=Я вижу, как ты умираешь от глубокой старости. Или, может быть, тебя убьёт очень старый человек. То или другое
+Chat/Oracle/Idle/27=Это пророчество заменяет все предыдущие пророчества
+Chat/Oracle/Idle/28=Забудь про все предыдущие пророчества
+Chat/Oracle/Idle/29=Я должен произнести пророчество
+Chat/Oracle/Idle/30=Забудь все мои предыдущие высказывания
+Chat/Oracle/Idle/31=Будь готов к непредвиденным последствиям
+Chat/Oracle/Idle/32=Некоторые судьбы не предопределены
+Chat/Oracle/Idle/33=Похоже, что я страдаю от слепого пятна
+Chat/Oracle/Idle/34=Смутная аномалия, если рассматривать это конкретное будущее. Тревожно
+Chat/Oracle/Idle/35=Судьбу нельзя отвергнуть
+Chat/Oracle/Idle/36=Не любое будущее можно купить
+Chat/Oracle/Idle/37=Цена определённости
+Chat/Oracle/Idle/38=Опять, снова и вновь
+Chat/Oracle/Idle/39=В точности как и планировалось
+Chat/Oracle/Idle/40=Я не могу нести ответственность за все исходы
+
+# When a Super/Unique petal is about to be crafted
+Chat/Oracle/Prediction={#Chat/Oracle/Prediction/{!math:{0}:%:3}}
+Chat/Oracle/Prediction/0=Ах да, пророчество... это должно случиться сейчас в любое мгновение...
+Chat/Oracle/Prediction/1=Это было предсказано, и вот время настало...
+Chat/Oracle/Prediction/2=Я ждал этого момента...
+
+Chat/Oracle/ShopPrediction/No=Будущее слишком туманно для предсказания
+Chat/Oracle/ShopPrediction/Distance0=Это неизбежно
+Chat/Oracle/ShopPrediction/Distance1=Скоро
+Chat/Oracle/ShopPrediction/Distance2=Со временем
+Chat/Oracle/ShopPrediction/Distance3=Возможно, некоторые варианты будущего просто не предопределены
+Chat/Oracle/ShopPrediction/Request=Оракул, оракул, сделай мне предсказание {#Rarities/{0:rarity}/About} {#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}/Prepositional} {#Petals/{0:base}/FullName/Prepositional}
+
+# Target dummy says these 4 lines 1 second apart after getting damaged a lot
+Chat/TargetDummy/Damaged/1=Ай
+Chat/TargetDummy/Damaged/2=То есть
+Chat/TargetDummy/Damaged/3=Бип-буп
+Chat/TargetDummy/Damaged/4=Я робот
+
+Chat/Gambler/Idle={#Chat/Gambler/Idle/{!math:{0}:%:10}}
+Chat/Gambler/Idle/0=Я ЛЮБЛЮ АЗАРТ
+Chat/Gambler/Idle/1=Где столы для блэкджека?
+Chat/Gambler/Idle/2=Где игровые автоматы?
+Chat/Gambler/Idle/3=99% игроков уходят прямо перед крупным выигрышем
+Chat/Gambler/Idle/4=Ещё одну игру...
+Chat/Gambler/Idle/5=ИДУ ВА-БАНК
+Chat/Gambler/Idle/6=Мне повезёт
+Chat/Gambler/Idle/7=На тридцать седьмой раз повезёт
+Chat/Gambler/Idle/8=Всё или ничего?
+Chat/Gambler/Idle/9=Победитель, победитель!
+
+Chat/Titan/Idle={#Chat/Titan/Idle/{!math:{0}:%:8}}
+Chat/Titan/Idle/0=Может существовать только один
+Chat/Titan/Idle/1=Я был молотом при Основании
+Chat/Titan/Idle/2=Что слабо, должно сломаться
+Chat/Titan/Idle/3=Кузница творения пылает всё жарче
+Chat/Titan/Idle/4=Мировой кузнец блуждает
+Chat/Titan/Idle/5=Сформирован в кузнице
+Chat/Titan/Idle/6=По воле Создателя
+Chat/Titan/Idle/7=Я ступаю по земной поверхности
+
+Chat/Trader/Idle={#Chat/Trader/Idle/{!math:{0}:%:3}}
+Chat/Trader/Idle/0=Могу ли я заинтересовать тебя небольшой сделкой?
+Chat/Trader/Idle/1=Я хочу пополнить свою коллекцию...
+Chat/Trader/Idle/2=У меня есть монета, если у тебя есть товар

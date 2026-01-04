@@ -1,0 +1,341 @@
+UI/Language/Name=Русский
+# These are the translators that worked on this translation. Separate with <n/>
+UI/Language/Credits=Max Nest<n/>IOMAN
+
+UI/Title/Loading=Загрузка...
+UI/Title/Connecting=Подключение...
+UI/Title/LoggingIn=Авторизация...
+UI/Title/Ready=Играть
+UI/Title/GuestName=Гость
+UI/Title/GuestLimitation=Вы сможете выбрать имя после привязки аккаунта или достижения {0}-го уровня.
+UI/Title/LockedInHel=Вы застряли в Аду на {0:time:accusative}.
+UI/Title/Name/Title=Этого милого цветка зовут...
+UI/Title/Name/Rules1=Ваше имя может состоять только из английских букв, цифр, символов "{2}" и должно содержать от {0} до {1} символов.
+UI/Title/Name/Rules2=Оно должно включать как минимум {0} буквы или цифры.
+UI/Title/Name/Rules3=Оно не может содержать последовательные символы "{0}".
+UI/Title/Name/Rules4=Это имя постоянное и не может быть изменено позже.
+UI/Title/Name/Button=ОК
+UI/Title/Name/Bad=Ваше имя было сброшено, пожалуйста, выберите новое.
+UI/Title/Name/AlreadyTaken=Имя уже занято.
+UI/Title/Name/InternalError=Внутренняя ошибка, попробуйте позже.
+
+UI/Title/Biome={#UI/Title/Biome/{0}}
+UI/Title/Biome/0=Сад
+UI/Title/Biome/1=Пустыня
+UI/Title/Biome/2=Океан
+UI/Title/Biome/3=Джунгли
+UI/Title/Biome/4=Ад
+
+UI/Login/Title=Аккаунт
+UI/Login/PlayAsGuest=Играть как гость
+UI/Login/SignInApple=Войти с Apple
+UI/Login/SignInDiscord=Войти с Discord
+UI/Login/Logout=Выйти
+UI/Login/AccountID=ID аккаунта:
+UI/Login/Connecting=(подключение)
+UI/Login/GuestName=Гость
+UI/Login/GuestInfo=Если у вас уже есть гостевой аккаунт на этом устройстве,<n/>вход привяжет этот аккаунт и сохранит ваш прогресс.
+UI/Login/LinkInfo=Вы можете привязать свой аккаунт, чтобы<n/>синхронизировать прогресс между устройствами.
+UI/Login/Linked=Привязан
+UI/Login/SupportPIN=ПИН-код поддержки: {0}
+UI/Login/SupportPINHidden=ПИН-код поддержки: (нажмите, чтобы показать)
+UI/Login/SupportPINInstructions1=Сохраните это на случай потери доступа к аккаунту
+UI/Login/SupportPINInstructions2=Никому не сообщайте свой ПИН-код поддержки
+UI/Login/Reminder=Привяжите аккаунт, чтобы сохранить прогресс
+UI/Login/SupportWebsite=В случае потери доступа к аккаунту, пожалуйста, посетите:
+
+UI/Social/Discord=Присоединяйтесь к нашему сообществу Discord!
+UI/Social/QQ=加入我们的QQ群!
+
+UI/AbandonGame=Покинуть игру
+UI/Reconnecting=Соединение потеряно, переподключение...
+
+UI/LevelBar/Level=Уровень {0}
+UI/LevelBar/LevelLong=Цветок {0}-го Уровня
+UI/LevelBar/XP={0}/{1} опыта
+UI/LevelBar/LevelAndXP=Уровень {0} — {1}/{2} опыта
+UI/LevelBar/NextLevelTP=След. уровень: +{0} ОТ
+
+UI/Scoreboard/Title=Цветков: {0}
+UI/Scoreboard/HiddenName=Игрок #{0}
+
+UI/Chat/PromptTap=Нажмите сюда для чата
+UI/Chat/PromptClick=Щёлкните сюда для чата
+UI/Chat/PromptKeyboardOrClick=Нажмите [ENTER] или щёлкните сюда для чата
+UI/Chat/Player/Block=Заблокировать
+UI/Chat/Player/ReportMessage=Пожаловаться
+UI/Chat/Player/Whisper=Нашептать
+UI/Chat/Player/InviteToSquad=Пригласить в Команду
+UI/Chat/Player/InviteToGuild=Пригласить в Гильдию
+
+UI/Flower/Level=Ур. {0}
+
+# When you evade damage
+UI/Damage/Evade=Уклонение
+
+# When the target evades damage
+UI/Damage/Miss=Промах
+
+UI/Dummy/Last=Последний: {0:tooltip}
+UI/Dummy/Total=Сумма: {0:tooltip}
+UI/Dummy/DPS=Урон/с: {0:tooltip}
+
+UI/Death/Title=Ваш убийца:
+UI/Death/NoSource=Таинственная сущность
+UI/Death/Continue=Продолжить
+UI/Death/Revive=Возродиться
+UI/Death/Close=Закрыть
+UI/Death/CollectedThisRun=Собрано за эту игру
+UI/Death/RevivingSoon=Скоро вы будете возрождены.
+
+UI/AFKCheck/Title=Проверка на AFK
+UI/AFKCheck/Instructions=Перетащите круг до конца
+UI/AFKCheck/Flap/Instructions=Долетите до конца
+
+UI/Achievements/Title=Достижения
+UI/Achievements/Reward=Награда
+UI/Achievements/RewardTP={0} ОТ
+UI/Achievements/Done=Готово
+UI/Achievements/Track=Закрепить
+UI/Achievements/TrackAutomatically=Закреплять автоматически
+UI/Achievements/Hidden=???
+UI/Achievements/TotalProgress={0}/{1} выполнено
+UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
+UI/Achievements/UnlockedNotification/1=Достижение получено
+UI/Achievements/UnlockedNotification/N=Достижения получены
+
+UI/MobGallery/Title=Галерея Мобов
+
+UI/Changelog/Title=Список Изменений
+UI/Changelog/Bottom=Более ранние записи недоступны
+
+UI/Inventory/Title=Инвентарь
+UI/Inventory/Stack=Сложить
+UI/Inventory/Instructions=Перетащите лепесток, чтобы надеть его
+UI/Inventory/Speed=Скор.
+UI/Inventory/Rarity={#Rarities/{0:rarity}/Name/Plural}
+
+UI/Guild/Title=Гильдия
+UI/Guild/NoGuild=Вы ещё не состоите в гильдии
+UI/Guild/Invite=Вы были приглашены в:
+UI/Guild/Invite/Button=Принять
+UI/Guild/Invite/Expiration=Это приглашение скоро истечёт, если не будет принято
+UI/Guild/ChatSetting=Чат
+UI/Guild/SquadButton=Команда
+UI/Guild/KickButton=Выгнать
+UI/Guild/Leader=(Лидер)
+UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
+UI/Guild/Members/1=Участник (1)
+UI/Guild/Members/N=Участники ({0})
+UI/Guild/LeaveButton=Покинуть
+UI/Guild/Leave/Title=Покинуть гильдию
+UI/Guild/Leave/Instructions=Вы уверены?
+UI/Guild/Leave/Confirm=Покинуть
+UI/Guild/Leave/Cancel=Отмена
+
+UI/Squad/Title=Команда
+UI/Squad/Invited1=Приглашение в Команду
+UI/Squad/Invited2=От игрока {0}
+UI/Squad/Invited/Join=Зайти
+UI/Squad/Invited/Ignore=Скрыть
+
+UI/Shop/Title=Магазин
+UI/Shop/Button=Магазин
+UI/Shop/Instructions=Сегодняшние предложения:
+UI/Shop/TimeLeft=Магазин обновится через {0:time:accusative}
+UI/Shop/Lock=Зафиксировать
+UI/Shop/LockedChanged=Магазин обновится после снятия фиксации.
+UI/Shop/LockedNoChange=Магазин не будет обновляться, пока зафиксирован.
+UI/Shop/StarsHelp1=Вы получаете звёзды за прохождение испытаний,
+UI/Shop/StarsHelp2=также вы можете купить их, нажав на число справа.
+UI/Shop/MustLink1=Чтобы совершать покупки, вам необходимо сначала
+UI/Shop/MustLink2=привязать свой аккаунт к Discord или Apple.
+UI/Shop/MustLinkCancel=Отмена
+UI/Shop/BuyStars/Instructions=В случае каких-либо проблем с покупкой,<n/>свяжитесь с нашим платёжным процессором:<n/>support@xsolla.com или чат на сайте xsolla.com.
+UI/Shop/BuyStars/Extra=У меня слишком много денег
+UI/Shop/BuyStars/Cancel=Отмена
+UI/Shop/BuyPetal/Title=Подтверждение
+UI/Shop/BuyPetal/Instructions=Вы уверены, что хотите купить это?<n/><c val="{#Colors/danger}">Купленные лепестки возврату не подлежат</c>
+UI/Shop/BuyPetal/Cancel=Отмена
+UI/Shop/MagicPetalError/Title=Ошибка
+UI/Shop/MagicPetalError/Instructions=Вы не можете купить волшебные лепестки,<n/>пока у вас нет {#Petals/{0}/FullName/Genitive}.
+UI/Shop/MagicPetalError/Cancel=Отмена
+UI/Shop/Loyalty/Title=Спасибо!
+UI/Shop/Loyalty/Instructions=В благодарность за вашу поддержку<n/>мы хотим подарить вам немного звёзд.<n/><n/>Это эквивалентно тому, что вы бы получили, потратив<n/>ту же сумму денег на более дорогие предложения.
+UI/Shop/Price/USD={0} $
+
+UI/Banned/Title=АККАУНТ ЗАБЛОКИРОВАН
+UI/Banned/Instructions=Ваш аккаунт был заблокирован.
+UI/Banned/TimeLeft=Блокировка будет снята через {0:time:accusative}.
+UI/Banned/Permanent=Блокировка бессрочна.
+UI/Banned/Account=ID аккаунта: {0}
+
+UI/DailyChallenge/Title=Испытания
+UI/DailyChallenge/Button=Испытания
+UI/DailyChallenge/Instructions=Одолейте этих врагов:
+UI/DailyChallenge/TimeLeft=Испытания обновятся через {0:time:accusative}
+UI/DailyChallenge/Claimed=Получено
+UI/DailyChallenge/SupportersOnly=Испытание доступно<n/>только поддержавшим.
+
+UI/Bonus/Title=Бонус
+UI/Bonus/Button=Бонус
+UI/Bonus/Instructions=Получайте бонусные выпадения лепестков
+UI/Bonus/Instructions2=За первый час игры каждый день вы получаете дополнительные лепестки.
+UI/Bonus/Pill/Label={0}x
+UI/Bonus/Delay=Вы сможете снова активировать бонус через {0:time:accusative}.
+UI/Bonus/CurrentlyActive=Ваш бонус активен в течение {0:time:genitive}.
+UI/Bonus/Available=Вы можете активировать свой бонус сейчас. Он будет длиться {0:time:accusative}.
+UI/Bonus/AvailableExpiration=Если вы не активируете свой бонус, он будет сброшен через {0:time:accusative}.
+UI/Bonus/AutoDelay=Ваш бонус будет активирован снова через {0:time:accusative}.
+UI/Bonus/Activate=Активировать
+UI/Bonus/Activate/Setting=Активировать автоматически
+
+UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/SortName={#Petals/{0:base}/Name}
+UI/Petal/FullName={#Petals/{0:base}/FullName}
+UI/Petal/Description={#Petals/{0:base}/Description}
+UI/Petal/Rarity={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}}
+UI/Petal/Reload1={0}с
+UI/Petal/Reload2={0}с + {1}с
+
+UI/Mob/Name={#Mobs/{0:base}/Name}
+UI/Mob/SortName={#Mobs/{0:base}/Name}
+UI/Mob/Description={#Mobs/{0:base}/Description}
+UI/Mob/Rarity={#Rarities/{0:rarity}/Name/{#Mobs/{0:base}/Gender}}
+UI/Mob/Summon=Питомец
+
+UI/Map/Name={#Maps/{0}/Name}
+UI/Map/Changing={#Maps/{0}/Changing#UI/Map/Changing/generic}
+UI/Map/Changing/generic=Что-то происходит...
+UI/Map/Instance=(экземпляр)
+
+UI/Achievements/Name={#Achievements/{0}/Name:1-}
+UI/Achievements/SortName={#Achievements/{0}/Name:1-}
+UI/Achievements/Description={#Achievements/{0}/Description:1-}
+UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#Rarities/{0:rarity}/Name/Plural}
+
+UI/Talent/Title=Таланты
+UI/Talent/Name={#Talents/{0}/Name:1-}
+UI/Talent/Description={#Talents/{0}/Description:1-}
+UI/Talent/Rarity={#Rarities/{1}/Name/{#Talents/{0}/Gender}}
+UI/Talent/TP=ОТ
+UI/Talent/Tooltip=ОТ можно получить за повышение уровня или выполнение достижений
+UI/Talent/Reset=Сбросить
+UI/Talent/HoldToUpgrade=УДЕРЖИВАЙТЕ для улучшения
+UI/Talent/HoldToRemove=УДЕРЖИВАЙТЕ для снятия
+
+UI/Craft/Title=Крафт
+UI/Craft/Button=Скрафтить
+UI/Craft/Chance=Шанс успеха: {0:perc}%
+UI/Craft/UnknownChance=Шанс успеха: ?%
+UI/Craft/CombineInstructions=Объедините {0} одинаковых лепестков для крафта улучшенного лепестка
+UI/Craft/FailureInstructions=В случае неудачи от {0} до {1} лепестков будут разрушены
+
+UI/Absorb/Title=Поглощение
+UI/Absorb/Button=Поглотить
+UI/Absorb/Instructions=Поглощайте лепестки для получения опыта<n/>Кристаллу потребуется время для перезарядки после использования.<n/><c val="{#Colors/danger}">ВНИМАНИЕ: Поглощённые лепестки будут разрушены</c>
+UI/Absorb/Crystal/Title=Энергия Кристалла
+UI/Absorb/Crystal/1={0:perc}%
+UI/Absorb/Crystal/2=+{0:perc}%/час
+
+UI/CoinCraft/Title=Торговля
+UI/CoinCraft/Button=Обменять
+UI/CoinCraft/Instructions=Вы можете обменять лепесток на монету той же редкости
+UI/CoinCraft/Delay=Вы сможете торговать снова через {0:time:accusative}
+
+UI/OracleCraft/Title=Оракул
+UI/OracleCraft/Button=Скрафтить
+UI/OracleCraft/Instructions=Оракул гарантирует крафт... за надлежащую цену.
+UI/OracleCraft/Delay=Вы сможете крафтить снова через {0:time:accusative}
+
+UI/Plinko/Title=Плинко
+UI/Plinko/Auto=Авто
+
+UI/UniqueCraft/Title=Кузница
+UI/UniqueCraft/Button=Сковать
+UI/UniqueCraft/Instructions=Уникальные лепестки останутся у вас до тех пор, пока другой игрок не скуёт такой же лепесток.<n/>Когда это произойдёт, вы получите свои Супер лепестки обратно,<n/>но один из них будет безвозвратно уничтожен.
+UI/UniqueCraft/NoSupers=У вас нет Супер лепестков, чтобы попробовать это.
+UI/UniqueCraft/Cooldown=Нельзя сковать снова в течение {0:time:genitive}.
+UI/UniqueCraft/OwnerNamed="Ах, помнится, я сковал этот лепесток для цветка по имени {0}..."
+UI/UniqueCraft/OwnerUnnamed="Ах, помнится, я сковал этот лепесток... Не могу вспомнить его имя..."
+
+UI/AssemblerCraft/Title=Сборка
+UI/AssemblerCraft/Button=Собрать
+UI/AssemblerCraft/Instructions=Объедините определённые лепестки для сборки нового лепестка.
+
+UI/Death/Poison=Яд
+
+UI/Luck/Help=Удача используется определёнными лепестками для изменения их характеристик.<n/>Удача также увеличивает редкость мобов, появляющихся вокруг вас.
+
+UI/Settings/Title=Настройки
+UI/Settings/Game=Игра
+UI/Settings/Graphics=Графика
+UI/Settings/Controls=Управл.
+UI/Settings/Credits=Авторы
+
+UI/Settings/Language=Язык
+UI/Settings/Language/Warning=ВАЖНО: изменение будет применено после перезапуска игры
+UI/Settings/Language/Automatic=Автоматически
+
+UI/Settings/Realm=Регион
+UI/Settings/Realms={#UI/Settings/Realms/{0}}
+UI/Settings/Realms/0=Автоматически
+UI/Settings/Realms/1=Juliett (США)
+UI/Settings/Realms/2=Romeo (Европа)
+UI/Settings/Realms/3=Sierra (Азия)
+
+UI/Settings/Chat=Чат
+UI/Settings/ChatWhispers=Шёпот в чате
+
+UI/Settings/AutoJoinSquads=Заходить в публичные команды
+UI/Settings/ReceiveSquadInvites=Получать приглашения в команду
+
+UI/Settings/HideOtherPetals=Скрыть чужие лепестки
+
+UI/Settings/EquipDrops=Надевать подобранные лепестки
+
+UI/Settings/Quality=Качество
+UI/Settings/Quality/Low=Низкое
+UI/Settings/Quality/Medium=Среднее
+UI/Settings/Quality/High=Высокое
+
+UI/Settings/ShowDamageNumbers=Показывать числа урона
+
+UI/Settings/ScreenShake=Тряска экрана
+
+UI/Settings/LiveIcons=Анимированные иконки
+
+UI/Settings/TouchControls=Сенсорное управление
+
+UI/Settings/KeyboardMovement=Клавиатурное управление
+
+UI/Settings/MovementHelper=Помощник управления
+
+UI/Settings/AutoSearchPetals=Поиск лепестков при открытии инвентаря
+
+UI/Settings/FixedJoystick=Фиксированный джойстик
+
+UI/Settings/InvertAttack=Инвертировать кнопку атаки
+UI/Settings/InvertDefend=Инвертировать кнопку защиты
+
+UI/Settings/AutoSaveLoadout=Автосохранение снаряжения
+UI/Settings/AutoSaveLoadout/Help=Если выкл., нажм. [O] для сохранения снаряжения
+
+UI/Settings/Fullscreen=Полный экран
+
+UI/Settings/PrivacyPolicy=Политика Конфиденциальности
+UI/Settings/TermsOfService=Условия Использования
+
+UI/Credits/MadeBy=Игру создал {0}
+UI/Credits/SomeIcons=Некоторые иконки с {0}
+UI/Credits/SomeTiles=Некоторые тайлы с {0}
+UI/Credits/SpecialThanks=Отдельное Спасибо
+UI/Credits/Translators=Переводчики
+
+# The little arrows around dead flowers
+UI/HelperText/Guild=Гильдия
+UI/HelperText/Squad=Команда
+UI/HelperText/You=Вы
+
+UI/ChromeBug=В используемой вами версии Chrome есть серьёзная проблема с производительностью.<n/>Пока она не исправлена, для комфортной игры, пожалуйста, используйте<n/>Google Chrome Canary, где эта проблема уже устранена.

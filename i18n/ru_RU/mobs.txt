@@ -1,0 +1,362 @@
+Mobs/rock/Name=Камень
+Mobs/rock/Description=Просто камень. Он мало что делает.
+Mobs/rock/Spawn=Вдали появляется что-то похожее на гору...
+Mobs/rock/Gender=Male
+
+Mobs/cactus/Name=Кактус
+Mobs/cactus/Description=Лучше не трогать его, а то будет больно.
+Mobs/cactus/Spawn=Из песков поднимается шипастая башня...
+Mobs/cactus/Gender=Male
+
+Mobs/ladybug/Name=Божья Коровка
+Mobs/ladybug/Description=Милая и безобидная.
+Mobs/ladybug/Gender=Female
+
+Mobs/bee/Name=Пчела
+Mobs/bee/Description=Она жалит. Не трогай её.
+Mobs/bee/Gender=Female
+
+Mobs/ant_baby/Name=Муравей-Детёныш
+Mobs/ant_baby/Description=Слабый и беззащитный, но с большими мечтами.
+Mobs/ant_baby/Gender=Male
+
+Mobs/ant_worker/Name=Муравей-Рабочий
+Mobs/ant_worker/Description=Он слегка темпераментный, наверное, из-за того, что постоянно работает.
+Mobs/ant_worker/Gender=Male
+
+Mobs/ant_soldier/Name=Муравей-Солдат
+Mobs/ant_soldier/Name/4=Муравья-Солдата
+Mobs/ant_soldier/Name/5=Муравьёв-Солдат
+Mobs/ant_soldier/Name/6={#Mobs/ant_soldier/Name/5}
+Mobs/ant_soldier/Name/7={#Mobs/ant_soldier/Name/5}
+Mobs/ant_soldier/Description=У него есть крылья, и он готов их использовать.
+Mobs/ant_soldier/Gender=Male
+
+Mobs/ant_queen/Name=Королева Муравьёв
+Mobs/ant_queen/Description=Ты, должно быть, сделал что-то очень плохое, если она гонится за тобой.
+Mobs/ant_queen/Gender=Female
+
+Mobs/ant_hole/Name=Муравейник
+Mobs/ant_hole/Name/Accusative=Муравейник
+Mobs/ant_hole/Name/Plural/Genitive=Муравейников
+Mobs/ant_hole/Description=Муравьи заходят и выходят. Не могу это объяснить.
+Mobs/ant_hole/Gender=Male
+
+Mobs/beetle/Name=Жук
+Mobs/beetle/Name/2=Жука
+Mobs/beetle/Description=Он голоден, а цветки — его любимая еда.
+Mobs/beetle/Gender=Male
+
+Mobs/hornet/Name=Шершень
+Mobs/hornet/Description=Они не так хороши, как маленькие пчёлки.
+Mobs/hornet/Spawn=Вдали виднеется большое жёлтое пятно...
+Mobs/hornet/Gender=Male
+
+Mobs/centipede/Name=Многоножка
+Mobs/centipede/Description=Она просто делает свои дела.
+Mobs/centipede/Gender=Female
+
+Mobs/centipede_body/Name=Многоножка
+Mobs/centipede_body/Description=Она просто делает свои дела.
+Mobs/centipede_body/Gender=Female
+
+Mobs/centipede_evil/Name=Многоножка
+Mobs/centipede_evil/Description=А эта любит цветки.
+Mobs/centipede_evil/Gender=Female
+
+Mobs/centipede_evil_body/Name=Многоножка
+Mobs/centipede_evil_body/Description=А эта любит цветки.
+Mobs/centipede_evil_body/Gender=Female
+
+Mobs/centipede_desert/Name=Многоножка
+Mobs/centipede_desert/Description=Надо бежать быстро.
+Mobs/centipede_desert/Gender=Female
+
+Mobs/centipede_desert_body/Name=Многоножка
+Mobs/centipede_desert_body/Description=Надо идти быстро.
+Mobs/centipede_desert_body/Gender=Female
+
+Mobs/square/Name=Квадрат
+Mobs/square/Description=Эта фигура... выглядит знакомо...
+Mobs/square/Gender=Male
+
+Mobs/ladybug_dark/Name=Божья Коровка
+Mobs/ladybug_dark/Description=Милая и безобидная... если не провоцировать.
+Mobs/ladybug_dark/Gender=Female
+
+Mobs/ladybug_shiny/Name=Божья Коровка
+Mobs/ladybug_shiny/Description=Солнечная, милая и в основном безобидная.
+Mobs/ladybug_shiny/Gender=Female
+
+Mobs/spider/Name=Паук
+Mobs/spider/Description=Жуть.
+Mobs/spider/Gender=Male
+
+Mobs/scorpion/Name=Скорпион
+Mobs/scorpion/Description=ОН ЖАЛИТ!
+Mobs/scorpion/Gender=Male
+
+Mobs/fire_ant_soldier/Name=Огненный Муравей-Солдат
+Mobs/fire_ant_soldier/Description=Этот муравей гориииииииииииииит.
+Mobs/fire_ant_soldier/Gender=Male
+
+Mobs/fire_ant_burrow/Name=Огненный Муравейник
+Mobs/fire_ant_burrow/Name/Accusative=Огненный Муравейник
+Mobs/fire_ant_burrow/Name/Plural/Genitive=Огненных Муравейников
+Mobs/fire_ant_burrow/Description=Что здесь может быть?
+Mobs/fire_ant_burrow/Gender=Male
+
+Mobs/sandstorm/Name=Песчаная Буря
+Mobs/sandstorm/Name/Accusative=Песчаную Бурю
+Mobs/sandstorm/Name/Accusative/2=Песчаные Бури
+Mobs/sandstorm/Name/Accusative/4={#Mobs/sandstorm/Name/Accusative/2}
+Mobs/sandstorm/Description=Даруд (1999)
+Mobs/sandstorm/Gender=Female
+
+Mobs/bubble/Name=Пузырь
+Mobs/bubble/Description=Буль
+Mobs/bubble/Gender=Male
+
+Mobs/bumble_bee/Name=Шмель
+Mobs/bumble_bee/Description=НАДО БЕЖАТЬ.
+Mobs/bumble_bee/Gender=Male
+
+Mobs/shell/Name=Ракушка
+Mobs/shell/Description=Не реклама.
+Mobs/shell/Gender=Female
+
+Mobs/starfish/Name=Морская Звезда
+Mobs/starfish/Description=Его зовут Патрик.
+Mobs/starfish/Gender=Female
+
+Mobs/crab/Name=Краб
+Mobs/crab/Description=Мистер Краб.
+Mobs/crab/Gender=Male
+
+Mobs/jellyfish/Name=Медуза
+Mobs/jellyfish/Description=Делает самое вкусное желе.
+Mobs/jellyfish/Spawn=Ты слышишь удары молнии, доносящиеся издалека...
+Mobs/jellyfish/Gender=Female
+
+Mobs/digger/Name=Копатель
+Mobs/digger/Description=Не та игра, дружище.
+Mobs/digger/Gender=Male
+
+Mobs/sponge/Name=Губка
+Mobs/sponge/Description=Боб.
+Mobs/sponge/Gender=Female
+
+Mobs/leech/Name=Пиявка
+Mobs/leech/Description=Хлюп-хлюп.
+Mobs/leech/Gender=Female
+
+Mobs/leech_body/Name=Пиявка
+Mobs/leech_body/Description=Хлюп-хлюп.
+Mobs/leech_body/Gender=Female
+
+Mobs/dandelion/Name=Одуванчик
+Mobs/dandelion/Description=Пухлый.
+Mobs/dandelion/Gender=Male
+
+Mobs/fire_ant_baby/Name=Огненный Муравей-Детёныш
+Mobs/fire_ant_baby/Description=Этот муравей гориииииииииииииит.
+Mobs/fire_ant_baby/Gender=Male
+
+Mobs/fire_ant_worker/Name=Огненный Муравей-Рабочий
+Mobs/fire_ant_worker/Description=Этот муравей гориииииииииииииит.
+Mobs/fire_ant_worker/Gender=Male
+
+Mobs/fire_ant_queen/Name=Королева Огненных Муравьёв
+Mobs/fire_ant_queen/Description=Этот муравей гориииииииииииииит.
+Mobs/fire_ant_queen/Gender=Female
+
+Mobs/ant_egg/Name=Яйцо Муравья
+Mobs/ant_egg/Description=Ещё не муравей, но, наверное, скоро.
+Mobs/ant_egg/Gender=Neuter
+
+Mobs/fire_ant_egg/Name=Яйцо Огненного Муравья
+Mobs/fire_ant_egg/Description=Этот муравей ещё не горит.
+Mobs/fire_ant_egg/Gender=Neuter
+
+Mobs/fly/Name=Муха
+Mobs/fly/Description=Бзззззззззззз.
+Mobs/fly/Gender=Female
+
+Mobs/leafbug/Name=Листовидка
+Mobs/leafbug/Description=Это не лист, а насекомое.
+Mobs/leafbug/Gender=Female
+
+Mobs/mantis/Name=Богомол
+Mobs/mantis/Description=Тебе лучше молиться, чтобы не стать обедом.
+Mobs/mantis/Gender=Male
+
+Mobs/termite_baby/Name=Термит-Детёныш
+Mobs/termite_baby/Description=Слабый и беззащитный, но с большими мечтами.<n/>Кажется, эти существа как-то связаны между собой.
+Mobs/termite_baby/Gender=Male
+
+Mobs/termite_worker/Name=Термит-Рабочий
+Mobs/termite_worker/Description=Он слегка темпераментный, наверное, из-за того, что постоянно работает.<n/>Кажется, эти существа как-то связаны между собой.
+Mobs/termite_worker/Gender=Male
+
+Mobs/termite_soldier/Name=Термит-Солдат
+Mobs/termite_soldier/Description=У него есть крылья, и он готов их использовать.<n/>Кажется, эти существа как-то связаны между собой.
+Mobs/termite_soldier/Gender=Male
+
+Mobs/termite_overmind/Name=Сверхразум Термитов
+Mobs/termite_overmind/Description=Тот, кто наблюдает за всем.
+Mobs/termite_overmind/Gender=Male
+
+Mobs/termite_mound/Name=Термитник
+Mobs/termite_mound/Name/Accusative=Термитник
+Mobs/termite_mound/Name/Plural/Genitive=Термитников
+Mobs/termite_mound/Description=Термиты заходят и выходят. Не могу это объяснить.
+Mobs/termite_mound/Gender=Male
+
+Mobs/termite_egg/Name=Яйцо Термита
+Mobs/termite_egg/Description=Ещё не термит, но, наверное, скоро.
+Mobs/termite_egg/Gender=Neuter
+
+Mobs/bush/Name=Куст
+Mobs/bush/Description=Не недооценивай меня.
+Mobs/bush/Gender=Male
+
+Mobs/roach/Name=Таракан
+Mobs/roach/Description=Надо идти БЫСТРО... пока они не устанут.
+Mobs/roach/Gender=Male
+
+Mobs/moth/Name=Моль
+Mobs/moth/Description=Легко испугать, будь хорошим.
+Mobs/moth/Gender=Female
+
+Mobs/firefly/Name=Светлячок
+Mobs/firefly/Description=Ооооо, сияет.
+Mobs/firefly/Spawn=На горизонте виден яркий свет...
+Mobs/firefly/Gender=Male
+
+Mobs/beetle_hel/Name=Жук
+Mobs/beetle_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/beetle_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
+Mobs/beetle_hel/Gender=Male
+
+Mobs/wasp/Name=Оса
+Mobs/wasp/Description=Они ЗЛЫЕ.
+Mobs/wasp/Gender=Female
+
+Mobs/dummy/Name=Манекен-Мишень
+Mobs/dummy/Name/Genitive=Манекена-Мишени
+Mobs/dummy/Description=Как это оказалось в твоей галерее?
+Mobs/dummy/Gender=Male
+
+Mobs/spider_hel/Name=Паук
+Mobs/spider_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/spider_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
+Mobs/spider_hel/Gender=Male
+
+Mobs/centipede_hel/Name=Многоножка
+Mobs/centipede_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/centipede_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
+Mobs/centipede_hel/Gender=Female
+
+Mobs/centipede_hel_body/Name=Многоножка
+Mobs/centipede_hel_body/Description=Наказание, порождаемое в другом измерении.
+Mobs/centipede_hel_body/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
+Mobs/centipede_hel_body/Gender=Female
+
+Mobs/wasp_hel/Name=Оса
+Mobs/wasp_hel/Description=Наказание, порождаемое в другом измерении.
+Mobs/wasp_hel/Spawn=Ты чувствуешь зловещие вибрации, исходящие из другого мира...
+Mobs/wasp_hel/Gender=Female
+
+Mobs/trader/Name=Торговец
+Mobs/trader/Description= 
+Mobs/trader/Gender=Male
+
+Mobs/gambler/Name=Азартник
+Mobs/gambler/Description=Это может произойти с ТОБОЙ.
+Mobs/gambler/Spawn=Ты слышишь чей-то слабый шёпот... "ещё... одну игру..."
+Mobs/gambler/Gender=Male
+
+Mobs/oracle/Name=Оракул
+Mobs/oracle/Description= 
+Mobs/oracle/Gender=Male
+
+Mobs/firefly_magic/Name=Светлячок
+Mobs/firefly_magic/Description=В этом есть что-то волшебное.
+Mobs/firefly_magic/Gender=Male
+
+Mobs/titan/Name=Титан
+Mobs/titan/Description= 
+Mobs/titan/Gender=Male
+
+Mobs/beetle_nazar/Name=Жук
+Mobs/beetle_nazar/Description=У этого другой узор... что это значит?
+Mobs/beetle_nazar/Gender=Male
+
+Mobs/worm/Name=Червь
+Mobs/worm/Description=Обычно они едят землю, но этот ест цветки.
+Mobs/worm/Gender=Male
+
+Mobs/worm_guts/Name=Кишки червя
+Mobs/worm_guts/Description=Ты не должен видеть этот текст. Я звоню в полицию.
+Mobs/worm_guts/Gender=Plural
+
+Mobs/mecha_flower/Name=Меха-Цветок
+Mobs/mecha_flower/Description=Кто-то делал эти механические цветки... Что бы это могло значить?
+Mobs/mecha_flower/Gender=Male
+
+Mobs/wasp_mecha/Name=Оса
+Mobs/wasp_mecha/Description=Они МЕХА-ЗЛЫЕ.
+Mobs/wasp_mecha/Gender=Female
+
+Mobs/spider_mecha/Name=Паук
+Mobs/spider_mecha/Description=Меха-Жуть.
+Mobs/spider_mecha/Gender=Male
+
+Mobs/leafbug_shiny/Name=Листовидка
+Mobs/leafbug_shiny/Description=У неё особенный цвет...
+Mobs/leafbug_shiny/Gender=Female
+
+Mobs/crab_mecha/Name=Краб
+Mobs/crab_mecha/Description=Доктор Краб.
+Mobs/crab_mecha/Gender=Male
+
+Mobs/assembler/Name=Сборщик
+Mobs/assembler/Description= 
+Mobs/assembler/Gender=Male
+
+Mobs/barrel/Name=Бочка
+Mobs/barrel/Description=Ни в коем случае не давайте этой штуке пролиться.<n/>Мы не можем рисковать ещё одним насекомым-мутантом в этом месяце.
+Mobs/barrel/Gender=Female
+
+Mobs/beetle_mummy/Name=Жук
+Mobs/beetle_mummy/Name/Accusative=Жука
+Mobs/beetle_mummy/Description=Кажется, этот не должен быть живым...
+Mobs/beetle_mummy/Gender=Male
+
+Mobs/beetle_pharaoh/Name=Жук
+Mobs/beetle_pharaoh/Description=Эта штука на его голове выглядит ценной... Мы должны украсть её.
+Mobs/beetle_pharaoh/Gender=Male
+
+Mobs/tomb/Name=Гробница
+Mobs/tomb/Description=Хмм, что здесь может быть?
+Mobs/tomb/Gender=Female
+
+Mobs/silverfish/Name=Чешуйница
+Mobs/silverfish/Description=Эти надоедливые букашки, которые поедают одежду.<n/>А ещё они любят мусор.
+Mobs/silverfish/Gender=Female
+
+Mobs/garbage/Name=Мусор
+Mobs/garbage/Description=Чьё-то сокровище...
+Mobs/garbage/Gender=Male
+
+Mobs/ant_soldier_diver/Name=Муравей-Солдат
+Mobs/ant_soldier_diver/Description=Как они оказались здесь?
+Mobs/ant_soldier_diver/Gender=Male
+
+Mobs/ghost/Name=Призрак
+Mobs/ghost/Description=Измученная душа, освободить её — это лучшее, что можно для неё сделать.
+Mobs/ghost/Gender=Male
+
+Mobs/crystal/Name=Кристалл
+Mobs/crystal/Description= 
+Mobs/crystal/Gender=Male

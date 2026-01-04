@@ -1,0 +1,350 @@
+Mobs/none/Gender=Male
+
+Mobs/rock/Name=Pedra
+Mobs/rock/Description=Uma pedra, não faz muitas coisas.
+Mobs/rock/Spawn=Algo parecido como uma montanha aparece na distância...
+Mobs/rock/Gender=Female
+
+Mobs/cactus/Name=Cacto
+Mobs/cactus/Description=Evite tocar, dói muito.
+Mobs/cactus/Spawn=Uma torre de espinhos emerge da areia...
+Mobs/cactus/Gender=Male
+
+Mobs/ladybug/Name=Joaninha
+Mobs/ladybug/Description=Fofa e inofensiva.
+Mobs/ladybug/Gender=Female
+
+Mobs/bee/Name=Abelha
+Mobs/bee/Description=Ela pica. Não toque.
+Mobs/bee/Gender=Female
+
+Mobs/ant_baby/Name=Formiga Bebê
+Mobs/ant_baby/Description=Fraca e indefesa, mas possui grandes sonhos.
+Mobs/ant_baby/Gender=Female
+
+Mobs/ant_worker/Name=Formiga Operária
+Mobs/ant_worker/Description=É um pouco temperamental, provavelmente devido a trabalhar toda hora.
+Mobs/ant_worker/Gender=Female
+
+Mobs/ant_soldier/Name=Formiga Soldado
+Mobs/ant_soldier/Description=Ela possui asas, e está pronta para usá-las.
+Mobs/ant_soldier/Gender=Female
+
+Mobs/ant_queen/Name=Formiga Rainha
+Mobs/ant_queen/Description=Você deve ter feito algo realmente ruim para ela estar te perseguindo.
+Mobs/ant_queen/Gender=Female
+
+Mobs/ant_hole/Name=Formigueiro
+Mobs/ant_hole/Description=Formigas entram e saem, não há como explicar.
+Mobs/ant_hole/Gender=Male
+
+Mobs/beetle/Name=Besouro
+Mobs/beetle/Description=Está faminto e flores são sua comida preferida.
+Mobs/beetle/Gender=Male
+
+Mobs/hornet/Name=Vespa
+Mobs/hornet/Description=Esses não são legais como as pequenas abelhas.
+Mobs/hornet/Spawn=Um grande ponto amarelo surge a uma longa distância
+Mobs/hornet/Gender=Female
+
+Mobs/centipede/Name=Centopeia
+Mobs/centipede/Description=Está apenas ali fazendo suas coisas.
+Mobs/centipede/Gender=Female
+
+Mobs/centipede_body/Name=Centopeia
+Mobs/centipede_body/Description=Está apenas ali fazendo suas coisas.
+Mobs/centipede_body/Gender=Female
+
+Mobs/centipede_evil/Name=Centopeia
+Mobs/centipede_evil/Description=Essa aqui ama flores.
+Mobs/centipede_evil/Gender=Female
+
+Mobs/centipede_evil_body/Name=Centopeia
+Mobs/centipede_evil_body/Description=Essa aqui ama flores.
+Mobs/centipede_evil_body/Gender=Female
+
+Mobs/centipede_desert/Name=Centopeia
+Mobs/centipede_desert/Description=Tenho que ir rápido.
+Mobs/centipede_desert/Gender=Female
+
+Mobs/centipede_desert_body/Name=Centopeia
+Mobs/centipede_desert_body/Description=Tenho que ir rápido.
+Mobs/centipede_desert_body/Gender=Female
+
+Mobs/square/Name=Quadrado
+Mobs/square/Description=Essa forma... parece familiar...
+Mobs/square/Gender=Male
+
+Mobs/ladybug_dark/Name=Joaninha
+Mobs/ladybug_dark/Description=Fofa e inofensiva... se não ser provocada.
+Mobs/ladybug_dark/Gender=Female
+
+Mobs/ladybug_shiny/Name=Joaninha
+Mobs/ladybug_shiny/Description=Brilhantes, fofas e praticamente inofensivas.
+Mobs/ladybug_shiny/Gender=Female
+
+Mobs/spider/Name=Aranha
+Mobs/spider/Description=Assustador.
+Mobs/spider/Gender=Female
+
+Mobs/scorpion/Name=Escorpião
+Mobs/scorpion/Description=ELE PICA!
+Mobs/scorpion/Gender=Male
+
+Mobs/fire_ant_soldier/Name=Formiga Soldado de Fogo
+Mobs/fire_ant_soldier/Description=Essa formiga está sobre foooooogo.
+Mobs/fire_ant_soldier/Gender=Female
+
+Mobs/fire_ant_burrow/Name=Formigueiro de Fogo
+Mobs/fire_ant_burrow/Description=Oque será que está nisso?
+Mobs/fire_ant_burrow/Gender=Male
+
+Mobs/sandstorm/Name=Tornado de Areia
+Mobs/sandstorm/Description=Um tornado incontrolável.
+Mobs/sandstorm/Gender=Male
+
+Mobs/bubble/Name=Bolha
+Mobs/bubble/Description=Pop.
+Mobs/bubble/Gender=Female
+
+Mobs/bumble_bee/Name=Zangão
+Mobs/bumble_bee/Description=PRECISO CORRER.
+Mobs/bumble_bee/Gender=Male
+
+Mobs/shell/Name=Concha
+Mobs/shell/Description=Não é uma propaganda.
+Mobs/shell/Gender=Female
+
+Mobs/starfish/Name=Estrela-do-Mar
+Mobs/starfish/Description=Seu nome é Patrick.
+Mobs/starfish/Gender=Female
+
+Mobs/crab/Name=Caranguejo
+Mobs/crab/Description=Seu Siriguejo
+Mobs/crab/Gender=Male
+
+Mobs/jellyfish/Name=Água-viva
+Mobs/jellyfish/Description=Faz a geleia mais deliciosa.
+Mobs/jellyfish/Spawn=Você escuta ataques de eletricidade vindos de uma longa distância...
+Mobs/jellyfish/Gender=Female
+
+Mobs/digger/Name=Escavador
+Mobs/digger/Description=Jogo errado.
+Mobs/digger/Gender=Male
+
+Mobs/sponge/Name=Esponja
+Mobs/sponge/Description=Bob.
+Mobs/sponge/Gender=Female
+
+Mobs/leech/Name=Sangue Suga
+Mobs/leech/Description=Suga Suga.
+Mobs/leech/Gender=Female
+
+Mobs/leech_body/Name=Leech
+Mobs/leech_body/Description=Suga Suga.
+Mobs/leech_body/Gender=Female
+
+Mobs/dandelion/Name=Dente-de-Leão
+Mobs/dandelion/Description=Fofinho.
+Mobs/dandelion/Gender=Male
+
+Mobs/fire_ant_baby/Name=Formiga Bebê de Fogo
+Mobs/fire_ant_baby/Description=Essa formiga está sobre foooooogo.
+Mobs/fire_ant_baby/Gender=Female
+
+Mobs/fire_ant_worker/Name=Formiga Operária de Fogo
+Mobs/fire_ant_worker/Description=Essa formiga está sobre foooooogo.
+Mobs/fire_ant_worker/Gender=Female
+
+Mobs/fire_ant_queen/Name=Formiga Rainha de Fogo
+Mobs/fire_ant_queen/Description=Essa formiga está sobre foooooogo.
+Mobs/fire_ant_queen/Gender=Female
+
+Mobs/ant_egg/Name=Ovo de Formiga
+Mobs/ant_egg/Description=Ainda não é uma formiga, mas em breve será.
+Mobs/ant_egg/Gender=Male
+
+Mobs/fire_ant_egg/Name=Ovo de Formiga de Fogo
+Mobs/fire_ant_egg/Description=Essa formiga não está sobre fogo ainda.
+Mobs/fire_ant_egg/Gender=Female
+
+Mobs/fly/Name=Mosca
+Mobs/fly/Description=Bzzzzzzzzzz.
+Mobs/fly/Spawn=Você escuta zumbidos altos vindo do esgoto...
+Mobs/fly/Gender=Female
+
+Mobs/leafbug/Name=Bicho-Folha
+Mobs/leafbug/Description=Não é uma folha, mas é um Bicho..
+Mobs/leafbug/Gender=Male
+
+Mobs/mantis/Name=Louva-a-Deus
+Mobs/mantis/Description=É melhor você rezar para não ser comido..
+Mobs/mantis/Gender=Male
+
+Mobs/termite_baby/Name=Bebê Cupim
+Mobs/termite_baby/Description=Fraco e indefeso, mas possui grandes sonhos.<n/>Essas criaturas parecem de algum jeito estar conectadas.
+Mobs/termite_baby/Gender=Male
+
+Mobs/termite_worker/Name=Cupim Operário
+Mobs/termite_worker/Description=É um pouco temperamental, provavelmente devido a trabalhar toda hora.<n/>Essas criaturas parecem de algum jeito estar conectadas.
+Mobs/termite_worker/Gender=Male
+
+Mobs/termite_soldier/Name=Cupim Soldado
+Mobs/termite_soldier/Description=Ele possui asas, e está pronto para usá-las.<n/>Essas criaturas parecem de algum jeito estar conectadas.
+Mobs/termite_soldier/Gender=Male
+
+Mobs/termite_overmind/Name=Cupim Chefe
+Mobs/termite_overmind/Description=Aquele que tudo vê.
+Mobs/termite_overmind/Gender=Male
+
+Mobs/termite_mound/Name=Cupinzeiro
+Mobs/termite_mound/Description=Cupins entram e saem, não há como explicar.
+Mobs/termite_mound/Gender=Male
+
+Mobs/termite_egg/Name=Ovo de Cupim
+Mobs/termite_egg/Description=Ainda não é um Cupim, mas em breve será.
+Mobs/termite_egg/Gender=Male
+
+Mobs/bush/Name=Arbusto
+Mobs/bush/Description=Não me subestime.
+Mobs/bush/Gender=Male
+
+Mobs/roach/Name=Barata
+Mobs/roach/Description=RÁPIDA... até ficar cansada.
+Mobs/roach/Gender=Female
+
+Mobs/moth/Name=Mariposa
+Mobs/moth/Description=Facilmente se assusta, seja gentil.
+Mobs/moth/Gender=Female
+
+Mobs/firefly/Name=Vagalume
+Mobs/firefly/Description=Óóóóóóó brilhante.
+Mobs/firefly/Spawn=Tem uma luz brilhante vindo do horizonte...
+Mobs/firefly/Gender=Male
+
+Mobs/beetle_hel/Name=Besouro
+Mobs/beetle_hel/Description=Flagelo que surge no outro mundo.
+Mobs/beetle_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/beetle_hel/Gender=Male
+
+Mobs/wasp/Name=Vespão
+Mobs/wasp/Description=Eles estão com RAIVA.
+Mobs/wasp/Gender=Male
+
+Mobs/dummy/Name=Boneco de Teste
+Mobs/dummy/Description=Como você tem essa galeria?
+Mobs/dummy/Gender=Male
+
+Mobs/spider_hel/Name=Aranha
+Mobs/spider_hel/Description=Flagelo que surge no outro mundo.
+Mobs/spider_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/spider_hel/Gender=Female
+
+Mobs/centipede_hel/Name=Centopeia
+Mobs/centipede_hel/Description=Flagelo que surge no outro mundo.
+Mobs/centipede_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/centipede_hel/Gender=Female
+
+Mobs/centipede_hel_body/Name=Centopeia
+Mobs/centipede_hel_body/Description=Flagelo que surge no outro mundo.
+Mobs/centipede_hel_body/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/centipede_hel_body/Gender=Female
+
+Mobs/wasp_hel/Name=Vespão
+Mobs/wasp_hel/Description=Flagelo que surge no outro mundo.
+Mobs/wasp_hel/Spawn=Você sente vibrações ameaçadoras vindo de outro mundo...
+Mobs/wasp_hel/Gender=Female
+
+Mobs/trader/Name=Mercante
+Mobs/trader/Description= 
+Mobs/trader/Gender=Male
+
+Mobs/gambler/Name=Apostador
+Mobs/gambler/Description=Isso pode acontecer com VOCÊ.
+Mobs/gambler/Spawn=Você ouve alguém sussurrar fracamente... "só... mais um jogo..."
+Mobs/gambler/Gender=Male
+
+Mobs/oracle/Name=Oráculo
+Mobs/oracle/Description= 
+Mobs/oracle/Gender=Male
+
+Mobs/firefly_magic/Name=Vagalume
+Mobs/firefly_magic/Description=Há algo mágico nesse aqui.
+Mobs/firefly_magic/Gender=Male
+
+Mobs/titan/Name=Titã
+Mobs/titan/Description= 
+Mobs/titan/Gender=Male
+
+Mobs/beetle_nazar/Name=Besouro
+Mobs/beetle_nazar/Description=Este tem um padrão diferente... o que isso significa?
+Mobs/beetle_nazar/Gender=Male
+
+
+Mobs/worm/Name=Minhoca
+Mobs/worm/Description=Deveria comer terra, mas este está comendo flores.
+Mobs/worm/Gender=Female
+
+Mobs/worm_guts/Name=Órgãos de minhoca
+Mobs/worm_guts/Description=Não era pra você ver isso... vou chamar a polícia.
+Mobs/worm_guts/Gender=Male
+
+Mobs/mecha_flower/Name=Flor Mecânica
+Mobs/mecha_flower/Description=Alguém está fazendo esses robôs... oque isso significa?.
+Mobs/mecha_flower/Gender=Female
+
+Mobs/wasp_mecha/Name=Vespão
+Mobs/wasp_mecha/Description=Elas estão MECANICAMENTE COM RAIVA.
+Mobs/wasp_mecha/Gender=Male
+
+Mobs/spider_mecha/Name=Aranha
+Mobs/spider_mecha/Description=Mecanicamente Assustador.
+Mobs/spider_mecha/Gender=Female
+
+Mobs/leafbug_shiny/Name=Bicho-Folha
+Mobs/leafbug_shiny/Description=Esse tem uma cor especial...
+Mobs/leafbug_shiny/Gender=Male
+
+Mobs/crab_mecha/Name=Caranguejo
+Mobs/crab_mecha/Description=Dr. Siriguejo.
+Mobs/crab_mecha/Gender=Male
+
+Mobs/assembler/Name=Montador
+Mobs/assembler/Description= 
+Mobs/assembler/Gender=Male
+
+Mobs/barrel/Name=Barril
+Mobs/barrel/Description=Em nenhuma circunstância deixe isso derramar.<n/>Não podemos arriscar outro inseto mutante este mês.
+Mobs/barrel/Gender=Male
+
+Mobs/beetle_mummy/Name=Besouro
+Mobs/beetle_mummy/Description=Esse não parece que deveria estar vivo...
+Mobs/beetle_mummy/Gender=Male
+
+Mobs/beetle_pharaoh/Name=Besouro
+Mobs/beetle_pharaoh/Description=A coroa na cabeça dele parece ser valiosa... A gente deveria roubar ela.
+Mobs/beetle_pharaoh/Gender=Male
+
+Mobs/tomb/Name=Tumba
+Mobs/tomb/Description=Hm, o que pode estar aqui?
+Mobs/tomb/Gender=Female
+
+Mobs/silverfish/Name=Traça
+Mobs/silverfish/Description=Aquelas criaturinhas irritantes que comem roupas.<n/>Também adora lixo.
+Mobs/silverfish/Gender=Female
+
+Mobs/garbage/Name=Lixo
+Mobs/garbage/Description=O tesouro de alguém...
+Mobs/garbage/Gender=Male
+
+Mobs/ant_soldier_diver/Name=Formiga Soldado
+Mobs/ant_soldier_diver/Description=Como elas foram parar aqui?
+Mobs/ant_soldier_diver/Gender=Female
+
+Mobs/ghost/Name=Fantasma
+Mobs/ghost/Description=Uma alma atormentada. Libertá-la é a melhor coisa que você pode fazer por ela.
+Mobs/ghost/Gender=Male
+
+Mobs/crystal/Name=Cristal
+Mobs/crystal/Description= 
+Mobs/crystal/Gender=Male

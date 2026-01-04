@@ -1,0 +1,37 @@
+Maps/ant_hell/Name=Inferno de Formigas
+
+Maps/ant_hole1/Name=Cupimzeiro
+Maps/ant_hole2/Name=Cupimzeiro
+Maps/ant_hole3/Name=Cupimzeiro
+Maps/ant_hole4/Name=Cupimzeiro
+Maps/ant_hole5/Name=Cupimzeiro
+
+Maps/br/main/Name=Fenda
+Maps/br/ant_hell/Name=Fenda
+Maps/br/factory/Name=Fenda
+Maps/br/hel/Name=Fenda
+Maps/br/ocean/Name=Fenda
+Maps/br/victory/Name=Fenda
+
+Maps/crystal_room/Name=Sala do Cristal
+
+Maps/desert/Name=Deserto
+
+Maps/factory/Name=Fábrica
+
+Maps/garden/Name=Jardim
+
+Maps/hel/Name=Hel
+
+Maps/jungle/Name=Selva
+
+Maps/ocean/Name=Oceano
+
+Maps/pyramid/Name=Pirâmide
+Maps/pyramid/Changing=As areias embaixo de você estão começando a se mover...
+
+Maps/sewers/Name=Esgoto
+
+Maps/training_grounds/Name=Campos de Treinamento
+
+Maps/worm/Name=Minhoca

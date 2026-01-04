@@ -1,0 +1,343 @@
+UI/Language/Name=Português (Brasil)
+# These are the translators that worked on this translation. Separate with <n/>
+UI/Language/Credits=hanter<n/>Lot<n/>Robloxian
+
+UI/Title/Loading=Carregando...
+UI/Title/Connecting=Conectando...
+UI/Title/LoggingIn=Logando...
+UI/Title/Ready=Jogar
+UI/Title/GuestName=Visitante
+UI/Title/GuestLimitation=Você pode escolher um apelido depois de vincular uma conta ou alcançar o nível {0}.
+UI/Title/LockedInHel=Você está preso no Hel por {0:time}.
+UI/Title/Name/Title=Essa pequena flor bonita se chama...
+UI/Title/Name/Rules1=Seu nome deve ser alfanumérico ou {2} e conter {0}-{1} caracteres.
+UI/Title/Name/Rules2=Você deve ter pelomenos {0} alfanumérico caracteres.
+UI/Title/Name/Rules3=Não pode conter {0} caracteres consecutivos
+UI/Title/Name/Rules4=Esse nome é permanente, e não pode ser trocado depois.
+UI/Title/Name/Button=OK
+UI/Title/Name/Bad=Seu apelido foi redefinido. Por favor escolha um novo.
+UI/Title/Name/AlreadyTaken=Apelido já utilizado. Por favor escolha outro.
+UI/Title/Name/InternalError=Erro interno, tente novamente mais tarde.
+
+UI/Title/Biome={#UI/Title/Biome/{0}}
+UI/Title/Biome/0=Jardim
+UI/Title/Biome/1=Deserto
+UI/Title/Biome/2=Oceano
+UI/Title/Biome/3=Selva
+UI/Title/Biome/4=Hel
+
+UI/Login/Title=Conta
+UI/Login/PlayAsGuest=Jogar como convidado
+UI/Login/SignInApple=Entrar com a Apple
+UI/Login/SignInDiscord=Entrar com o Discord
+UI/Login/Logout=Sair
+UI/Login/AccountID=ID da conta:
+UI/Login/Connecting=(Conectando)
+UI/Login/GuestName=Convidado
+UI/Login/GuestInfo=Se você já tem uma conta de convidado,<n/>entrar vai ajudar a salvar seu progresso
+UI/Login/LinkInfo=Você pode sincronizar sua conta para<n/>guardar o progresso entre outros aparelhos
+UI/Login/Linked=Sincronizado
+UI/Login/SupportPIN=PIN de Suporte: {0}
+UI/Login/SupportPINHidden=PIN de Suporte: (Aperte para mostrar)
+UI/Login/SupportPINInstructions1=Salve isso em caso de perder acesso a sua conta
+UI/Login/SupportPINInstructions2=Não compartilhe seu pin de suporte com alguém
+UI/Login/Reminder=Sincronize sua conta para manter o progresso
+UI/Login/SupportWebsite=Se você perder o acesso à sua conta, acesse:
+
+UI/Social/Discord=Entre na nossa comunidade do discord!
+UI/Social/QQ=加入我们的QQ群!
+
+UI/AbandonGame=Abandonar o jogo
+UI/Reconnecting=Conexão perdida, retomando
+
+UI/LevelBar/Level=Nível {0}
+UI/LevelBar/LevelLong=Flor Nível {0}
+UI/LevelBar/XP={0}/{1} XP
+UI/LevelBar/LevelAndXP=Level {0} - {1}/{2} XP
+UI/LevelBar/NextLevelTP=Next level: +{0} TP
+
+UI/Scoreboard/Title={#UI/Scoreboard/Title/{0:1orN}}
+UI/Scoreboard/Title/1=1 Flor
+UI/Scoreboard/Title/N={0} Flores
+UI/Scoreboard/HiddenName=Jogador #{0}
+
+UI/Chat/PromptTap=Aperte aqui para abrir o chat
+UI/Chat/PromptClick=clique aqui para abrir o chat
+UI/Chat/PromptKeyboardOrClick=Aperte [ENTER] ou clique aqui para abrir o chat
+UI/Chat/Player/Block=Bloquear
+UI/Chat/Player/ReportMessage=Reportar Mensagem
+UI/Chat/Player/Whisper=Sussurir
+UI/Chat/Player/InviteToSquad=Convidar pro Time
+UI/Chat/Player/InviteToGuild=Convidar pro Clã
+
+UI/Flower/Level=Nvl {0}
+
+# When you evade damage
+UI/Damage/Evade=Desviado
+
+# When the target evades damage
+UI/Damage/Miss=Errou
+
+UI/Dummy/Last=Último: {0:tooltip}
+UI/Dummy/Total=Total: {0:tooltip}
+UI/Dummy/DPS=DPS: {0:tooltip}
+
+UI/Death/Title=Você foi destruído por:
+UI/Death/NoSource=Uma entidade misteriosa
+UI/Death/Continue=Continuar
+UI/Death/Revive=Reviver
+UI/Death/Close=Fechar
+UI/Death/CollectedThisRun=Coletado nessa partida
+UI/Death/RevivingSoon=Você irá reviver em breve.
+
+UI/AFKCheck/Title=Verificação AFK
+UI/AFKCheck/Instructions=Arraste o círculo até o final
+UI/AFKCheck/Flap/Instructions=Bata as asas até o final
+
+UI/Achievements/Title=Conquistas
+UI/Achievements/Reward=Recompensa
+UI/Achievements/RewardTP={0} TP
+UI/Achievements/Done=Pronto
+UI/Achievements/Track=Seguir
+UI/Achievements/TrackAutomatically=Seguir automaticamente
+UI/Achievements/Hidden=???
+UI/Achievements/TotalProgress={0}/{1} Completado
+UI/Achievements/UnlockedNotification={#UI/Achievements/UnlockedNotification/{0:1orN}}
+UI/Achievements/UnlockedNotification/1=Conquista alcançada
+UI/Achievements/UnlockedNotification/N=Conquistas alcançadas
+
+UI/MobGallery/Title=Galeria
+
+UI/Changelog/Title=Registro de alterações
+UI/Changelog/Bottom=Older changelog entries not available
+
+UI/Inventory/Title=Inventário
+UI/Inventory/Stack=Empilhar
+UI/Inventory/Instructions=Arraste uma pétala para equipá-la
+UI/Inventory/Speed=Vel
+UI/Inventory/Rarity={#Rarities/{0:rarity}/Female/NamePlural}
+
+UI/Guild/Title=Clã
+UI/Guild/NoGuild=Você não possui um clã ainda
+UI/Guild/Invite=Você foi convidado pra:
+UI/Guild/Invite/Button=Aceitar
+UI/Guild/Invite/Expiration=Esse convite vai expirar em breve caso não seja aceitado
+UI/Guild/ChatSetting=Chat
+UI/Guild/SquadButton=Squad
+UI/Guild/KickButton=Expulsar
+UI/Guild/Leader=(Líder)
+UI/Guild/Members={#UI/Guild/Members/{0:1orN}}
+UI/Guild/Members/1=Membros (1)
+UI/Guild/Members/N=Membros ({0})
+UI/Guild/LeaveButton=Sair
+UI/Guild/Leave/Title=Sair do clã
+UI/Guild/Leave/Instructions=Tem Certeza?
+UI/Guild/Leave/Confirm=Sair
+UI/Guild/Leave/Cancel=Cancelar
+
+UI/Squad/Title=Time
+UI/Squad/Invited1=Convite pro Time
+UI/Squad/Invited2=Convidado por: {0}
+UI/Squad/Invited/Join=Entrar
+UI/Squad/Invited/Ignore=Ignorar
+
+UI/Shop/Title=Loja
+UI/Shop/Button=Loja
+UI/Shop/Instructions=Oferta de hoje:
+UI/Shop/TimeLeft=A loja vai mudar em {0:time}
+UI/Shop/Lock=Travar
+UI/Shop/LockedChanged=A loja vai mudar quando ser destravada
+UI/Shop/LockedNoChange=A loja não vai mudar enquanto travada
+UI/Shop/StarsHelp1=Você ganha estrelas por fazer desafios ou
+UI/Shop/StarsHelp2=Compre algumas apertando no número na direita
+UI/Shop/MustLink1=Pra fazer qualquer compra você precisa
+UI/Shop/MustLink2=Sincronizar sua conta na Apple ou Discord
+UI/Shop/MustLinkCancel=Cancelar
+UI/Shop/BuyStars/Instructions=No caso de problemas com a compra,<n/>por favor contate nosso processador de pagamentos:<n/>support@xsolla.com ou use o live chat em xsolla.com
+UI/Shop/BuyStars/Extra=Eu tenho muito dinheiro
+UI/Shop/BuyStars/Cancel=Cancelar
+UI/Shop/BuyPetal/Title=Confirmar
+UI/Shop/BuyPetal/Instructions=Certeza de quer comprar isso?<n/><c val="{#Colors/danger}">Compras de pétalas não são refundáveis</c>
+UI/Shop/BuyPetal/Cancel=Cancelar
+UI/Shop/MagicPetalError/Title=Erro
+UI/Shop/MagicPetalError/Instructions=Você não pode comprar pétalas magicas <n/>até você ter {#Petals/{0}/FullName}.
+UI/Shop/MagicPetalError/Cancel=Cancelar
+UI/Shop/Loyalty/Title=Obrigada!
+UI/Shop/Loyalty/Instructions=Como um agradecimento a seu suporte,<n/>nos gostaríamos de dar essas estrelas de graça.<n/><n/>Isso é equivalente ao que você comprou<n/> com um pacote maior
+UI/Shop/Price/USD=US${0}
+
+UI/Banned/Title=BANIDO
+UI/Banned/Instructions=Sua conta foi banida.
+UI/Banned/TimeLeft=Esse ban vai expirar em {0:time}.
+UI/Banned/Permanent=Esse ban é permanente.
+UI/Banned/Account=Conta: {0}
+
+UI/DailyChallenge/Title=Desafio
+UI/DailyChallenge/Button=Desafio
+UI/DailyChallenge/Instructions=Derrote esses inimigos:
+UI/DailyChallenge/TimeLeft=Os desafios vão mudar em {0:time}
+UI/DailyChallenge/Claimed=Adquirido
+UI/DailyChallenge/SupportersOnly=Desafio para pessoas<n/>que compraram estrelas.
+
+UI/Bonus/Title=Bonus
+UI/Bonus/Button=Bonus
+UI/Bonus/Instructions=Ganhe drops extras
+UI/Bonus/Instructions2=Durante a primeira hora que você joga cada dia, você recebe drops extras.
+UI/Bonus/Pill/Label={0}x
+UI/Bonus/Delay=Você pode ativar seu bônus de novo em {0:time}.
+UI/Bonus/CurrentlyActive=Seu bônus está ativo por {0:time}.
+UI/Bonus/Available=Você pode ativar seu bônus agora. Ele vai durar {0:time}.
+UI/Bonus/AvailableExpiration=Se você não ativar seu bônus, ele vai resetar em {0:time}.
+UI/Bonus/AutoDelay=Seu bônus vai ativar em {0:time}.
+UI/Bonus/Activate=Ativar
+UI/Bonus/Activate/Setting=Ativar automaticamente
+
+UI/Petal/Name={#Petals/{0:base}/Name}
+UI/Petal/SortName={#Petals/{0:base}/Name}
+UI/Petal/FullName={#Petals/{0:base}/FullName}
+UI/Petal/Description={#Petals/{0:base}/Description}
+UI/Petal/Rarity={#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name}
+UI/Petal/Reload1={0}s
+UI/Petal/Reload2={0}s + {1}s
+
+UI/Mob/Name={#Mobs/{0:base}/Name}
+UI/Mob/SortName={#Mobs/{0:base}/Name}
+UI/Mob/Description={#Mobs/{0:base}/Description}
+UI/Mob/Rarity={#Rarities/{0:rarity}/{#Mobs/{0:base}/Gender}/Name}
+UI/Mob/Summon=Invocado
+
+UI/Map/Name={#Maps/{0}/Name}
+UI/Map/Changing={#Maps/{0}/Changing#UI/Map/Changing/generic}
+UI/Map/Changing/generic=Alguma coisa está acontecendo...
+UI/Map/Instance=(instância)
+
+UI/Achievements/Name={#Achievements/{0}/Name:1-}
+UI/Achievements/SortName={#Achievements/{0}/Name:1-}
+UI/Achievements/Description={#Achievements/{0}/Description:1-}
+UI/Achievements/ExtraDescription={#Achievements/{0}/ExtraDescription:1-}
+UI/Achievements/Rarity={#Rarities/{0:rarity}/Female/NamePlural}
+
+UI/Talent/Title=Talentos
+UI/Talent/Name={#Talents/{0}/Name:1-}
+UI/Talent/Description={#Talents/{0}/Description:1-}
+UI/Talent/Rarity={#Rarities/{1}/Male/Name}
+UI/Talent/TP=TP
+UI/Talent/Tooltip=Você pode adquirir mais TP upando de nível
+UI/Talent/Reset=Resetar
+UI/Talent/HoldToUpgrade=PRESSIONE para abilitar.
+UI/Talent/HoldToRemove=PRESSIONE para remover.
+
+UI/Craft/Title=Combinar
+UI/Craft/Button=Combinar
+UI/Craft/Chance={0:perc}% chance de sucesso
+UI/Craft/UnknownChance=?% chance de sucesso
+UI/Craft/CombineInstructions=Combine {0} do mesmo tipo de pétala para tentar combinar elas.
+UI/Craft/FailureInstructions=Se falhar, {0}-{1} pétalas serão destruídas.
+
+UI/Absorb/Title=Absorver
+UI/Absorb/Button=Absorver
+UI/Absorb/Instructions=Absorva as pétalas para ganhar XP.<n/>O cristal precisará de um tempo para recarregar após o uso.<n/><c val="{#Colors/danger}">AVISO: As pétalas serão destruídas durante o processo.</c>
+UI/Absorb/Crystal/Title=Energia do Cristal
+UI/Absorb/Crystal/1={0:perc}%
+UI/Absorb/Crystal/2=+{0:perc}%/h
+
+UI/CoinCraft/Title=Trocar
+UI/CoinCraft/Button=Trocar
+UI/CoinCraft/Instructions=Você pode trocar uma pétala por uma moeda da mesma raridade
+UI/CoinCraft/Delay=Você pode trocar novamente em {0:time}
+
+UI/OracleCraft/Title=Oráculo
+UI/OracleCraft/Button=Combinar
+UI/OracleCraft/Instructions=O Oráculo vai garantir uma combinação... por um preço justo
+UI/OracleCraft/Delay=Você pode combinar novamente em {0:time}
+
+UI/Plinko/Title=Plinko
+UI/Plinko/Auto=Auto
+
+UI/UniqueCraft/Title=Forjar
+UI/UniqueCraft/Button=Forjar
+UI/UniqueCraft/Instructions=Pétalas únicas durarão até que outro jogador forje a mesma pétala.<n/>Quando isso acontecer, você receberá suas pétalas Super de volta.<n/>O custo aumenta cada vez que a pétala for forjada.
+UI/UniqueCraft/NoSupers=Você não tem pétalas super suficiente para forjar
+UI/UniqueCraft/Cooldown=Não pode ser forjado de novo por {0:time}.
+UI/UniqueCraft/OwnerNamed="Ah, eu me lembro de ter forjado essa pétala para uma flor chamada {0}..."
+UI/UniqueCraft/OwnerUnnamed="Ah, eu me lembro de ter forjado essa pétala... Não consigo me lembrar o nome dela..."
+
+UI/AssemblerCraft/Title=Montar
+UI/AssemblerCraft/Button=Montar
+UI/AssemblerCraft/Instructions=Combine pétalas específicas para montar uma pétala nova.
+
+UI/Death/Poison=Veneno
+
+UI/Luck/Help=Sorte é usada para influenciar atributos de certas pétalas.<n/>Sorta também aumenta a raridade de bichos que aparecem ao seu redor.
+
+UI/Settings/Title=Configurações
+UI/Settings/Game=Jogo
+UI/Settings/Graphics=Gráficos
+UI/Settings/Controls=Controles
+UI/Settings/Credits=Créditos
+
+UI/Settings/Language=Linguagem
+UI/Settings/Language/Warning=NOTA: Apenas terá efeito quando a pagina ser reiniciada
+UI/Settings/Language/Automatic=Automático
+
+UI/Settings/Realm=Reino
+UI/Settings/Realms={#UI/Settings/Realms/{0}}
+UI/Settings/Realms/0=Automático
+UI/Settings/Realms/1=Juliett (US)
+UI/Settings/Realms/2=Romeo (EU)
+UI/Settings/Realms/3=Sierra (ASIA)
+
+UI/Settings/Chat=Chat
+UI/Settings/ChatWhispers=Sussurros
+
+UI/Settings/AutoJoinSquads=Entrar em times automaticamente
+UI/Settings/ReceiveSquadInvites=Receber convites pra times
+
+UI/Settings/HideOtherPetals=Esconder pétalas dos outros
+
+UI/Settings/EquipDrops=Equipar drops
+
+UI/Settings/Quality=Qualidade
+UI/Settings/Quality/Low=Baixo
+UI/Settings/Quality/Medium=Médio
+UI/Settings/Quality/High=Alto
+
+UI/Settings/ShowDamageNumbers=Mostrar os números de dano
+
+UI/Settings/ScreenShake=Efeito de tela tremendo
+
+UI/Settings/LiveIcons=Ícones animados
+
+UI/Settings/TouchControls=Controlar usando touch
+
+UI/Settings/KeyboardMovement=Movimento usando teclado
+
+UI/Settings/MovementHelper=Indicador de movimento
+
+UI/Settings/AutoSearchPetals=Procurar pétalas quando abrir inventário
+
+UI/Settings/FixedJoystick=Joystick fixo
+
+UI/Settings/InvertAttack=Inverter botão de atacar
+UI/Settings/InvertDefend=Inverter botão de defender
+
+UI/Settings/AutoSaveLoadout=Salvar loadouts automaticamente
+UI/Settings/AutoSaveLoadout/Help=Se desabilitado, aperte [O] pra salvar loadout atual
+
+UI/Settings/Fullscreen=Tela cheia
+
+UI/Settings/PrivacyPolicy=Política de Privacidade
+UI/Settings/TermsOfService=Termos de serviço
+
+UI/Credits/MadeBy=Feito por {0}
+UI/Credits/SomeIcons=Alguns ícones de {0}
+UI/Credits/SomeTiles=Alguns tiles de {0}
+UI/Credits/SpecialThanks=Agradecimentos especiais
+UI/Credits/Translators=Tradutores
+
+# The little arrows around dead flowers
+UI/HelperText/Guild=Clã
+UI/HelperText/Squad=Time
+UI/HelperText/You=Você
+
+UI/ChromeBug=A versão do Chrome que você está usando apresenta um problema grave de desempenho.<n/>Até que seja corrigido, para uma experiência ideal, use o Google Chrome Canary,<n/>que contém a correção para esse problema.

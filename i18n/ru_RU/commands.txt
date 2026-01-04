@@ -1,0 +1,73 @@
+UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} — {#Chat/Command/{0}/Description}
+
+Chat/Command/help/Args=[команда]
+Chat/Command/help/Description=Показать все команды или показать справку для конкретной команды
+
+Chat/Command/guild/Args=<сообщение>
+Chat/Command/guild/Description=Отправить сообщение только участникам гильдии
+
+Chat/Command/guild-create/Args=<название> <тег>
+Chat/Command/guild-create/Description=Создать новую гильдию. Название должно содержать от 3 до 13 символов. Тег должен содержать от 2 до 4 символов
+
+Chat/Command/guild-invite/Args=<имя>
+Chat/Command/guild-invite/Description=Пригласить игрока в гильдию. Вы должны быть лидером. Игрок должен быть рядом с вами
+
+Chat/Command/guild-transfer-leader/Args=<цель>
+Chat/Command/guild-transfer-leader/Description=Передать лидерство гильдии кому-то другому
+
+Chat/Command/guild-motd/Args=<текст>
+Chat/Command/guild-motd/Description=Задать сообщение дня гильдии
+
+Chat/Command/squad/Args=<сообщение>
+Chat/Command/squad/Description=Отправить сообщение только участникам команды
+
+Chat/Command/squad-create/Args=
+Chat/Command/squad-create/Description=Создать команду
+
+Chat/Command/squad-invite/Args=<цель>
+Chat/Command/squad-invite/Description=Пригласить игрока в команду
+
+Chat/Command/squad-leave/Args=
+Chat/Command/squad-leave/Description=Выйти из команды
+
+Chat/Command/squad-find-public/Args=
+Chat/Command/squad-find-public/Description=Зайти в случайную публичную команду
+
+Chat/Command/squad-public/Args=
+Chat/Command/squad-public/Description=Сделать команду публичной
+
+Chat/Command/squad-private/Args=
+Chat/Command/squad-private/Description=Сделать команду приватной
+
+Chat/Command/whisper/Args=<цель> <сообщение>
+Chat/Command/whisper/Description=Отправить сообщение определённому игроку
+
+Chat/Command/w/Args={#Chat/Command/whisper/Args}
+Chat/Command/w/Description={#Chat/Command/whisper/Description}
+
+Chat/Command/reply/Args=<сообщение>
+Chat/Command/reply/Description=Ответить на последний полученный шёпот
+
+Chat/Command/r/Args={#Chat/Command/reply/Args}
+Chat/Command/r/Description={#Chat/Command/reply/Description}
+
+Chat/Command/local/Args=<сообщение>
+Chat/Command/local/Description=Отправить сообщение только игрокам поблизости
+
+Chat/Command/map/Args=<сообщение>
+Chat/Command/map/Description=Отправить сообщение всем на карте
+
+Chat/Command/global/Args=<сообщение>
+Chat/Command/global/Description=Отправить глобальное сообщение
+
+Chat/Command/unblock/Args=<имя>
+Chat/Command/unblock/Description=Удалить игрока из чёрного списка
+
+Chat/Command/unblock-all/Args=
+Chat/Command/unblock-all/Description=Удалить всех из чёрного списка
+
+Chat/Command/rot-speed/Args=<значение>
+Chat/Command/rot-speed/Description=Установить скорость вращения лепестков, от 0.0 до 1.0
+
+Chat/Command/print-players/Args=
+Chat/Command/print-players/Description=Показать ID аккаунтов игроков поблизости

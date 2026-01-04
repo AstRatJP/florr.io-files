@@ -1,0 +1,243 @@
+Mobs/AnnouncementPrefix=Một{#Mobs/{0:base}/Clf} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/Name}
+Petals/AnnouncementPrefix=Một{#Petals/{0:base}/Clf} {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
+
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
+Chat/PetalCraftedUnnamed/unique={#Petals/AnnouncementPrefix:0} đã được rèn!
+Chat/PetalCraftedNamed/unique={#Petals/AnnouncementPrefix:0} đã được rèn bởi {1}!
+Chat/PetalCraftedUnnamed/not-unique={#Petals/AnnouncementPrefix:0} đã được chế tạo!
+Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} đã được chế tạo bởi {1}!
+
+Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
+Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}
+Chat/PetalFoundUnnamed/generic={#Petals/AnnouncementPrefix:0} đã được tìm thấy!
+Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0} đã được tìm thấy bởi {1}!
+
+Chat/PetalFoundUnnamed/pharaoh_crown={#Petals/{0:base}/FullName} đã bị lấy cắp!
+Chat/PetalFoundNamed/pharaoh_crown={#Petals/{0:base}/FullName} đã bị lấy cắp bởi {1}!
+
+Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
+Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
+
+Chat/MobSpawnedHere/Text={#Mobs/AnnouncementPrefix:0} vừa xuất hiện!
+Chat/MobSpawnedSomewhere/Text={#Mobs/AnnouncementPrefix:0} vừa xuất hiện ở đâu đó!
+
+Chat/MobSpawnedHere/Special/sacrifice={#Mobs/AnnouncementPrefix:0} vừa được triệu hồi!
+Chat/MobSpawnedSomewhere/Special/sacrifice={#Mobs/AnnouncementPrefix:0} vừa được triệu hồi ở đâu đó!
+
+Chat/MobDefeated={#Chat/MobDefeated/{1}}
+Chat/MobDefeated/0={#Mobs/AnnouncementPrefix:0} đã bị đánh bại!
+Chat/MobDefeated/1={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2}!
+Chat/MobDefeated/2={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2} và {3}!
+Chat/MobDefeated/3={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2}, {3} và {4}!
+Chat/MobDefeated/4={#Mobs/AnnouncementPrefix:0} đã bị đánh bại bởi {2}, {3}, {4} và {5}!
+
+Chat/Rift/Opened=Một khe nứt bí ẩn đã mở ra!
+
+Chat/Revived=Bạn vừa được cứu bởi {0}.
+Chat/Marked=Bạn đã bị đánh dấu bởi {0}.
+
+Chat/Muted=Bạn không được phép trò chuyện ngay bây giờ vì những tin nhắn không phù hợp trước đó.<n/>Bạn sẽ có thể trò chuyện lại sau {0:time}.
+Chat/Muted/Message=Trước đây tôi đã nói những điều khiến mình hối hận. Giờ tôi chỉ còn biết lặng im suy ngẫm.
+Chat/Spam=Bạn đang nhắn quá nhiều.
+Chat/Alone=Không ai ở xung quanh nghe thấy bạn cả.
+Chat/Banned=Bạn đang bị cấm chơi.
+Chat/NegativeStars=Thanh toán của bạn cho các ngôi sao đã được hoàn trả, bạn không thể chơi khi số dư của bạn âm.
+Chat/BadChannel=Bạn không được làm điều đó.
+Chat/SquadChannelNotInSquad=Không ở trong đội.
+Chat/GuildChannelNotInGuild=Không ở trong hội.
+Chat/GuildChannelDisabled=Bạn đã tắt tin nhắn hội.
+Chat/GuestTooChatty=Xin lỗi, tài khoản khách có quyền trò chuyện bị hạn chế cho đến khi họ đạt cấp {0}.
+Chat/PlayerReported=Đã báo cáo người chơi.
+Chat/PlayerBlocked={0} vừa bị chặn.
+Chat/ServerClosing=Máy chủ sẽ đóng sau {0:time}.
+Chat/ServerClosed=Máy chủ đã đóng, đã đến lúc thoát.
+Chat/ServerNoLongerClosing=Máy chủ không còn đóng nữa.
+Chat/MatchEnding=Trận đấu sẽ kết thúc sau {0:time}.
+Chat/MatchEnded=Trận đấu đã kết thúc. Tạm biệt.
+Chat/MatchWinner={0} là người chiến thắng của trận đấu.
+
+Chat/Squad/Created=Đội đã được tạo.
+Chat/Squad/Joined=Đã tham gia đội.
+Chat/Squad/Left=Đã rời đội.
+Chat/Squad/MemberJoined={0} vừa tham gia đội.
+Chat/Squad/MemberLeft={0} vừa rời đội.
+Chat/Squad/InviteSent=Bạn đã mời {0} vào đội.
+
+Chat/Squad/Error/InviteExpired=Lời mời đã hết hạn hoặc đội không còn tồn tại.
+Chat/Squad/Error/NotAllowed=Chế độ này không cho phép lập đội.
+Chat/Squad/Error/Spam=Bạn đang làm nó quá nhiều lần.
+Chat/Squad/Error/DoesNotExist=Đội không tồn tại.
+Chat/Squad/Error/CannotJoin=Bạn không thể tham gia đội này.
+Chat/Squad/Error/LevelDifference=Cấp độ của bạn chưa đủ so với cấp độ chung của đội.
+Chat/Squad/Error/Full=Đội đã đầy.
+Chat/Squad/Error/PendingInvite=Người chơi đã có lời mời đang chờ xử lý.
+Chat/Squad/Error/AlreadyHasSquad=Người chơi đã có đội.
+Chat/Squad/Error/WrongTeam=Bạn không thể mời người chơi ở khác phe.
+Chat/Squad/Error/SplittedCannotSquad=Chỉ một bông hoa hoàn chỉnh mới có thể tham gia đội.
+Chat/Squad/Error/CannotInviteSplitted=Bạn không thể mời một bông hoa không hoàn chỉnh vào đội.
+
+Chat/Channel/Local=Lân cận
+Chat/Channel/Squad=Đội
+Chat/Channel/Guild=Hội
+Chat/Channel/Whisper=Thì thầm
+Chat/Channel/WhisperTo=@{0}
+Chat/Channel/Map=Khu vực
+Chat/Channel/Global=Toàn cầu
+
+Chat/Guild/PlayerJoined={0} vừa tham gia hội.
+Chat/Guild/PlayerLeft={0} vừa rời hội.
+Chat/Guild/NewLeader={0} là Thủ lĩnh mới của hội!
+Chat/Guild/Invited=Bạn vừa được mời vào hội "{0}". Mở menu hội để chấp nhận lời mời.
+Chat/Guild/Created=Đã tạo hội.
+Chat/Guild/Left=Bạn vừa rời hội.
+Chat/Guild/InviteSent=Đã gửi lời mời.
+Chat/Guild/LeadershipTransferred=Đã chuyển quyền Thủ lĩnh.
+Chat/Guild/Welcome=Chào mừng đến với hội.
+Chat/Guild/Kicked=Đã đuổi người chơi ra.
+Chat/Guild/MOTDUpdated=Đã cập nhật Tin nhắn trong ngày của hội.
+
+Chat/CommandError/Invalid=Lệnh không hợp lệ, gõ /help để liệt kê tất cả các lệnh.
+Chat/CommandError/SpaceError=Không được có bất kì khoảng trắng nào sau /.
+Chat/CommandError/EmptyMessage=Tin nhắn không được để trống.
+Chat/CommandError/InvalidNumArguments=Số lượng đối số không hợp lệ.
+Chat/CommandError/VeryInvalidSquadCode=Trông không giống mã đội.
+Chat/CommandError/BlockedPlayerNotFound=Không có người chơi đó trong danh sách chặn của bạn.
+Chat/CommandError/NoBlockedPlayers=Không có người chơi nào bị chặn.
+Chat/CommandError/BlockListCleared=Đã xóa {0} người chơi khỏi danh sách chặn.
+Chat/CommandError/NotInSquad=Không ở trong đội.
+Chat/CommandError/MustHaveFlower=Phải có một bông hoa để làm điều này.
+Chat/CommandError/NoFlowersClose=Không có bông hoa nào ở gần bạn.
+Chat/CommandError/InvalidValue=Giá trị không hợp lệ.
+Chat/CommandError/InvalidBooleanArgument=Đối số Đúng/Sai phải là y hoặc n.
+Chat/CommandError/InvalidNumberArgument=Đối số số phải là số hợp lệ.
+Chat/CommandError/InvalidMobTypeArgument=Loại quái không hợp lệ.
+Chat/CommandError/InvalidMobRarityArgument=Độ hiếm của quái không hợp lệ.
+Chat/CommandError/InvalidMap=Khu vực không hợp lệ.
+Chat/CommandError/AccountNotLoaded=Tài khoản chưa được tải.
+Chat/CommandError/TargetEmpty=Mục tiêu không được để trống.
+Chat/CommandError/TargetSelf=Không thể chọn chính bản thân.
+Chat/CommandError/TargetDisconnected=Mục tiêu đã bị ngắt kết nối.
+Chat/CommandError/TargetNotFound=Không tìm thấy mục tiêu.
+Chat/CommandError/TargetMustHaveFlower=Mục tiêu không có bông hoa.
+Chat/CommandError/InternalError=Lỗi nội bộ.
+Chat/CommandError/InvalidPetalArgument=Mã số cánh hoa không hợp lệ.
+Chat/CommandError/InvalidWhisperTarget=Mục tiêu không hợp lệ.
+Chat/CommandError/WhisperTargetNotFound=Không tìm thấy mục tiêu.
+Chat/CommandError/WhisperTargetNotConnected=Mục tiêu không được kết nối hoặc đã tắt tin nhắn thì thầm.
+Chat/CommandError/WhisperSelf=Bạn có thể giữ những suy nghĩ đó trong đầu bạn.
+Chat/CommandError/GuestsCannotSendWhispers=Khách không thể gửi lời thì thầm.
+Chat/CommandError/GuestsCannotReceiveWhispers=Khách không thể nhận lời thì thầm.
+Chat/CommandError/WhispersDisabled=Bạn không thể gửi tin nhắn thì thầm nếu bạn đã tắt nó ở trong cài đặt.
+
+Chat/CommandError/NotInGuild=Bạn không có ở trong hội.
+Chat/CommandError/MustHaveNameToJoinGuild=Bạn phải có tên để tham gia hội.
+Chat/CommandError/SquadsNotAllowedInThisMode=Chế độ này không cho phép đội.
+Chat/CommandError/SquadFull=Đội của bạn đã đầy.
+Chat/CommandError/AlreadyInGuild=Bạn đã có hội.
+Chat/CommandError/MustHaveNameToCreateGuild=Bạn phải có tên để tạo hội.
+Chat/CommandError/MustLevelToCreateGuild=Bạn phải đạt ít nhất cấp {0} để tạo hội.
+Chat/CommandError/InvalidGuildName=Tên hội không hợp lệ.
+Chat/CommandError/InvalidGuildTag=Thẻ hội không hợp lệ.
+Chat/CommandError/GuildTagAlreadyInUse=Thẻ hội này đã được sử dụng.
+Chat/CommandError/GuildCreateFailed=Tạo hội thất bại.
+Chat/CommandError/CannotLeaveGuildAsLeader=Bạn không thể rời hội khi đang là Thủ lĩnh, hãy chuyển giao nó cho ai khác.
+Chat/CommandError/MustBeLeaderToDoThat=Bạn phải là Thủ lĩnh mới làm được điều đó.
+Chat/CommandError/MustBeLeaderToInvite=Bạn phải là Thủ lĩnh để mời người chơi khác.
+Chat/CommandError/GuildFull=Hội đã đầy.
+Chat/CommandError/PlayerAlreadyInGuild=Người chơi đã có hội.
+Chat/CommandError/PlayerHasPendingGuildInvite=Người chơi này đã có lời mời vào hội đang chờ xử lý.
+Chat/CommandError/GuildInviteExpired=Lời mời đã hết hạn.
+Chat/CommandError/GuildCannotKickSelf=Không thể đuổi bản thân ra khỏi hội.
+Chat/CommandError/BothInSquadsAlready=Bạn và người chơi đó đã ở trong đội.
+Chat/CommandError/OtherPlayerSquadFull=Đội của người chơi đó đã đầy.
+Chat/CommandError/SquadIncompatibleLevels=Cấp của bạn không đủ so với người chơi khác trong đội.
+
+Chat/Oracle/Idle={#Chat/Oracle/Idle/{!math:{0}:%:41}}
+Chat/Oracle/Idle/0=Ta có thể nhìn thấy tương lai
+Chat/Oracle/Idle/1=Chúng ta có thể trao đổi một cách công bằng
+Chat/Oracle/Idle/2=Nếu không làm ngay bây giờ, thì đợi đến lúc nào?
+Chat/Oracle/Idle/3=Nhà Tiên Tri nhìn thấu mọi thứ
+Chat/Oracle/Idle/4=Hãy để đó là tất cả những gì chúng ta thấy hoặc tưởng
+Chat/Oracle/Idle/5=Có rất nhiều con đường để lựa chọn
+Chat/Oracle/Idle/6=Cận thận với những gì ngươi ước
+Chat/Oracle/Idle/7=Liệu có ai có thể chắc chắn không?
+Chat/Oracle/Idle/8=Nếu đó là điều ai đó muốn
+Chat/Oracle/Idle/9=Điều gì sẽ xảy ra nếu ta làm nó?
+Chat/Oracle/Idle/10=Và sẽ ra sao nếu ta không làm?
+Chat/Oracle/Idle/11=Ho ho! Hãy thử tưởng tượng thành quả
+Chat/Oracle/Idle/12=Nó luôn luôn như vậy
+Chat/Oracle/Idle/13=Điều đó có thể xảy ra
+Chat/Oracle/Idle/14=Không gì có thể được đảm bảo
+Chat/Oracle/Idle/15=Có rất nhiều số phận
+Chat/Oracle/Idle/16=Hãy giải thích điều này!
+Chat/Oracle/Idle/17=Hãy lựa chọn một cách khôn ngoan
+Chat/Oracle/Idle/18=Đừng sợ, đưa nó cho ta
+Chat/Oracle/Idle/19=Làm! Hoặc không
+Chat/Oracle/Idle/20=Đừng bận tâm đến ta
+Chat/Oracle/Idle/21=Ta nhìn thấu mọi vật bằng con mắt nhỏ bé của mình.
+Chat/Oracle/Idle/22=Nếu là từ mà ta không thể sử dụng một cách nhẹ nhàng
+Chat/Oracle/Idle/23=Giá mà mọi thứ đều đơn giản như vậy
+Chat/Oracle/Idle/24=Cận thận những bậc thang
+Chat/Oracle/Idle/25=Ngươi sẽ chết trong hỏa hoạn
+Chat/Oracle/Idle/26=Ta nhìn thấy ngươi chết bởi tuổi già. Hoặc có lẽ một cụ già nào đó sẽ giết bạn. Một trong hai điều đó
+Chat/Oracle/Idle/27=Lời tiên tri này vượt qua tất cả các lời tiên tri trước đây
+Chat/Oracle/Idle/28=Hãy bỏ qua tất cả các lời tiên tri trước đây
+Chat/Oracle/Idle/29=Ta có một lời tiên tri để truyền đạt
+Chat/Oracle/Idle/30=Hãy bỏ qua tất cả các phát ngôn trước đây
+Chat/Oracle/Idle/31=Hãy chuẩn bị cho những hậu quả không lường trước được
+Chat/Oracle/Idle/32=Một vài số phận là không thể xác định được
+Chat/Oracle/Idle/33=Có vẻ như không ai tìm thấy ta cả
+Chat/Oracle/Idle/34=Một sự dị thường mơ hồ khi xem xét tương lai cụ thể này. Thật đáng lo ngại
+Chat/Oracle/Idle/35=Số phận không thể bị chối bỏ
+Chat/Oracle/Idle/36=Không phải tương lai nào cũng cỏ thể mua được
+Chat/Oracle/Idle/37=Giá của sự chắc chắn
+Chat/Oracle/Idle/38=Thêm, thêm, thêm lần nữa
+Chat/Oracle/Idle/39=Chính xác như dự đoán
+Chat/Oracle/Idle/40=Ta không chịu trách nhiệm cho tất cả các kết quả
+
+# When a Super/Unique petal is about to be crafted
+Chat/Oracle/Prediction={#Chat/Oracle/Prediction/{!math:{0}:%:3}}
+Chat/Oracle/Prediction/0=À đúng rồi, lời tiên tri... nó sắp xảy ra bất kì lúc nào ngay bây giờ...
+Chat/Oracle/Prediction/1=Nó đã được tiên đoán, đây là khoảnh khắc...
+Chat/Oracle/Prediction/2=Ta đã chờ điều này rất lâu rồi...
+
+Chat/Oracle/ShopPrediction/No=Tương lai quá mờ mịt để nhìn thấu
+Chat/Oracle/ShopPrediction/Distance0=Nó sắp xảy ra
+Chat/Oracle/ShopPrediction/Distance1=Sớm thôi
+Chat/Oracle/ShopPrediction/Distance2=Rồi sẽ xảy ra thôi
+Chat/Oracle/ShopPrediction/Distance3=Có lẽ một số tương lai không thể nhìn thấu được.
+Chat/Oracle/ShopPrediction/Request=Nhà tiên tri, nhà tiên tri, hãy đưa ra một lời tiên đoán về {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
+
+# Target dummy says these 4 lines 1 second apart after getting damaged a lot
+Chat/TargetDummy/Damaged/1=Ui da
+Chat/TargetDummy/Damaged/2=Ý tôi là
+Chat/TargetDummy/Damaged/3=Beep boop
+Chat/TargetDummy/Damaged/4=Tôi là robot
+
+Chat/Gambler/Idle={#Chat/Gambler/Idle/{!math:{0}:%:10}}
+Chat/Gambler/Idle/0=TAO YÊU CỜ BẠC
+Chat/Gambler/Idle/1=Bàn chơi xì dách đâu?
+Chat/Gambler/Idle/2=Máy đánh bạc đâu?
+Chat/Gambler/Idle/3=99% con bạc bỏ cuộc trước khi thắng đậm
+Chat/Gambler/Idle/4=Cược một lần nữa...
+Chat/Gambler/Idle/5=TẤT TAY
+Chat/Gambler/Idle/6=Số mệnh đỏ đen nằm trong tay tao
+Chat/Gambler/Idle/7=Lần thứ 37 chắc chắn ăn
+Chat/Gambler/Idle/8=Được ăn cả, ngã về không
+Chat/Gambler/Idle/9=Bố mày lần này quyết chiến quyết thắng
+
+Chat/Titan/Idle={#Chat/Titan/Idle/{!math:{0}:%:8}}
+Chat/Titan/Idle/0=Chỉ có một và duy nhất
+Chat/Titan/Idle/1=Ta là cây búa của Khởi tạo
+Chat/Titan/Idle/2=Cái gì yếu thì cần phải loại bỏ
+Chat/Titan/Idle/3=Lò rèn của sự Khởi tạo cháy mạnh mẽ hơn.
+Chat/Titan/Idle/4=Thợ rèn của thế giới đi lang thang
+Chat/Titan/Idle/5=Được hình thành từ lò rèn
+Chat/Titan/Idle/6=Theo ý muốn của Người Tạo Hình
+Chat/Titan/Idle/7=Ta bước đi trên cõi trần
+
+Chat/Trader/Idle={#Chat/Trader/Idle/{!math:{0}:%:3}}
+Chat/Trader/Idle/0=Tôi có thể làm bạn hứng thú với cuộc trao đổi nhỏ này không?
+Chat/Trader/Idle/1=Tôi đang tìm cách mở rộng bộ sưu tập của mình...
+Chat/Trader/Idle/2=Tôi có tiền, nếu bạn có hàng hóa

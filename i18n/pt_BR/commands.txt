@@ -1,0 +1,73 @@
+UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} - {#Chat/Command/{0}/Description}
+
+Chat/Command/help/Args=[cmd]
+Chat/Command/help/Description=Lista todos os commandos ou lista uma ajuda para um commando específico.
+
+Chat/Command/guild/Args=<Mensagem>
+Chat/Command/guild/Description=Manda uma mensagem apenas para jogadores do seu clã.
+
+Chat/Command/guild-create/Args=<nome> <tag>
+Chat/Command/guild-create/Description=Cria um novo clã. O nome deve ser 3-13 caracteres. O tag deve ser 2-4 Caracteres
+
+Chat/Command/guild-invite/Args=<nome>
+Chat/Command/guild-invite/Description=Convida um jogador para seu clã. Deve ser o líder, o jogador deve estar perto de você
+
+Chat/Command/guild-transfer-leader/Args=<alvo>
+Chat/Command/guild-transfer-leader/Description=Transfere a liderança do clã para outra pessoa
+
+Chat/Command/guild-motd/Args=<texto>
+Chat/Command/guild-motd/Description=Define o MOTD do clã
+
+Chat/Command/squad/Args=<mensagem>
+Chat/Command/squad/Description=Define o MOTD do clã
+
+Chat/Command/squad-create/Args=
+Chat/Command/squad-create/Description=Cria um time
+
+Chat/Command/squad-invite/Args=<target>
+Chat/Command/squad-invite/Description=Convida um jogador pra seu time
+
+Chat/Command/squad-leave/Args=
+Chat/Command/squad-leave/Description=Sai de um time
+
+Chat/Command/squad-find-public/Args=
+Chat/Command/squad-find-public/Description=Entra num time público aleatorio
+
+Chat/Command/squad-public/Args=
+Chat/Command/squad-public/Description=Faz um time ser público
+
+Chat/Command/squad-private/Args=
+Chat/Command/squad-private/Description=Faz um time ser privado
+
+Chat/Command/whisper/Args=<alvo> <mensagem>
+Chat/Command/whisper/Description=Sends a message to a specific player
+
+Chat/Command/w/Args={#Chat/Command/whisper/Args}
+Chat/Command/w/Description={#Chat/Command/whisper/Description}
+
+Chat/Command/reply/Args=<mensagem>
+Chat/Command/reply/Description=Responde ao último sussurro recebido
+
+Chat/Command/r/Args={#Chat/Command/reply/Args}
+Chat/Command/r/Description={#Chat/Command/reply/Description}
+
+Chat/Command/local/Args=<mensagem>
+Chat/Command/local/Description=Manda uma mensagem para apenas jogadores a sua volta
+
+Chat/Command/map/Args=<mensagem>
+Chat/Command/map/Description=Manda uma mensagem para o mapa
+
+Chat/Command/global/Args=<mensagem>
+Chat/Command/global/Description=Manda uma mensagem global
+
+Chat/Command/unblock/Args=<nome>
+Chat/Command/unblock/Description=Remove alguem da sua lista de bloqueados
+
+Chat/Command/unblock-all/Args=
+Chat/Command/unblock-all/Description=Remove todo mundo da sua lista de bloqueados
+
+Chat/Command/rot-speed/Args=<value>
+Chat/Command/rot-speed/Description=Muda velocidade de rotação das pétalas, entre 0.0 to 1.0
+
+Chat/Command/print-players/Args=
+Chat/Command/print-players/Description=Lista o id das contas de jogadores perto de você

@@ -1,0 +1,150 @@
+Attribute/PoisonNoColon=<c val="{#Colors/poison}">毒</c>
+
+Flower/Attribute/Health=<c val="{#Colors/health}">基礎最大体力:</c> {0:tooltip}
+Flower/Attribute/HealthNoColon=<c val="{#Colors/health}">基礎最大体力</c>
+Flower/Attribute/BodyDamage=<c val="{#Colors/damage}">体当たりダメージ:</c> {0:tooltip}
+Flower/Attribute/BodyDamageNoColon=<c val="{#Colors/damage}">体当たりダメージ</c>
+Flower/Attribute/BodyPoison=<c val="{#Colors/poison}">身体毒:</c> {0:tooltip} (毎秒{1:tooltip})
+Flower/Attribute/LuckNoColon=<c val="{#Colors/generic}">運</c>
+Flower/Attribute/RotationSpeedNoColon=<c val="{#Colors/generic}">回転速度</c>
+Flower/Attribute/AttackRangeNoColon=<c val="{#Colors/generic}">攻撃距離</c>
+Flower/Attribute/HealingNoColon=<c val="{#Colors/heal}">回復量</c>
+Flower/Attribute/PetalHealthNoColon=<c val="{#Colors/health}">花びら体力</c>
+
+Mob/Attribute/Health=<c val="{#Colors/health}">体力:</c> {0:tooltip}
+Mob/Attribute/HealthRange=<c val="{#Colors/health}">体力:</c> {0:tooltip}~{1:tooltip}
+Mob/Attribute/HealthNoColon=<c val="{#Colors/health}">体力</c>
+Mob/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
+Mob/Attribute/Damage/Lightning=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
+Mob/Attribute/DamagePerSecond=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip}
+Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
+Mob/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
+Mob/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} (毎秒{1:tooltip})
+Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> 毎秒{0:tooltip}
+Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">超接続</c>
+Mob/Attribute/PollenHealth=<c val="{#Colors/health}">花粉の体力:</c> {0:tooltip}
+Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">花粉の攻撃力:</c> {0:tooltip}
+Mob/Attribute/MissileHealth=<c val="{#Colors/health}">ミサイルの体力:</c> {0:tooltip}
+Mob/Attribute/MissileDamage=<c val="{#Colors/damage}">ミサイルの攻撃力:</c> {0:tooltip}
+Mob/Attribute/MissilePoison=<c val="{#Colors/poison}">ミサイルの毒:</c> {0:tooltip} (毎秒{1:tooltip})
+Mob/Attribute/PearlHealth=<c val="{#Colors/health}">真珠の体力:</c> {0:tooltip}
+Mob/Attribute/PearlDamage=<c val="{#Colors/damage}">真珠の攻撃力:</c> {0:tooltip}
+Mob/Attribute/DandelionHealth=<c val="{#Colors/health}">ミサイルの体力:</c> {0:tooltip}
+Mob/Attribute/DandelionDamage=<c val="{#Colors/damage}">ミサイルの攻撃力:</c> {0:tooltip}
+Mob/Attribute/MantisPeaHealth=<c val="{#Colors/health}">ミサイルの体力:</c> {0:tooltip}
+Mob/Attribute/MantisPeaDamage=<c val="{#Colors/damage}">ミサイルの攻撃力:</c> {0:tooltip}
+Mob/Attribute/Duration=<c val="{#Colors/duration}">効果時間:</c> {0:tooltipTime}
+Mob/Attribute/Swallows=<c val="{#Colors/generic}">呑み込む</c>
+Mob/Attribute/ArmorDebuff=<c val="{#Colors/armor}">防御力低下:</c> {0:tooltip}
+Mob/Attribute/Lifesteal=<c val="{#Colors/heal}">体力吸収:</c> {0:tooltip}
+Mob/Attribute/Lightning=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}
+Mob/Attribute/Bounces=<c val="{#Colors/generic}">連鎖数:</c> {0:tooltip}
+Mob/Attribute/Evasion=<c val="{#Colors/generic}">回避率:</c> {0:perc}%
+Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">不死身:</c> {0:tooltipTime}
+
+Petal/Attribute/Reload=<c val="{#Colors/generic}">再生時間:</c> {0}
+Petal/Attribute/NumCopies=<c val="{#Colors/generic}">コピーの数:</c> {0:tooltip}
+Petal/Attribute/Health=<c val="{#Colors/health}">体力:</c> {0:tooltip}
+Petal/Attribute/Damage=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}
+Petal/Attribute/Damage/Lightning=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
+Petal/Attribute/DamageRange=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip}~{1:tooltip}
+Petal/Attribute/DamagePerSecond=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip}
+Petal/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">攻撃力:</c> 毎秒{0:tooltip} <c val="{#Colors/lightning}">(電撃)</c>
+Petal/Attribute/DamagePlusPerPetal=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} + {1:tooltip} × {#Petals/{2:base}/FullName} ({#Rarities/{2:rarity}/NameColored}) の個数
+Petal/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
+Petal/Attribute/RotationSpeed=<c val="{#Colors/generic}">回転速度:</c> +毎秒{0:tooltip}ラジアン
+Petal/Attribute/Heal=<c val="{#Colors/heal}">回復:</c> {0:tooltip}
+Petal/Attribute/HealPerSecond=<c val="{#Colors/heal}">回復:</c> 毎秒{0:tooltip}
+Petal/Attribute/HealPerc=<c val="{#Colors/heal}">回復割合:</c> {0:perc}%
+Petal/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} (毎秒{1:tooltip})
+Petal/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> 毎秒{0:tooltip}
+Petal/Attribute/PoisonResistance=<c val="{#Colors/poison}">毒耐性:</c> 毎秒{0:tooltip}
+Petal/Attribute/FlowerHealth=<c val="{#Colors/health}">追加最大体力:</c> {0:tooltip}
+Petal/Attribute/FlowerHealthPerc=<c val="{#Colors/health}">最大体力増加:</c> +{0:perc}%
+Petal/Attribute/FlowerHealthPercNeg=<c val="{#Colors/health}">最大体力減少:</c> -{0:perc}%
+Petal/Attribute/Duration=<c val="{#Colors/duration}">効果時間:</c> {0:tooltipTime}
+Petal/Attribute/Duration2=<c val="{#Colors/duration}">効果時間:</c> {0:tooltipTime} + {1:tooltipTime}
+Petal/Attribute/Contents={#Petal/Attribute/Contents{0:1orN}}
+Petal/Attribute/Contents1=<c val="{#Colors/generic}">中身:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ContentsN=<c val="{#Colors/generic}">中身:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/ContentsNoRarity={#Petal/Attribute/ContentsNoRarity{0:1orN}}
+Petal/Attribute/ContentsNoRarity1=<c val="{#Colors/generic}">中身:</c> {#Mobs/{1}/Name}
+Petal/Attribute/ContentsNoRarityN=<c val="{#Colors/generic}">中身:</c> {0}x {#Mobs/{1}/Name}
+Petal/Attribute/ExtraVision=<c val="{#Colors/generic}">視野:</c> +{0:perc}%
+Petal/Attribute/VisionReduction=<c val="{#Colors/generic}">視野:</c> -{0:perc}%
+Petal/Attribute/Radius=<c val="{#Colors/generic}">半径:</c> {0:tooltip}
+Petal/Attribute/MaxMobRarity=<c val="{#Colors/generic}">生き物のレアリティ上限:</c> {#Rarities/{0}/NameColored}
+Petal/Attribute/DamageReflection=<c val="{#Colors/reflection}">ダメージ反射:</c> {0:perc}% ({#Rarities/{2}/NameColored}の生き物に対して), {1:perc}% (花に対して)
+Petal/Attribute/PickUpRange=<c val="{#Colors/generic}">回収範囲:</c> +{0:tooltip}
+Petal/Attribute/Lightning=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}
+Petal/Attribute/Bounces=<c val="{#Colors/generic}">連鎖数:</c> {0:tooltip}
+Petal/Attribute/Knockback=<c val="{#Colors/generic}">反発力:</c> {0:tooltip}
+Petal/Attribute/ExtraDamage=<c val="{#Colors/damage}">追加ダメージ:</c> {0:tooltip}
+Petal/Attribute/Shield=<c val="{#Colors/generic}">シールド:</c> {0:tooltip}
+Petal/Attribute/BodyDamage=<c val="{#Colors/damage}">体当たりダメージ:</c> {0:tooltip}
+Petal/Attribute/Period=<c val="{#Colors/generic}">効果時間:</c> {0:tooltipTime}
+Petal/Attribute/FlowerRadius=<c val="{#Colors/generic}">花の半径:</c> +{0:tooltip}
+Petal/Attribute/DamageHealed=<c val="{#Colors/heal}">ダメージの内の回復割合:</c> {0:perc}%
+Petal/Attribute/AttackRange=<c val="{#Colors/generic}">攻撃距離:</c> +{0:tooltip}
+Petal/Attribute/Spawn={#Petal/Attribute/Spawn{0:1orN}}
+Petal/Attribute/Spawn1=<c val="{#Colors/generic}">召喚:</c> {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnN=<c val="{#Colors/generic}">召喚:</c> {0}x {#Mobs/{1:base}/Name} ({#Rarities/{1:rarity}/NameColored})
+Petal/Attribute/SpawnNoRarity={#Petal/Attribute/SpawnNoRarity{0:1orN}}
+Petal/Attribute/SpawnNoRarity1=<c val="{#Colors/generic}">召喚:</c> {#Mobs/{1}/Name}
+Petal/Attribute/SpawnNoRarityN=<c val="{#Colors/generic}">召喚:</c> {0}x {#Mobs/{1}/Name}
+Petal/Attribute/SpawnRarity={#Petal/Attribute/SpawnRarity{0:1orN}}
+Petal/Attribute/SpawnRarity1=<c val="{#Colors/generic}">召喚レアリティ:</c> {#Rarities/{1}/NameColored}
+Petal/Attribute/SpawnRarityN=<c val="{#Colors/generic}">召喚レアリティ:</c> {0}x {#Rarities/{1}/NameColored}
+Petal/Attribute/Luck=<c val="{#Colors/generic}">運:</c> +{0:tooltip}ポイント
+Petal/Attribute/MovementSpeed=<c val="{#Colors/generic}">移動速度:</c> +{0:perc}%
+Petal/Attribute/HealBonus=<c val="{#Colors/heal}">回復ボーナス:</c> +{0:perc}%
+Petal/Attribute/MobAggroRange=<c val="{#Colors/generic}">生き物の敵対距離:</c> -{0:perc}%
+Petal/Attribute/FlowerKnockback=<c val="{#Colors/generic}">花の反発力:</c> +{0:tooltip}
+Petal/Attribute/SelfDamage=<c val="{#Colors/damage}">自傷ダメージ:</c> {0:tooltip}
+Petal/Attribute/ArmorDebuff=<c val="{#Colors/armor}">防御力低下:</c> {0:tooltip}
+Petal/Attribute/FlowerArmor=<c val="{#Colors/armor}">花の防御力:</c> {0:tooltip}
+Petal/Attribute/FlowerEvasion=<c val="{#Colors/generic}">花の回避率:</c> +{0:perc}%
+Petal/Attribute/Charges=<c val="{#Colors/generic}">回数:</c> {0:tooltip}
+Petal/Attribute/OverhealConversion=<c val="{#Colors/generic}">過剰回復変換:</c> +{0:perc}%
+Petal/Attribute/AffectedByMagnets=<c val="{#Colors/generic}">磁石に影響される</c>
+Petal/Attribute/CanFindSquares=<c val="{#Colors/generic}">場違いなものを見つけられる</c>
+Petal/Attribute/CollisionDamageResistance=<c val="{#Colors/generic}">衝突ダメージ耐性:</c> +{0:perc}%
+Petal/Attribute/Evasion=<c val="{#Colors/generic}">回避率:</c> {0:perc}%
+Petal/Attribute/Health4=<c val="{#Colors/health}">体力:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/Damage2=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} / {1:tooltip}
+Petal/Attribute/Damage4=<c val="{#Colors/damage}">攻撃力:</c> {0:tooltip} / {1:tooltip} / {2:tooltip} / {3:tooltip}
+Petal/Attribute/ExtraPoison=<c val="{#Colors/poison}">毒の効果時間延長:</c> {0:tooltip}s
+Petal/Attribute/Interval=<c val="{#Colors/generic}">時間間隔:</c> {0:tooltipTime}
+Petal/Attribute/CorruptsFlowersAround=<c val="{#Colors/generic}">あなたの周囲の花を堕落させる。</c>
+Petal/Attribute/CannotBeUnequipped=<c val="{#Colors/generic}">外すことができない。</c>
+Petal/Attribute/PetalLostOnDeath=<c val="{#Colors/danger}">死んだ時に花びらを失う。</c>
+Petal/Attribute/CannotBeUnequippedWhileAlive=<c val="{#Colors/generic}">生きている間は外すことができない。</c>
+Petal/Attribute/Mana=<c val="{#Colors/mana}">マナ:</c> {0:tooltip}
+Petal/Attribute/ManaPerSecond=<c val="{#Colors/mana}">マナ:</c> 毎秒{0:tooltip}
+Petal/Attribute/BaseMaxMana=<c val="{#Colors/mana}">基礎最大マナ:</c> {0:tooltip}
+Petal/Attribute/MaxMana=<c val="{#Colors/mana}">最大マナ:</c> +{0:tooltip}
+Petal/Attribute/AllowsFindingMagicPetals=<c val="{#Colors/mana}">魔法の花びらを見つけられるようになる。</c>
+Petal/Attribute/DamageAbsorptionPerMana=<c val="{#Colors/generic}">ダメージ吸収:</c> {0:tooltip}毎<c val="{#Colors/mana}">マナ</c>
+Petal/Attribute/LightningPerMana=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}毎<c val="{#Colors/mana}">マナ</c>
+Petal/Attribute/SpawnManaCost=<c val="{#Colors/generic}">召喚コスト:</c> {0:tooltip} <c val="{#Colors/mana}">マナ</c>
+Petal/Attribute/MaintenanceManaCost=<c val="{#Colors/generic}">維持コスト:</c> 毎秒{0:tooltip} <c val="{#Colors/mana}">マナ</c>
+Petal/Attribute/ExtraDropChance=<c val="{#Colors/generic}">{0:perc}%の確率で生き物が追加の拾得物を落とす。</c>
+Petal/Attribute/ReloadPerc=<c val="{#Colors/generic}">再生時間:</c> -{0:perc}%
+Petal/Attribute/LockInHel=<c val="{#Colors/danger}">犠牲者はヘルヘイムから{0:time}出られなくなる。</c>
+Petal/Attribute/Controls=<c val="{#Colors/generic}">操作可能:</c> {#Petals/{0:base}/FullName} ({#Rarities/{0:rarity}/NameColored})
+Petal/Attribute/Broken=<c val="{#Colors/danger}">壊れている。</c>
+Petal/Attribute/UndeadDuration=<c val="{#Colors/undead}">不死身:</c> {0:tooltipTime}
+Petal/Attribute/UnrevivableDuration=<c val="{#Colors/danger}">蘇生不能:</c> {0:tooltipTime}
+Petal/Attribute/BodyDamageReduction=<c val="{#Colors/damage}">体当たりダメージ:</c> -{0:perc}%
+Petal/Attribute/PetalConsumedWhenUsed=<c val="{#Colors/danger}">花びらは使用時に消費される。</c>
+Petal/Attribute/MobHealth=<c val="{#Colors/health}">生き物の体力:</c> {0:tooltip}
+Petal/Attribute/MobDamage=<c val="{#Colors/damage}">生き物のダメージ:</c> {0:tooltip}
+Petal/Attribute/Limit=<c val="{#Colors/generic}">最大:</c> {0:tooltip}
+Petal/Attribute/Missiles=<c val="{#Colors/generic}">ミサイル:</c> {0:tooltip}
+Petal/Attribute/MissileHealth=<c val="{#Colors/health}">ミサイルの体力:</c> {0:tooltip}
+Petal/Attribute/MissileDamage=<c val="{#Colors/damage}">ミサイルの攻撃力:</c> {0:tooltip}
+Petal/Attribute/MissilePoison=<c val="{#Colors/poison}">ミサイルの毒:</c> {0:tooltip} (毎秒{1:tooltip})
+Petal/Attribute/PetalAttractionRange=<c val="{#Colors/generic}">花びらの引き寄せ範囲:</c> +{0:tooltip}
+Petal/Attribute/PetalHealthBonus=<c val="{#Colors/health}">花びらの体力:</c> +{0:perc}%
+Petal/Attribute/ReloadPercInc=<c val="{#Colors/generic}">再生時間:</c> +{0:perc}%
+Petal/Attribute/RelicAura=<c val="{#Colors/generic}">あなたの周りの花に影響する。</c>

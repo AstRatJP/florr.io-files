@@ -1,0 +1,724 @@
+Petals/basic/Name=Базовый
+Petals/basic/FullName=Базовый
+Petals/basic/FullName/Prepositional=Базовом
+Petals/basic/Description=Хороший лепесток, не слишком сильный, но и не слишком слабый.
+Petals/basic/Gender=Male
+
+Petals/light/Name=Лёгкий
+Petals/light/FullName=Лёгкий
+Petals/light/FullName/Prepositional=Лёгком
+Petals/light/Description=Слабее большинства лепестков, но перезаряжается очень быстро.
+Petals/light/Gender=Male
+
+Petals/rock/Name=Камень
+Petals/rock/FullName=Камень
+Petals/rock/FullName/Prepositional=Камне
+Petals/rock/Description=Чрезвычайно прочный, но перезаряжается чуть дольше.
+Petals/rock/Gender=Male
+
+Petals/square/Name=Квадрат
+Petals/square/FullName=Квадрат
+Petals/square/FullName/Prepositional=Квадрате
+Petals/square/Description=Эта фигура... выглядит знакомо...
+Petals/square/Gender=Male
+
+Petals/rose/Name=Роза
+Petals/rose/FullName=Роза
+Petals/rose/FullName/Prepositional=Розе
+Petals/rose/Description=Её целебные свойства удивительны. Однако она не так хороша в бою.
+Petals/rose/Gender=Female
+
+Petals/stinger/Name=Жало
+Petals/stinger/FullName=Жало
+Petals/stinger/FullName/Prepositional=Жале
+Petals/stinger/Description=Наносит большой урон, но очень хрупкое.
+Petals/stinger/Gender=Neuter
+
+Petals/iris/Name=Ирис
+Petals/iris/FullName=Ирис
+Petals/iris/FullName/Prepositional=Ирисе
+Petals/iris/Description=Очень ядовитый, но требует некоторое время, чтобы сделать своё дело.<n/>-50% урона против других цветков.
+Petals/iris/Gender=Male
+
+Petals/wing/Name=Крыло
+Petals/wing/FullName=Крыло
+Petals/wing/FullName/Prepositional=Крыле
+Petals/wing/Description=Прилетает и улетает.
+Petals/wing/Gender=Neuter
+
+Petals/missile/Name=Снаряд
+Petals/missile/FullName=Снаряд
+Petals/missile/FullName/Prepositional=Снаряде
+Petals/missile/Description=Ты можешь стрелять этим.
+Petals/missile/Gender=Male
+
+Petals/grapes/Name=Виноград
+Petals/grapes/FullName=Виноград
+Petals/grapes/FullName/Prepositional=Винограде
+Petals/grapes/Description=Пуф! Теперь с секретным ингредиентом: ядом.
+Petals/grapes/Gender=Male
+
+Petals/cactus/Name=Кактус
+Petals/cactus/FullName=Кактус
+Petals/cactus/FullName/Prepositional=Кактусе
+Petals/cactus/Description=Не очень сильный, но как-то увеличивает твоё максимальное здоровье.
+Petals/cactus/Gender=Male
+
+Petals/faster/Name=Ускоритель
+Petals/faster/FullName=Ускоритель
+Petals/faster/FullName/Prepositional=Ускорителе
+Petals/faster/Description=Настолько лёгкий, что заставляет другие лепестки вращаться быстрее.
+Petals/faster/Gender=Male
+
+Petals/bubble/Name=Пузырь
+Petals/bubble/FullName=Пузырь
+Petals/bubble/FullName/Prepositional=Пузыре
+Petals/bubble/Description=Физика — для слабаков.
+Petals/bubble/Gender=Male
+
+Petals/pollen/Name=Пыльца
+Petals/pollen/FullName=Пыльца
+Petals/pollen/FullName/Prepositional=Пыльце
+Petals/pollen/Description=Астматики, берегитесь.
+Petals/pollen/Gender=Female
+
+Petals/dandelion/Name=Одуванчик
+Petals/dandelion/FullName=Одуванчик
+Petals/dandelion/FullName/Prepositional=Одуванчике
+Petals/dandelion/Description=Его интересные свойства подавляют исцеляющие эффекты поражённых целей.<n/>Лечение поражённых целей уменьшается на 20%. Эффект может складываться.
+Petals/dandelion/Gender=Male
+
+Petals/beetle_egg/Name=Яйцо
+Petals/beetle_egg/FullName=Яйцо Жука
+Petals/beetle_egg/FullName/Prepositional=Яйце Жука
+Petals/beetle_egg/Description=Из него может вылупиться что-то интересное.
+Petals/beetle_egg/Gender=Neuter
+
+Petals/antennae/Name=Усики
+Petals/antennae/Name/Accusative=Усики
+Petals/antennae/FullName=Усики
+Petals/antennae/FullName/Prepositional=Усиках
+Petals/antennae/Description=Позволяют цветку чуять противников на большем расстоянии.
+Petals/antennae/Gender=Plural
+
+Petals/heavy/Name=Тяжёлый
+Petals/heavy/FullName=Тяжёлый
+Petals/heavy/FullName/Prepositional=Тяжёлом
+Petals/heavy/Description=Настолько тяжёлый, что сбивает всё на своём пути.<n/>Снижает скорость вращения лепестков, когда надет.
+Petals/heavy/Gender=Male
+
+Petals/yin_yang/Name=Инь-Ян
+Petals/yin_yang/FullName=Инь-Ян
+Petals/yin_yang/FullName/Prepositional=Инь-Яне
+Petals/yin_yang/Description=Этот таинственный лепесток влияет на вращение других лепестков непредсказуемым образом.
+Petals/yin_yang/Gender=Male
+
+Petals/web/Name=Паутина
+Petals/web/FullName=Паутина
+Petals/web/FullName/Prepositional=Паутине
+Petals/web/Description=Очень липкая.
+Petals/web/Gender=Female
+
+Petals/honey/Name=Мёд
+Petals/honey/FullName=Мёд
+Petals/honey/FullName/Prepositional=Мёде
+Petals/honey/Description=Мобы любят его. Он привлекает их в большом радиусе.<n/>Мобы предпочтут его вместо цветка.<n/>Поражённые цели вырабатывают иммунитет к его эффектам через некоторое время.
+Petals/honey/Gender=Male
+
+Petals/leaf/Name=Лист
+Petals/leaf/FullName=Лист
+Petals/leaf/FullName/Prepositional=Листе
+Petals/leaf/Description=Собирает энергию солнца для пассивного исцеления цветка.
+Petals/leaf/Gender=Male
+
+Petals/salt/Name=Соль
+Petals/salt/FullName=Соль
+Petals/salt/FullName/Prepositional=Соли
+Petals/salt/Description=Отражает часть полученного урона противнику, который нанёс его.<n/>Мобы более высокой редкости имеют повышенное сопротивление отражению урона.
+Petals/salt/Gender=Female
+
+Petals/rice/Name=Рис
+Petals/rice/FullName=Рис
+Petals/rice/FullName/Prepositional=Рисе
+Petals/rice/Description=Перезаряжается очень быстро, но не очень сильный.
+Petals/rice/Gender=Male
+
+Petals/corn/Name=Кукуруза
+Petals/corn/FullName=Кукуруза
+Petals/corn/FullName/Prepositional=Кукурузе
+Petals/corn/Description=Долго перезаряжается, но имеет много здоровья.
+Petals/corn/Gender=Female
+
+Petals/sand/Name=Песок
+Petals/sand/FullName=Песок
+Petals/sand/FullName/Prepositional=Песке
+Petals/sand/Description=Кучка песчинок.
+Petals/sand/Gender=Male
+
+Petals/pincer/Name=Щипцы
+Petals/pincer/FullName=Щипцы
+Petals/pincer/FullName/Prepositional=Щипцах
+Petals/pincer/Description=Временно ослабляют врагов, снижая их скорость передвижения.
+Petals/pincer/Gender=Plural
+
+Petals/yucca/Name=Юкка
+Petals/yucca/FullName=Юкка
+Petals/yucca/FullName/Prepositional=Юкке
+Petals/yucca/Description=Лечит цветок, но только в защитной позиции.
+Petals/yucca/Gender=Female
+
+Petals/magnet/Name=Магнит
+Petals/magnet/FullName=Магнит
+Petals/magnet/FullName/Prepositional=Магните
+Petals/magnet/Description=Увеличивает дальность подбора выпавших лепестков.
+Petals/magnet/Gender=Male
+
+Petals/yggdrasil/Name=Иггдрасиль
+Petals/yggdrasil/FullName=Иггдрасиль
+Petals/yggdrasil/FullName/Prepositional=Иггдрасиле
+Petals/yggdrasil/Description=Сухой лист древа Иггдрасиль.<n/>Ходят слухи, что он может возвращать павших к жизни.
+Petals/yggdrasil/Gender=Male
+
+Petals/starfish/Name=Звезда
+Petals/starfish/FullName=Морская Звезда
+Petals/starfish/FullName/Prepositional=Морской Звезде
+Petals/starfish/Description=Увеличивает регенерацию здоровья при его уровне ниже 75%.
+Petals/starfish/Gender=Female
+
+Petals/pearl/Name=Жемчуг
+Petals/pearl/FullName=Жемчуг
+Petals/pearl/FullName/Prepositional=Жемчуге
+Petals/pearl/Description=Просто брось его где-нибудь и используй свои кинетические способности, чтобы не потерять.
+Petals/pearl/Gender=Male
+
+Petals/lightning/Name=Молния
+Petals/lightning/FullName=Молния
+Petals/lightning/FullName/Prepositional=Молнии
+Petals/lightning/Description=Поражает нескольких ближайших врагов.
+Petals/lightning/Gender=Female
+
+Petals/jelly/Name=Желе
+Petals/jelly/Name/Genitive=Желе
+Petals/jelly/FullName=Желе
+Petals/jelly/FullName/Prepositional=Желе
+Petals/jelly/Description=Никто не любит трогать его.
+Petals/jelly/Gender=Neuter
+
+Petals/claw/Name=Клешня
+Petals/claw/FullName=Клешня
+Petals/claw/FullName/Prepositional=Клешне
+Petals/claw/Description=Наносит дополнительный урон, если здоровье жертвы выше 80%.<n/>-50% урона против других цветков.
+Petals/claw/Gender=Female
+
+Petals/shell/Name=Ракушка
+Petals/shell/FullName=Ракушка
+Petals/shell/FullName/Prepositional=Ракушке
+Petals/shell/Description=Добавляет временный щит тебе или союзникам.
+Petals/shell/Gender=Female
+
+Petals/cutter/Name=Резак
+Petals/cutter/Name/Accusative=Резак
+Petals/cutter/FullName=Резак
+Petals/cutter/FullName/Prepositional=Резаке
+Petals/cutter/Description=Он принадлежал другу... пришло время отомстить.<n/>Увеличивает урон тела.
+Petals/cutter/Gender=Male
+
+Petals/dahlia/Name=Георгин
+Petals/dahlia/FullName=Георгин
+Petals/dahlia/FullName/Prepositional=Георгине
+Petals/dahlia/Description=Небольшое количество лечения, но оно довольно последовательное.
+Petals/dahlia/Gender=Male
+
+Petals/uranium/Name=Уран
+Petals/uranium/FullName=Уран
+Petals/uranium/FullName/Prepositional=Уране
+Petals/uranium/Description=Периодически выпускает радиацию.<n/>-75% урона против других цветков.<n/>Сила эффекта зависит от расстояния до лепестка.
+Petals/uranium/Gender=Male
+
+Petals/sponge/Name=Губка
+Petals/sponge/FullName=Губка
+Petals/sponge/FullName/Prepositional=Губке
+Petals/sponge/Description=Распределяет урон, полученный цветком, на определённый период времени.<n/>При разрушении наносит весь оставшийся урон сразу.<n/>Не откладывает урон от {#Attribute/PoisonNoColon/Genitive}.
+Petals/sponge/Gender=Female
+
+Petals/soil/Name=Почва
+Petals/soil/FullName=Почва
+Petals/soil/FullName/Prepositional=Почве
+Petals/soil/Description=Увеличивает здоровье, но также увеличивает размер цветка и уменьшает скорость передвижения.
+Petals/soil/Gender=Female
+
+Petals/fang/Name=Клык
+Petals/fang/FullName=Клык
+Petals/fang/FullName/Prepositional=Клыке
+Petals/fang/Description=Лечит цветок в зависимости от урона, нанесённого этим лепестком.
+Petals/fang/Gender=Male
+
+Petals/third_eye/Name=Глаз
+Petals/third_eye/FullName=Третий Глаз
+Petals/third_eye/FullName/Prepositional=Третьем Глазе
+Petals/third_eye/Description=Позволяет цветку отдалять лепестки на большее расстояние.
+Petals/third_eye/Gender=Male
+
+Petals/peas/Name=Горох
+Petals/peas/FullName=Горох
+Petals/peas/FullName/Prepositional=Горохе
+Petals/peas/Description=Пуф!
+Petals/peas/Gender=Male
+
+Petals/stick/Name=Палка
+Petals/stick/FullName=Таинственная Палка
+Petals/stick/FullName/Prepositional=Таинственной Палке
+Petals/stick/Description=Таинственная палочка, призывающая силы ветра.
+Petals/stick/Gender=Female
+
+Petals/clover/Name=Клевер
+Petals/clover/FullName=Клевер
+Petals/clover/FullName/Prepositional=Клевере
+Petals/clover/Description=Увеличивает твою удачу.<n/>{#UI/Luck/Help}
+Petals/clover/Gender=Male
+
+Petals/powder/Name=Порошок
+Petals/powder/FullName=Таинственный Порошок
+Petals/powder/FullName/Prepositional=Таинственном Порошке
+Petals/powder/Description=Увеличивает скорость передвижения.<n/>Не работает, если цветок получает урон или находится рядом с мобом выше определённой редкости.
+Petals/powder/Gender=Male
+
+Petals/air/Name=Воздух
+Petals/air/Name/Accusative=Воздух
+Petals/air/FullName=Воздух
+Petals/air/FullName/Prepositional=Воздухе
+Petals/air/Description=Это буквально ничего.
+Petals/air/Gender=Male
+
+Petals/basil/Name=Базилик
+Petals/basil/FullName=Базилик
+Petals/basil/FullName/Prepositional=Базилике
+Petals/basil/Description=Увеличивает всё получаемое лечение.
+Petals/basil/Gender=Male
+
+Petals/orange/Name=Апельсин
+Petals/orange/FullName=Апельсин
+Petals/orange/FullName/Prepositional=Апельсине
+Petals/orange/Description=Сладкий цитрусовый фрукт.
+Petals/orange/Gender=Male
+
+Petals/ant_egg/Name=Яйцо
+Petals/ant_egg/FullName=Яйцо Муравья
+Petals/ant_egg/FullName/Prepositional=Яйце Муравья
+Petals/ant_egg/Description=Из него может вылупиться что-то интересное.
+Petals/ant_egg/Gender=Neuter
+
+Petals/poo/Name=Какашка
+Petals/poo/FullName=Какашка
+Petals/poo/FullName/Prepositional=Какашке
+Petals/poo/Description=Снижает желание мобов атаковать тебя.
+Petals/poo/Gender=Female
+
+Petals/relic/Name=Реликвия
+Petals/relic/FullName=Таинственная Реликвия
+Petals/relic/FullName/Prepositional=Таинственной Реликвии
+Petals/relic/Description=Странная реликвия. Значительно увеличивает максимальное здоровье.<n/>Полученный урон распределяется среди других надевших.
+Petals/relic/Gender=Female
+
+Petals/lotus/Name=Лотос
+Petals/lotus/FullName=Лотос
+Petals/lotus/FullName/Prepositional=Лотосе
+Petals/lotus/Description=Поглощает урон от яда, полученный цветком.
+Petals/lotus/Gender=Male
+
+Petals/bulb/Name=Лампа
+Petals/bulb/FullName=Лампа
+Petals/bulb/FullName/Prepositional=Лампе
+Petals/bulb/Description=Сияющая лампочка. Привлекает мобов.
+Petals/bulb/Gender=Female
+
+Petals/cotton/Name=Хлопок
+Petals/cotton/FullName=Хлопок
+Petals/cotton/FullName/Prepositional=Хлопке
+Petals/cotton/Description=Поглощает урон, полученный цветком.
+Petals/cotton/Gender=Male
+
+Petals/carrot/Name=Морковь
+Petals/carrot/FullName=Морковь
+Petals/carrot/FullName/Prepositional=Моркови
+Petals/carrot/Description=Прочная и надёжная. Может быть выстрелена и отскакивает от стен.
+Petals/carrot/Gender=Female
+
+Petals/bone/Name=Кость
+Petals/bone/FullName=Кость
+Petals/bone/FullName/Prepositional=Кости
+Petals/bone/Description=Прочная. Теряет половину брони с каждым ударом.
+Petals/bone/Gender=Female
+
+Petals/plank/Name=Доска
+Petals/plank/FullName=Доска
+Petals/plank/FullName/Prepositional=Доске
+Petals/plank/Description=Наносит в 20 раз больше урона снарядам и лепесткам.
+Petals/plank/Gender=Female
+
+Petals/tomato/Name=Помидор
+Petals/tomato/FullName=Помидор
+Petals/tomato/FullName/Prepositional=Помидоре
+Petals/tomato/Description=Становится сильнее со временем.
+Petals/tomato/Gender=Male
+
+Petals/mark/Name=Метка
+Petals/mark/FullName=Тёмная Метка
+Petals/mark/FullName/Prepositional=Тёмной Метке
+Petals/mark/Description=Тёмная метка, прикрепляющаяся к падшей душе.
+Petals/mark/Gender=Female
+
+Petals/rubber/Name=Резина
+Petals/rubber/FullName=Резина
+Petals/rubber/FullName/Prepositional=Резине
+Petals/rubber/Description=Увеличивает получаемое отбрасывание. Также поглощает урон от молнии, нанесённый цветку.
+Petals/rubber/Gender=Female
+
+Petals/blood_stinger/Name=Жало
+Petals/blood_stinger/FullName=Кровавое Жало
+Petals/blood_stinger/FullName/Prepositional=Кровавом Жале
+Petals/blood_stinger/Description=Наносит большой урон, но очень хрупкое.<n/>Наносит урон цветку при появлении.
+Petals/blood_stinger/Gender=Neuter
+
+Petals/bur/Name=Репейник
+Petals/bur/FullName=Репейник
+Petals/bur/FullName/Prepositional=Репейнике
+Petals/bur/Description=Уменьшает броню поражённой цели. Эффект не складывается.
+Petals/bur/Gender=Male
+
+Petals/root/Name=Корень
+Petals/root/FullName=Корень
+Petals/root/FullName/Prepositional=Корне
+Petals/root/Description=Даёт слой дополнительной брони каждый интервал, слой снимается при каждом получении урона.
+Petals/root/Gender=Male
+
+Petals/ankh/Name=Анх
+Petals/ankh/FullName=Анх
+Petals/ankh/FullName/Prepositional=Анхе
+Petals/ankh/Description=Древняя реликвия.<n/>При разрушении телепортирует цветок в место разрушения.
+Petals/ankh/Gender=Male
+
+Petals/dice/Name=Кубик
+Petals/dice/FullName=Игральный Кубик
+Petals/dice/FullName/Prepositional=Игральном Кубике
+Petals/dice/Description=Имеет 5% шанс нанести 35-кратный урон.<n/>Шанс увеличивается на 4% за каждое очко удачи.
+Petals/dice/Gender=Male
+
+Petals/talisman/Name=Талисман
+Petals/talisman/FullName=Талисман Уклонения
+Petals/talisman/FullName/Prepositional=Талисмане Уклонения
+Petals/talisman/Description=Ожерелье, позволяющее владельцу предвидеть атаки противника.
+Petals/talisman/Gender=Male
+
+Petals/battery/Name=Батарейка
+Petals/battery/FullName=Батарейка
+Petals/battery/FullName/Prepositional=Батарейке
+Petals/battery/Description=Выпускает электричество, когда цветок получает удар.
+Petals/battery/Gender=Female
+
+Petals/amulet/Name=Амулет
+Petals/amulet/FullName=Амулет
+Petals/amulet/FullName/Prepositional=Амулете
+Petals/amulet/Description=Конвертирует часть излишнего лечения в щит.
+Petals/amulet/Gender=Male
+
+Petals/compass/Name=Компас
+Petals/compass/FullName=Компас
+Petals/compass/FullName/Prepositional=Компасе
+Petals/compass/Description=Эта штуковина, возможно, сможет найти что-нибудь интересное...
+Petals/compass/Gender=Male
+
+Petals/disc/Name=Диск
+Petals/disc/FullName=Диск
+Petals/disc/FullName/Prepositional=Диске
+Petals/disc/Description=Уменьшает урон, получаемый при столкновении с мобами и цветками.
+Petals/disc/Gender=Male
+
+Petals/shovel/Name=Лопата
+Petals/shovel/FullName=Лопата
+Petals/shovel/FullName/Prepositional=Лопате
+Petals/shovel/Description=Делает цветок недоступным для атаки, но и неспособным использовать лепестки на ограниченное время.
+Petals/shovel/Gender=Female
+
+Petals/coin/Name=Монета
+Petals/coin/Name/Accusative=Монету
+Petals/coin/FullName=Монета
+Petals/coin/FullName/Prepositional=Монете
+Petals/coin/Description=Сила капитализма поглощает тебя!
+Petals/coin/Gender=Female
+
+Petals/chip/Name=Фишка
+Petals/chip/Name/Accusative=Фишку
+Petals/chip/FullName=Покерная Фишка
+Petals/chip/FullName/Prepositional=Покерной Фишке
+Petals/chip/Description=ВСЁ НА КОНУ.
+Petals/chip/Gender=Female
+
+Petals/card/Name=Карта
+Petals/card/FullName=Карта
+Petals/card/FullName/Prepositional=Карте
+Petals/card/Description=Игральная карта. Вероятно, меченая.
+Petals/card/Gender=Female
+
+Petals/moon/Name=Луна
+Petals/moon/FullName=Луна
+Petals/moon/FullName/Prepositional=Луне
+Petals/moon/Description=Эта штука такая большая, что твои лепестки вращаются вокруг неё.<n/>Где ты вообще это нашёл?
+Petals/moon/Gender=Female
+
+Petals/privet/Name=Бирючина
+Petals/privet/FullName=Бирючина
+Petals/privet/FullName/Prepositional=Бирючине
+Petals/privet/Description=Наносит дополнительный урон от {#Attribute/PoisonNoColon/Genitive} в зависимости от существующего урона от {#Attribute/PoisonNoColon/Genitive} в секунду.
+Petals/privet/Gender=Female
+
+Petals/glass/Name=Стекло
+Petals/glass/FullName=Стекло
+Petals/glass/FullName/Prepositional=Стекле
+Petals/glass/Description=Проходит сквозь врагов.<n/>Не может наносить урон чаще определённого интервала.
+Petals/glass/Gender=Neuter
+
+Petals/corruption/Name=Коррупция
+Petals/corruption/FullName=Коррупция
+Petals/corruption/FullName/Prepositional=Коррупции
+Petals/corruption/Description=Портит душу любого, обращая его против себе подобных.
+Petals/corruption/Gender=Female
+
+Petals/orb/Name=Сфера
+Petals/orb/FullName=Сфера Маны
+Petals/orb/FullName/Genitive=Сферы Маны
+Petals/orb/FullName/Accusative=Сферу Маны
+Petals/orb/FullName/Prepositional=Сфере Маны
+Petals/orb/Description=Создаёт ману.
+Petals/orb/Gender=Female
+
+Petals/blueberries/Name=Черника
+Petals/blueberries/FullName=Черника
+Petals/blueberries/FullName/Prepositional=Чернике
+Petals/blueberries/Description=Пуф! Теперь с секретным ингредиентом: молнией.
+Petals/blueberries/Gender=Female
+
+Petals/magic_cotton/Name=Хлопок
+Petals/magic_cotton/FullName=Волшебный Хлопок
+Petals/magic_cotton/FullName/Prepositional=Волшебном Хлопке
+Petals/magic_cotton/Description=Поглощает урон, полученный цветком.
+Petals/magic_cotton/Gender=Male
+
+Petals/magic_stinger/Name=Жало
+Petals/magic_stinger/FullName=Волшебное Жало
+Petals/magic_stinger/FullName/Prepositional=Волшебном Жале
+Petals/magic_stinger/Description=Наносит большой урон, но очень хрупкое.
+Petals/magic_stinger/Gender=Neuter
+
+Petals/magic_leaf/Name=Лист
+Petals/magic_leaf/FullName=Волшебный Лист
+Petals/magic_leaf/FullName/Prepositional=Волшебном Листе
+Petals/magic_leaf/Description=Пассивно собирает ману из окружающей среды.
+Petals/magic_leaf/Gender=Male
+
+Petals/magic_cactus/Name=Кактус
+Petals/magic_cactus/FullName=Волшебный Кактус
+Petals/magic_cactus/FullName/Prepositional=Волшебном Кактусе
+Petals/magic_cactus/Description=Увеличивает максимальный запас маны.
+Petals/magic_cactus/Gender=Male
+
+Petals/magic_eye/Name=Глаз
+Petals/magic_eye/FullName=Волшебный Глаз
+Petals/magic_eye/FullName/Prepositional=Волшебном Глазе
+Petals/magic_eye/Description=Тратит половину текущей маны и наносит урон в зависимости от этого значения.
+Petals/magic_eye/Gender=Male
+
+Petals/magic_missile/Name=Снаряд
+Petals/magic_missile/FullName=Волшебный Снаряд
+Petals/magic_missile/FullName/Prepositional=Волшебном Снаряде
+Petals/magic_missile/Description=Ты можешь стрелять этим... с помощью магии.
+Petals/magic_missile/Gender=Male
+
+Petals/magic_stick/Name=Палка
+Petals/magic_stick/FullName=Волшебная Палка
+Petals/magic_stick/FullName/Prepositional=Волшебной Палке
+Petals/magic_stick/Description=Таинственная палочка, призывающая силы ветра... с помощью магии.
+Petals/magic_stick/Gender=Female
+
+Petals/coral/Name=Коралл
+Petals/coral/FullName=Коралл
+Petals/coral/FullName/Prepositional=Коралле
+Petals/coral/Description=Распадается на части при ударе.<n/>Каждая часть имеет 50% характеристик предыдущей.
+Petals/coral/Gender=Male
+
+Petals/magic_bubble/Name=Пузырь
+Petals/magic_bubble/FullName=Волшебный Пузырь
+Petals/magic_bubble/FullName/Prepositional=Волшебном Пузыре
+Petals/magic_bubble/Description=Физика — для не знающих магии.
+Petals/magic_bubble/Gender=Male
+
+Petals/nazar/Name=Назар
+Petals/nazar/FullName=Амулет Назар
+Petals/nazar/FullName/Prepositional=Амулете Назар
+Petals/nazar/Description=Когда цветок получает урон, уменьшает его на 98% и тратит заряд.
+Petals/nazar/Gender=Male
+
+Petals/mimic/Name=Мимик
+Petals/mimic/FullName=Мимик
+Petals/mimic/FullName/Prepositional=Мимике
+Petals/mimic/Description=Копирует лепесток слева от этого, с той же редкостью, что и этот.
+Petals/mimic/Gender=Male
+
+Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
+Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
+Petals/mjolnir/FullName/Prepositional={#Petals/mjolnir/{0:rarity:is-unique}/FullName/Prepositional}
+Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+Petals/mjolnir/Gender={#Petals/mjolnir/{0:rarity:is-unique}/Gender}
+
+Petals/mjolnir/not-unique/Name=Фрагмент
+Petals/mjolnir/not-unique/FullName=Фрагмент
+Petals/mjolnir/not-unique/FullName/Prepositional=Фрагменте
+Petals/mjolnir/not-unique/Description=Возможно, из них можно выковать нечто великое?
+Petals/mjolnir/not-unique/Gender=Male
+
+Petals/mjolnir/unique/Name=Мьёльнир
+Petals/mjolnir/unique/FullName=Мьёльнир
+Petals/mjolnir/unique/FullName/Prepositional=Мьёльнире
+Petals/mjolnir/unique/Description=Самый мощный молот во вселенной.
+Petals/mjolnir/unique/Gender=Male
+
+Petals/mecha_missile/Name=Снаряд
+Petals/mecha_missile/FullName=Меха-Снаряд
+Petals/mecha_missile/FullName/Instrumental=Меха-Снарядом
+Petals/mecha_missile/FullName/Prepositional=Меха-Снаряде
+Petals/mecha_missile/Description=Зафиксирован.
+Petals/mecha_missile/Gender=Male
+
+Petals/wax/Name=Воск
+Petals/wax/FullName=Воск
+Petals/wax/FullName/Prepositional=Воске
+Petals/wax/Description=Не спрашивайте, откуда он взялся.
+Petals/wax/Gender=Male
+
+Petals/golden_leaf/Name=Лист
+Petals/golden_leaf/FullName=Золотой Лист
+Petals/golden_leaf/FullName/Prepositional=Золотом Листе
+Petals/golden_leaf/Description=Очень необычный лист, который, кажется, позволяет вам использовать другие лепестки ещё больше.
+Petals/golden_leaf/Gender=Male
+
+Petals/cog/Name=Шестерня
+Petals/cog/FullName=Шестерня
+Petals/cog/FullName/Prepositional=Шестерне
+Petals/cog/Description=Не похоже, чтобы она что-то делала...
+Petals/cog/Gender=Female
+
+Petals/monstera/Name=Монстера
+Petals/monstera/FullName=Монстера
+Petals/monstera/FullName/Prepositional=Монстере
+Petals/monstera/Description=Лечит цветки вокруг себя.<n/>Эффект ослабевает с расстоянием до лепестка.
+Petals/monstera/Gender=Female
+
+Petals/mecha_antennae/Name=Усики
+Petals/mecha_antennae/FullName=Меха-Усики
+Petals/mecha_antennae/FullName/Prepositional=Меха-Усиках
+Petals/mecha_antennae/Description=Позволяют цветку чуять противников на большем расстоянии.<n/>А сверху на них мигают красные лампочки.
+Petals/mecha_antennae/Gender=Plural
+
+Petals/laser/Name=Лазер
+Petals/laser/FullName=Лазер
+Petals/laser/FullName/Prepositional=Лазере
+Petals/laser/Description=Пиу-пиу.
+Petals/laser/Gender=Male
+
+Petals/domino/Name=Домино
+Petals/domino/FullName=Домино
+Petals/domino/FullName/Prepositional=Домино
+Petals/domino/Description=Урон зависит от того, сколько на нём точек.
+Petals/domino/Gender=Neuter
+
+Petals/bandage/Name=Бинт
+Petals/bandage/FullName=Бинт
+Petals/bandage/FullName/Prepositional=Бинте
+Petals/bandage/Description=Превращает цветок в <c val="{#Colors/undead}">Нежить</c> на ограниченное время при смерти.<n/>Откладывает смерть до истечения срока.<n/><c val="{#Colors/damage}">Урон Тела</c> цветка снижается в этот период.<n/>Предотвращает возрождение на некоторое время после этого.
+Petals/bandage/Gender=Male
+
+Petals/pharaoh_crown/Name=Корона
+Petals/pharaoh_crown/FullName=Корона Фараона
+Petals/pharaoh_crown/FullName/Prepositional=Короне Фараона
+Petals/pharaoh_crown/Description=Порождает Жуков-<c val="{#Colors/undead}">Нежить</c> для сражения на вашей стороне.
+Petals/pharaoh_crown/Gender=Female
+
+Petals/totem/Name=Тотем
+Petals/totem/FullName=Тотем
+Petals/totem/FullName/Prepositional=Тотеме
+Petals/totem/Description=Даёт регенерацию здоровья на определённое время после убийства моба.
+Petals/totem/Gender=Male
+
+Petals/triangle/Name=Треугольник
+Petals/triangle/FullName=Треугольник
+Petals/triangle/FullName/Prepositional=Треугольнике
+Petals/triangle/Description=Каждая надетая копия этого лепестка даёт ему дополнительный урон.
+Petals/triangle/Gender=Male
+
+Petals/electric_web/Name=Паутина
+Petals/electric_web/FullName=Электрическая Паутина
+Petals/electric_web/FullName/Prepositional=Электрической Паутине
+Petals/electric_web/Description=Она немного менее липкая, но чуть более шокирующая.
+Petals/electric_web/Gender=Female
+
+Petals/sacrifice/Name=Жертва
+Petals/sacrifice/FullName=Жертва Крови
+Petals/sacrifice/FullName/Prepositional=Жертве Крови
+Petals/sacrifice/Description=При смерти призывает моба для новой битвы.<n/>Тип моба зависит от места совершения жертвы.<n/>Нельзя использовать в зонах с низкой редкостью мобов.
+Petals/sacrifice/Gender=Female
+
+Petals/sawblade/Name=Пила
+Petals/sawblade/FullName=Пила
+Petals/sawblade/FullName/Prepositional=Пиле
+Petals/sawblade/Description=Кажется, будет больно.
+Petals/sawblade/Gender=Female
+
+Petals/clay/Name=Глина
+Petals/clay/FullName=Глина
+Petals/clay/FullName/Prepositional=Глине
+Petals/clay/Description=Она прилипает к пыли в воздухе, чтобы стать больше и сильнее.
+Petals/clay/Gender=Female
+
+Petals/dust/Name=Пыль
+Petals/dust/FullName=Пыль
+Petals/dust/FullName/Prepositional=Пыли
+Petals/dust/Description=Иногда она слипается вместе, иногда нет.
+Petals/dust/Gender=Female
+
+Petals/broccoli/Name=Брокколи
+Petals/broccoli/FullName=Брокколи
+Petals/broccoli/FullName/Prepositional=Брокколи
+Petals/broccoli/Description=Взрывается при столкновении с чем-либо. По неизвестным причинам.
+Petals/broccoli/Gender=Female
+
+Petals/lentil/Name=Чечевица
+Petals/lentil/FullName=Чечевица
+Petals/lentil/FullName/Prepositional=Чечевице
+Petals/lentil/Description=Увеличивает притяжение лепестков к врагам.
+Petals/lentil/Gender=Female
+
+Petals/dead_leaf/Name=Лист
+Petals/dead_leaf/FullName=Мёртвый Лист
+Petals/dead_leaf/FullName/Prepositional=Мёртвом Листе
+Petals/dead_leaf/Description=Увеличивает здоровье лепестков, но замедляет их перезарядку.
+Petals/dead_leaf/Gender=Male
+
+Petals/splitter/Name=Разделитель
+Petals/splitter/FullName=Разделитель Душ
+Petals/splitter/FullName/Prepositional=Разделителе Душ
+Petals/splitter/Description={#Petals/splitter/Description/{0:rarity}#Petals/splitter/Description/default}
+Petals/splitter/Description/default=Разбивает вашу душу на две части.<n/><n/><c val="{#Colors/generic}">Выберите этот лепесток снова, чтобы управлять другой половиной.</c>
+Petals/splitter/Description/unique=Разбивает вашу душу на три части.<n/><n/><c val="{#Colors/generic}">Выберите этот лепесток снова, чтобы управлять другой третью.</c>
+Petals/splitter/Gender=Male
+
+Petals/goggles/Name=Очки
+Petals/goggles/FullName=Паранормальные Очки
+Petals/goggles/FullName/Prepositional=Паранормальных Очках
+Petals/goggles/Description=Позволяют обнаружить некоторую паранормальную активность.
+Petals/goggles/Gender=Plural
+
+Petals/bean/Name=Боб
+Petals/bean/FullName=Боб
+Petals/bean/FullName/Prepositional=Бобе
+Petals/bean/Description=Наносит больше урона, если вокруг вас нет цветков-союзников.
+Petals/bean/Gender=Male

@@ -1,0 +1,432 @@
+Achievements/0/Name=Tutorial
+Achievements/0/Description=Mova-se um pouco
+Achievements/0/ExtraDescription=Use seu mouse para se mover. Sua flor vai automaticamente seguir sua seta.<n />Você pode mudar para movimento de teclado nas configurações.<n/><n/> Mova-se um pouco para proceder
+
+Achievements/1/Name=Tutorial
+Achievements/1/Description=Mate um bicho.
+Achievements/1/ExtraDescription=Esses bichos são seus inimigos. Destruir eles tem chance de dropar novar pétalas.<n/><n/>Ache um e destrua-o.<n/>Você pode segurar o botão esquerdo do seu mouse para estender as suas pétalas
+
+Achievements/2/Name=Tutorial
+Achievements/2/Description=Colete uma pétala
+Achievements/2/ExtraDescription=Continue destruindo os inimigos até que dropem uma pétala, depois vá pra perto da pétala para coletá-la.
+
+Achievements/3/Name=Tutorial
+Achievements/3/Description=Equipe uma pétala
+Achievements/3/ExtraDescription=Se você tiver espaço no seus slots é você coletar uma pétala, ela vai parar em seu slot, caso não tenha espaço, ela irá para seu Inventário.<n/>Clique na pétala que você coletou para equipá-la (ou use o numero de tecla de atalho).
+
+# Desativado.
+Achievements/4/Name=Tutorial
+Achievements/4/Description=Colete mais pétalas.
+Achievements/4/ExtraDescription=Para o próximo passo, nós vamos precisar de muitas pétalas.<n/>Continue destruindo inimigos e coletando pétalas.
+
+Achievements/5/Name=Tutorial
+Achievements/5/Description=Chegue no nível {0}.
+Achievements/5/ExtraDescription=Para subir de nível, continue destruindo alguns bichos.
+
+Achievements/6/Name=Tutorial
+Achievements/6/Description=Use seus pontos de talento (TP).
+Achievements/6/ExtraDescription=Use seus novos pontos de talento para desbloquear novos talentos.<n/><n/>Lembre de clicar e segurar para upar o talento.
+
+Achievements/7/Name=Tutorial
+Achievements/7/Description=Colete algumas pétalas
+Achievements/7/ExtraDescription=Agora precisamos coletar {0} pétalas da mesma pétala {#Rarities/{1}/Female/NameColored} para combinar uma pétala {#Rarities/{2}/Female/NameColored}.<n/>Continue destruindo bichos para conseguir mais pétalas.
+
+Achievements/8/Name=Tutorial
+Achievements/8/Description=Combine uma pétala
+Achievements/8/ExtraDescription=Agora tente combinar sua primeira pétala.<n/>Saiba que talvez você precise desequipar algumas pétalas para ter o suficiente para tentar combina-las.<n/>Você precisa de 5 da mesma pétala.<n/><n/>Não se preocupe, garantimos essa tentativa.
+
+Achievements/9/Name=Tutorial
+Achievements/9/Description=Complete o tutorial.
+
+Achievements/10/Name=Combinador
+Achievements/10/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
+
+Achievements/11/Name=Combinador
+Achievements/11/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
+
+Achievements/12/Name=Combinador
+Achievements/12/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
+
+Achievements/13/Name=Combinador
+Achievements/13/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
+
+Achievements/14/Name=Combinador
+Achievements/14/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
+
+Achievements/15/Name=Combinador
+Achievements/15/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
+
+Achievements/16/Name=Combinador
+Achievements/16/Description=Combine uma pétala {#Rarities/{0}/Female/Name}.
+
+Achievements/17/Name=Prêmio de consolação
+Achievements/17/Description=Falhe uma combinação e perca {0} pétalas
+
+Achievements/18/Name=Prêmio de consolação
+Achievements/18/Description=Falhe uma combinação uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
+
+Achievements/19/Name=Prêmio de consolação
+Achievements/19/Description=Falhe uma combinação uma pétala {#Rarities/{1}/Female/Name} e perca {0} pétalas.
+
+Achievements/20/Name=Escavador
+Achievements/20/Description=Equipe a pétala {#Petals/cutter/Name}.
+
+Achievements/21/Name=Crescendo
+Achievements/21/Description=Chegue no nível {0}.
+
+Achievements/22/Name=Crescendo
+Achievements/22/Description=Chegue no nível {0}.
+
+Achievements/23/Name=Crescendo
+Achievements/23/Description=Chegue no nível {0}.
+
+Achievements/24/Name=Crescendo
+Achievements/24/Description=Chegue no nível {0}.
+
+Achievements/25/Name=Crescendo
+Achievements/25/Description=Chegue no nível {0}.
+
+Achievements/26/Name=Crescendo
+Achievements/26/Description=Chegue no nível {0}.
+
+Achievements/27/Name=Crescendo
+Achievements/27/Description=Chegue no nível {0}.
+
+Achievements/28/Name=Desperdício de pétalas
+Achievements/28/Description=Destrua {0:tooltip} pétalas em tentativas.
+
+Achievements/29/Name=Combinador de volume grande
+Achievements/29/Description=Combine {0:tooltip} pétalas.
+
+Achievements/30/Name=Deserto
+Achievements/30/Description=Visite o Deserto
+
+Achievements/31/Name=Ocean
+Achievements/31/Description=Visite o Oceano
+
+Achievements/32/Name=Bem-vindo à Selva
+Achievements/32/Description=Visite a Selva
+
+Achievements/33/Name=Inferno de Formigas
+Achievements/33/Description=Descubra de onde vêm todas essas formigas irritantes.
+
+Achievements/34/Name=Esgoto
+Achievements/34/Description=Descubra até onde esse cano vai.
+
+Achievements/35/Name=Conquistador
+Achievements/35/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
+
+Achievements/36/Name=Conquistador
+Achievements/36/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
+
+Achievements/37/Name=Conquistador
+Achievements/37/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
+
+Achievements/38/Name=Conquistador
+Achievements/38/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
+
+Achievements/39/Name=Conquistador
+Achievements/39/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
+
+Achievements/40/Name=Conquistador
+Achievements/40/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
+
+Achievements/41/Name=Conquistador
+Achievements/41/Description=Derrote seu primeiro bicho {#Rarities/{0}/Male/Name}.
+
+Achievements/42/Name=Ir para ONDE?
+Achievements/42/Description=Visite outro mundo.
+
+Achievements/43/Name=Desafiador
+Achievements/43/Description=Complete um desafio.
+
+Achievements/44/Name=Desafiador
+Achievements/44/Description=Complete {0} desafios.
+
+Achievements/45/Name=Desafiador
+Achievements/45/Description=Complete {0} desafios.
+
+Achievements/46/Name=Desafiador
+Achievements/46/Description=Complete {0} desafios.
+
+Achievements/47/Name=Prepare-se
+Achievements/47/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
+
+Achievements/48/Name=Prepare-se
+Achievements/48/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
+
+Achievements/49/Name=Prepare-se
+Achievements/49/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
+
+Achievements/50/Name=Prepare-se
+Achievements/50/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
+
+Achievements/51/Name=Prepare-se
+Achievements/51/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
+
+Achievements/52/Name=Prepare-se
+Achievements/52/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
+
+Achievements/53/Name=Prepare-se
+Achievements/53/Description=Equipe {1} pétalas {#Rarities/{0}/Female/NamePlural}.
+
+Achievements/54/Name=Invocador
+Achievements/54/Description=Invoque um bicho amigável.
+
+Achievements/55/Name=Invocador
+Achievements/55/Description=Invoque {0} bichos amigáveis.
+
+Achievements/56/Name=Invocador
+Achievements/56/Description=Invoque {0} bichos amigáveis.
+
+Achievements/57/Name=Invocador
+Achievements/57/Description=Invoque {0} bichos amigáveis.
+
+Achievements/58/Name=Brilhante!
+Achievements/58/Description=Destrua uma Joaninha brilhante.
+
+Achievements/59/Name=Jogo Errado
+Achievements/59/Description=Destrua um Quadrado
+
+Achievements/60/Name=Distribuidor de dor
+Achievements/60/Description=Cause {0:tooltip} de Dano.
+
+Achievements/61/Name=Distribuidor de dor
+Achievements/61/Description=Cause {0:tooltip} de Dano.
+
+Achievements/62/Name=Distribuidor de dor
+Achievements/62/Description=Cause {0:tooltip} de Dano.
+
+Achievements/63/Name=Nocaute com um golpe
+Achievements/63/Description=Destrua um bicho {#Rarities/{0}/Male/Name} em um ataque.
+
+Achievements/64/Name=Nocaute com um golpe
+Achievements/64/Description=Destrua um bicho {#Rarities/{0}/Male/Name} em um ataque.
+
+Achievements/65/Name=Nocaute com um golpe
+Achievements/65/Description=Destrua um bicho {#Rarities/{0}/Male/Name} em um ataque.
+
+Achievements/66/Name=Nocaute com um golpe
+Achievements/66/Description=Destrua um bicho {#Rarities/{0}/Male/Name} em um ataque.
+
+Achievements/67/Name=Nocaute com um golpe
+Achievements/67/Description=Destrua um bicho {#Rarities/{0}/Male/Name} em um ataque.
+
+Achievements/68/Name=Ficando bronzeado
+Achievements/68/Description=Sobreviva {0:time} no Hel.
+
+Achievements/69/Name=Falta de habilidade
+Achievements/69/Description=Encontre a flor do desenvolvedor morta.
+
+Achievements/70/Name=Cupims...?
+Achievements/70/Description=Invoque um cupim amigável.
+
+Achievements/71/Name=Pacifista
+Achievements/71/Description=Fique {0:time} admirando a natureza sem matar um bicho.
+
+Achievements/72/Name=Vá embora
+Achievements/72/Description=Mande uma flor para o Hel.
+
+Achievements/73/Name=Vá embora
+Achievements/73/Description=Mande {0} flores para o Hel.
+
+Achievements/74/Name=Salvo
+Achievements/74/Description=Seja revivido.
+
+Achievements/75/Name=Salvador
+Achievements/75/Description=Reviva uma flor.
+
+Achievements/76/Name=Salvador
+Achievements/76/Description=Reviva {0} flores.
+
+Achievements/77/Name=Quem tudo vê
+Achievements/77/Description=Equipe {#Petals/{0}/Name}.
+
+Achievements/78/Name=Retornar ao remetente
+Achievements/78/Description=Ataque um bicho com {#Petals/{0}/Name}.
+
+Achievements/79/Name=Destruidora de lares
+Achievements/79/Description=Destrua um {#Mobs/{1}/Name}, {#Mobs/{2}/Name} ou {#Mobs/{3}/Name}.
+
+Achievements/80/Name=Destruidora de lares
+Achievements/80/Description=Destrua {0} {#Mobs/{1}/Name}s, {#Mobs/{2}/Name}s ou {#Mobs/{3}/Name}s.
+
+Achievements/81/Name=Ruim
+Achievements/81/Description=Morra.
+
+Achievements/82/Name=Ruim
+Achievements/82/Description=Morra {0} vezes.
+
+Achievements/83/Name=Ruim
+Achievements/83/Description=Morra {0} vezes.
+
+Achievements/84/Name=Assassino em série
+Achievements/84/Description=Destrua {0} bichos entre {1:time} de cada.
+
+Achievements/85/Name=Invencível
+Achievements/85/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} sem morrer.
+
+Achievements/86/Name=Invencível
+Achievements/86/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} sem morrer.
+
+Achievements/87/Name=Invencível
+Achievements/87/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} sem morrer.
+
+Achievements/88/Name=Invencível
+Achievements/88/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} sem morrer.
+
+Achievements/89/Name=Invencível
+Achievements/89/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} sem morrer.
+
+Achievements/90/Name=Invencível
+Achievements/90/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} sem morrer.
+
+Achievements/91/Name=Invencível
+Achievements/91/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural} sem morrer.
+
+Achievements/92/Name=Você é o idiota
+Achievements/92/Description=Morra para {#Mobs/{0}/Name}.
+
+Achievements/93/Name=Genocida
+Achievements/93/Description=Destrua {0} bichos em {1:time}.
+
+Achievements/94/Name=Rolando na massa
+Achievements/94/Description=Obtenha {0} drops em {1:time}.
+
+Achievements/95/Name=Caçador de brilhos
+Achievements/95/Description=Destrua {0} Joaninhas Brilhantes em {1:time}.
+
+Achievements/96/Name=Caçador de Super
+Achievements/96/Description=Destrua {0} bichos {#Rarities/{1}/Male/NamePlural}.
+
+Achievements/97/Name=Sacrifício
+Achievements/97/Description=Morra em {0:time} de reviver alguém.
+
+Achievements/98/Name=Inútil
+Achievements/98/Description=Receba créditos por matar um bicho sem causar nenhum dano a ele.
+
+Achievements/99/Name=Inútil
+Achievements/99/Description=Receba créditos por matar um bicho {#Rarities/{0}/Male/Name} sem causar nenhum dano a ele.
+
+Achievements/100/Name=O Sortudo
+Achievements/100/Description=Combine com sucesso {0} pétalas seguidas.
+
+Achievements/101/Name=O Azarado
+Achievements/101/Description=Falhe de combinar {0} pétalas seguidas.
+
+Achievements/102/Name=Papel
+Achievements/102/Description=Morra para um dano maior que sua vida máxima.
+
+Achievements/103/Name=Estátua
+Achievements/103/Description=Spawne e mate um Inimigo {#Rarities/{0}/Male/Name} sem se mover.
+
+Achievements/104/Name=Estátua
+Achievements/104/Description=Spawne e mate um Inimigo {#Rarities/{0}/Male/Name} sem se mover.
+
+Achievements/105/Name=Inspire, expire
+Achievements/105/Description=Equipe e Desequipe {#Petals/{0}/Name} Muitas vezes.
+
+Achievements/106/Name=Barreira do som
+Achievements/106/Description=Mova-se bem rápido.
+
+Achievements/107/Name=Barreira do som
+Achievements/107/Description=Mova-se mais rápido ainda.
+
+Achievements/108/Name=Biologista
+Achievements/108/Description=Destrua {0} tipos de bichos diferentes sem morrer.
+
+Achievements/109/Name=Coletor
+Achievements/109/Description=Colete {0} tipos de pétalas diferentes sem morrer.
+
+Achievements/110/Name=Toque na grama
+Achievements/110/Description=Não jogue o jogo por {0:time}.
+
+Achievements/111/Name=Carro de corrida
+Achievements/111/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+
+Achievements/112/Name=Carro de corrida
+Achievements/112/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+
+Achievements/113/Name=Carro de corrida
+Achievements/113/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+
+Achievements/114/Name=Carro de corrida
+Achievements/114/Description=Visite Jardim, Deserto, Selva, Oceano e depois volte para o Jardim em menos de {0:time}.
+
+Achievements/115/Name=Biologista
+Achievements/115/Description=Destrua {0} tipos de bichos {#Rarities/{1}/Male/NamePlural} diferentes sem morrer.
+
+Achievements/116/Name=Ruim em todos os sentidos
+Achievements/116/Description=Morra para {0} tipos de bichos diferentes.
+
+Achievements/117/Name=Ruim em todos os sentidos
+Achievements/117/Description=Morra para {0} tipos de bichos diferentes.
+
+Achievements/118/Name=Ruim em todos os sentidos
+Achievements/118/Description=Morra para {0} tipos de bichos diferentes.
+
+Achievements/119/Name=Tocado
+Achievements/119/Description=Toque no desenvolvedor.
+
+Achievements/120/Name=Evasivo
+Achievements/120/Description=Desvie de {0:tooltip} de dano.
+
+Achievements/121/Name=Evasivo
+Achievements/121/Description=Desvie de {0:tooltip} de dano.
+
+Achievements/122/Name=Evasivo
+Achievements/122/Description=Desvie de {0:tooltip} de dano.
+
+Achievements/123/Name=Advogado do Diabo
+Achievements/123/Description=Enquanto estiver no Hel, mate {0} flores sem morrer.
+
+Achievements/124/Name=Odiador
+Achievements/124/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
+
+Achievements/125/Name=Odiador
+Achievements/125/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
+
+Achievements/126/Name=Odiador
+Achievements/126/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
+
+Achievements/127/Name=Odiador
+Achievements/127/Description=Destrua {0} bichos do mesmo tipo seguidos sem morrer.
+
+Achievements/128/Name=Vingança
+Achievements/128/Description=Mate o bicho que te matou.
+
+Achievements/129/Name=Vingança
+Achievements/129/Description=Mate o bicho que te matou em {0:time} desde sua morte.
+
+Achievements/130/Name=Troca
+Achievements/130/Description=Adquira uma {#Petals/{0:base}/Name} fazendo uma troca.
+
+Achievements/131/Name=Troca
+Achievements/131/Description=Adquira uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name} fazendo uma troca.
+
+Achievements/132/Name=Troca
+Achievements/132/Description=Adquira uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name} fazendo uma troca.
+
+Achievements/133/Name=Apostador
+Achievements/133/Description=Insira {0} Fichas no Plinko.
+
+Achievements/134/Name=PRÊMIO ELEGANTE!
+Achievements/134/Description=Acerte o Prêmio elegante no Plinko.
+
+Achievements/135/Name=Grande apostador
+Achievements/135/Description=Insira uma {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name} no Plinko.
+
+Achievements/136/Name=Aquele que tudo vê
+Achievements/136/Description=Combine uma pétala utilizando o Oráculo.
+
+Achievements/137/Name=Foi o destino
+Achievements/137/Description=Combine uma pétala {#Rarities/{0}/Female/Name} utilizando o Oráculo.
+
+Achievements/138/Name=Mágico
+Achievements/138/Description=Equipe uma {#Petals/{0}/Name}.
+
+Achievements/139/Name=Estou me sentindo sortudo
+Achievements/139/Description=Receba um drop extra devido a um {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/{#Petals/{0:base}/Gender}/Name}.
+
+Achievements/140/Name=Sacrifício de Sangue
+Achievements/140/Description=Realize um Sacríficio de Sangue.

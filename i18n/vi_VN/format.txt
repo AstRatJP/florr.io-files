@@ -1,0 +1,18 @@
+UI/Time/Days={0} ngày
+UI/Time/Hours={0} giờ
+UI/Time/Minutes={0} phút
+UI/Time/Seconds={0} giây
+UI/Time/Now=ngay bây giờ
+
+UI/TooltipTime/Days={0:tooltip} ngày
+UI/TooltipTime/Hours={0:tooltip} giờ
+UI/TooltipTime/Minutes={0:tooltip} phút
+UI/TooltipTime/Seconds={0:tooltip} giây
+UI/TooltipTime/Now=ngay bây giờ
+
+UI/Tooltip/Grouping=1000
+UI/Tooltip/Group0={0}
+UI/Tooltip/Group1={0}N
+UI/Tooltip/Group2={0}Tr
+UI/Tooltip/Group3={0}T
+UI/Tooltip/Group4={0}NT

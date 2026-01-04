@@ -1,0 +1,30 @@
+Maps/ant_hell/Name=Địa Ngục Kiến
+
+Maps/ant_hole1/Name=Tổ Kiến
+Maps/ant_hole2/Name=Tổ Kiến
+Maps/ant_hole3/Name=Tổ Kiến
+Maps/ant_hole4/Name=Tổ Kiến
+Maps/ant_hole5/Name=Tổ Kiến
+
+Maps/crystal_room/Name=Phòng Pha Lê
+
+Maps/desert/Name=Sa Mạc
+
+Maps/factory/Name=Nhà Máy
+
+Maps/garden/Name=Khu Vườn
+
+Maps/hel/Name=Hel
+
+Maps/jungle/Name=Rừng Rậm
+
+Maps/ocean/Name=Đại Dương
+
+Maps/pyramid/Name=Kim Tự Tháp
+Maps/pyramid/Changing=Những hạt cát dưới chân bạn bắt đầu dịch chuyển...
+
+Maps/sewers/Name=Cống Rãnh
+
+Maps/training_grounds/Name=Sân Tập Luyện
+
+Maps/worm/Name=Giun

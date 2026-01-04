@@ -1,0 +1,432 @@
+Achievements/0/Name=Hướng dẫn
+Achievements/0/Description=Di chuyển một ít.
+Achievements/0/ExtraDescription=Sử dụng con trỏ để di chuyển. Bông hoa của bạn sẽ di chuyển theo hướng con trỏ.<n/>Bạn có thể chuyển sang di chuyển bằng bàn phím ở trong mục cài đặt.<n/><n/>Di chuyển một chút để tiếp tục.
+
+Achievements/1/Name=Hướng dẫn
+Achievements/1/Description=Tiêu diệt một kẻ địch.
+Achievements/1/ExtraDescription=Những con côn trùng là những kẻ địch của bạn. Tiêu diệt chúng có thể rơi ra những cánh hoa mới.<n/><n/>Tìm một con và tiêu diệt nó.<n/>Bạn có thể nhấn giữ chuột trái để đánh xa hơn.
+
+Achievements/2/Name=Hướng dẫn
+Achievements/2/Description=Nhặt một cánh hoa.
+Achievements/2/ExtraDescription=Tiếp tục tiêu diệt quái đến khi chúng rơi một cánh hoa, sau đó tiến gần và nhặt nó.
+
+Achievements/3/Name=Hướng dẫn
+Achievements/3/Description=Trang bị một cánh hoa.
+Achievements/3/ExtraDescription=Nếu bạn có đủ chỗ trong Bộ trang bị khi nhặt một cánh hoa, nó sẽ được đặt trong đó, nếu không thì nó sẽ nằm ở trong Túi đồ của bạn.<n/>Nhấn vào cánh hoa bạn vừa thu thập để trang bị (hoặc sử dụng phím số để hoán đổi).
+
+# Disabled
+Achievements/4/Name=Hướng dẫn
+Achievements/4/Description=Thu thập thêm cánh hoa.
+Achievements/4/ExtraDescription=Để thực hiện bước tiếp theo, chúng ta cần nhiều cánh hoa.<n/>Tiếp tục tiêu diệt kẻ địch và thu thập thêm cánh hoa.
+
+Achievements/5/Name=Hướng dẫn
+Achievements/5/Description=Đạt cấp {0}.
+Achievements/5/ExtraDescription=Để lên cấp, bạn cần tiếp tục tiêu diệt các con côn trùng.
+
+Achievements/6/Name=Hướng dẫn
+Achievements/6/Description=Sử dụng điểm Thiên phú của bạn.
+Achievements/6/ExtraDescription=Sử dụng điểm Thiên phú mới bạn vừa có để mở khóa bất kỳ Thiên phú nào.<n/><n/>Nhớ rằng bạn cần nhấn giữ để nâng cấp thiên phú.
+
+Achievements/7/Name=Hướng dẫn
+Achievements/7/Description=Thu thập thêm cánh hoa.
+Achievements/7/ExtraDescription=Bây giờ chúng ta cần thu thập {0} cánh hoa {#Rarities/{1}/NameColored} cùng loại để chế tạo một cánh hoa {#Rarities/{2}/NameColored}.<n/>Tiếp tục tiêu diệt các con côn trùng để thu thập thêm cánh hoa.
+
+Achievements/8/Name=Hướng dẫn
+Achievements/8/Description=Chế tạo một cánh hoa.
+Achievements/8/ExtraDescription=Bây giờ hãy thử chế tạo cánh hoa đầu tiên của bạn.<n/>Lưu ý rằng bạn có thể cần phải tháo một số cánh hoa để có đủ nguyên liệu cho việc chế tạo này.<n/>Bạn cần 5 cánh hoa cùng loại.<n/><n/>Đừng lo, chúng tôi đã chuẩn bị bảo hiểm cho bạn, lượt chế tạo này sẽ thành công.
+
+Achievements/9/Name=Hướng dẫn
+Achievements/9/Description=Hoàn thành hướng dẫn.
+
+Achievements/10/Name=Thợ chế tạo
+Achievements/10/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/11/Name=Thợ chế tạo
+Achievements/11/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/12/Name=Thợ chế tạo
+Achievements/12/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/13/Name=Thợ chế tạo
+Achievements/13/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/14/Name=Thợ chế tạo
+Achievements/14/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/15/Name=Thợ chế tạo
+Achievements/15/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/16/Name=Thợ chế tạo
+Achievements/16/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/17/Name=Giải thưởng an ủi
+Achievements/17/Description=Thất bại trong việc chế tạo cánh hoa và mất {0} cánh hoa.
+
+Achievements/18/Name=Giải thưởng an ủi
+Achievements/18/Description=Thất bại trong việc chế tạo một cánh hoa {#Rarities/{1}/Name} và mất {0} cánh hoa.
+
+Achievements/19/Name=Giải thưởng an ủi
+Achievements/19/Description=Thất bại trong việc chế tạo một cánh hoa {#Rarities/{1}/Name} và mất {0} cánh hoa.
+
+Achievements/20/Name=Thợ đào
+Achievements/20/Description=Trang bị một {#Petals/cutter/Name}.
+
+Achievements/21/Name=Trưởng thành
+Achievements/21/Description=Đạt cấp {0}.
+
+Achievements/22/Name=Trưởng thành
+Achievements/22/Description=Đạt cấp {0}.
+
+Achievements/23/Name=Trưởng thành
+Achievements/23/Description=Đạt cấp {0}.
+
+Achievements/24/Name=Trưởng thành
+Achievements/24/Description=Đạt cấp {0}.
+
+Achievements/25/Name=Trưởng thành
+Achievements/25/Description=Đạt cấp {0}.
+
+Achievements/26/Name=Trưởng thành
+Achievements/26/Description=Đạt cấp {0}.
+
+Achievements/27/Name=Trưởng thành
+Achievements/27/Description=Đạt cấp {0}.
+
+Achievements/28/Name=Lãng phí
+Achievements/28/Description=Phá hủy {0:tooltip} cánh hoa trong các lần chế tạo.
+
+Achievements/29/Name=Thợ chế tạo số lượng lớn
+Achievements/29/Description=Chế tạo {0:tooltip} cánh hoa.
+
+Achievements/30/Name=Sa mạc
+Achievements/30/Description=Chạm đất Sa Mạc.
+
+Achievements/31/Name=Đại Dương
+Achievements/31/Description=Chạm đất Đại Dương.
+
+Achievements/32/Name=Chào mừng đến với Rừng nhiệt đới
+Achievements/32/Description=Chạm đất Rừng Rậm.
+
+Achievements/33/Name=Địa ngục Kiến
+Achievements/33/Description=Tìm ra nơi những con kiến phiền phức này đến từ đâu.
+
+Achievements/34/Name=Cống rãnh
+Achievements/34/Description=Tìm ra nơi cái ống này dẫn đến.
+
+Achievements/35/Name=Chinh phục
+Achievements/35/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
+
+Achievements/36/Name=Chinh phục
+Achievements/36/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
+
+Achievements/37/Name=Chinh phục
+Achievements/37/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
+
+Achievements/38/Name=Chinh phục
+Achievements/38/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
+
+Achievements/39/Name=Chinh phục
+Achievements/39/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
+
+Achievements/40/Name=Chinh phục
+Achievements/40/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
+
+Achievements/41/Name=Chinh phục
+Achievements/41/Description=Đánh bại kẻ địch {#Rarities/{0}/Name} đầu tiên của bạn.
+
+Achievements/42/Name=Đây là đâu?!
+Achievements/42/Description=Đến cõi bên kia.
+
+Achievements/43/Name=Nhà chinh phục
+Achievements/43/Description=Hoàn thành một thử thách.
+
+Achievements/44/Name=Nhà chinh phục
+Achievements/44/Description=Hoàn thành {0} thử thách.
+
+Achievements/45/Name=Nhà chinh phục
+Achievements/45/Description=Hoàn thành {0} thử thách.
+
+Achievements/46/Name=Nhà chinh phục
+Achievements/46/Description=Hoàn thành {0} thử thách.
+
+Achievements/47/Name=Trang bị đầy đủ
+Achievements/47/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/48/Name=Trang bị đầy đủ
+Achievements/48/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/49/Name=Trang bị đầy đủ
+Achievements/49/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/50/Name=Trang bị đầy đủ
+Achievements/50/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/51/Name=Trang bị đầy đủ
+Achievements/51/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/52/Name=Trang bị đầy đủ
+Achievements/52/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/53/Name=Trang bị đầy đủ
+Achievements/53/Description=Trang bị {1} cánh hoa {#Rarities/{0}/Name}.
+
+Achievements/54/Name=Triệu hồi
+Achievements/54/Description=Triệu hồi một quái vật thân thiện.
+
+Achievements/55/Name=Triệu hồi
+Achievements/55/Description=Triệu hồi {0} quái vật thân thiện.
+
+Achievements/56/Name=Triệu hồi
+Achievements/56/Description=Triệu hồi {0} quái vật thân thiện.
+
+Achievements/57/Name=Triệu hồi
+Achievements/57/Description=Triệu hồi {0} quái vật thân thiện.
+
+Achievements/58/Name=Lấp lánh!
+Achievements/58/Description=Tiêu diệt một con bọ rùa vàng.
+
+Achievements/59/Name=Nhầm trò chơi rồi bạn à
+Achievements/59/Description=Tiêu diệt một hình vuông.
+
+Achievements/60/Name=Kẻ gieo đau thương
+Achievements/60/Description=Gây {0:tooltip} sát thương.
+
+Achievements/61/Name=Kẻ gieo đau thương
+Achievements/61/Description=Gây {0:tooltip} sát thương.
+
+Achievements/62/Name=Kẻ gieo đau thương
+Achievements/62/Description=Gây {0:tooltip} sát thương.
+
+Achievements/63/Name=Một nhát kết liễu
+Achievements/63/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+
+Achievements/64/Name=Một nhát kết liễu
+Achievements/64/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+
+Achievements/65/Name=Một nhát kết liễu
+Achievements/65/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+
+Achievements/66/Name=Một nhát kết liễu
+Achievements/66/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+
+Achievements/67/Name=Một nhát kết liễu
+Achievements/67/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
+
+Achievements/68/Name=Cháy trong địa ngục
+Achievements/68/Description=Sinh tồn được {0:time} trong Địa ngục.
+
+Achievements/69/Name=Vấn đề kĩ năng
+Achievements/69/Description=Tìm thấy hoa của Nhà phát triển đã chết.
+
+Achievements/70/Name=Mối...!?
+Achievements/70/Description=Triệu hồi một con mối thân thiện.
+
+Achievements/71/Name=Hòa bình
+Achievements/71/Description=Dành {0:time} ngắm thiên nhiên mà không tiêu diệt bất cứ thứ gì.
+
+Achievements/72/Name=Biến đi
+Achievements/72/Description=Gửi một bông hoa đến Địa ngục.
+
+Achievements/73/Name=Biến đi
+Achievements/73/Description=Gửi {0} bông hoa đến Địa ngục.
+
+Achievements/74/Name=Được cứu
+Achievements/74/Description=Được hồi sinh.
+
+Achievements/75/Name=Đấng cứu thế
+Achievements/75/Description=Hồi sinh một bông hoa.
+
+Achievements/76/Name=Đấng cứu thế
+Achievements/76/Description=Hồi sinh {0} bông hoa.
+
+Achievements/77/Name=Nhìn thấu
+Achievements/77/Description=Trang bị {#Petals/{0}/Name}.
+
+Achievements/78/Name=Đánh trả
+Achievements/78/Description=Đánh trúng một quái vật bằng {#Petals/{0}/Name}.
+
+Achievements/79/Name=Phá hoại
+Achievements/79/Description=Tiêu diệt một {#Mobs/{1}/Name}, {#Mobs/{2}/Name} hoặc {#Mobs/{3}/Name}.
+
+Achievements/80/Name=Phá hoại
+Achievements/80/Description=Tiêu diệt {0} {#Mobs/{1}/Name}, {#Mobs/{2}/Name} hoặc {#Mobs/{3}/Name}.
+
+Achievements/81/Name=Tệ
+Achievements/81/Description=Chết.
+
+Achievements/82/Name=Tệ
+Achievements/82/Description=Chết {0} lần.
+
+Achievements/83/Name=Tệ
+Achievements/83/Description=Chết {0} lần.
+
+Achievements/84/Name=Kẻ sát nhân hàng loạt
+Achievements/84/Description=Tiêu diệt {0} con quái trong vòng {1:time}.
+
+Achievements/85/Name=Bất khả chiến bại
+Achievements/85/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}+ mà không chết.
+
+Achievements/86/Name=Bất khả chiến bại
+Achievements/86/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}+ mà không chết.
+
+Achievements/87/Name=Bất khả chiến bại
+Achievements/87/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}+ mà không chết.
+
+Achievements/88/Name=Bất khả chiến bại
+Achievements/88/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}+ mà không chết.
+
+Achievements/89/Name=Bất khả chiến bại
+Achievements/89/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}+ mà không chết.
+
+Achievements/90/Name=Bất khả chiến bại
+Achievements/90/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}+ mà không chết.
+
+Achievements/91/Name=Bất khả chiến bại
+Achievements/91/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}+ mà không chết.
+
+Achievements/92/Name=Ngốc thật
+Achievements/92/Description=Chết bởi một {#Mobs/{0}/Name}.
+
+Achievements/93/Name=Diệt chủng
+Achievements/93/Description=Tiêu diệt {0} quái vật trong vòng {1:time}.
+
+Achievements/94/Name=Nhà giàu
+Achievements/94/Description=Thu thập {0} vật phẩm trong vòng {1:time}.
+
+Achievements/95/Name=Thợ săn châu báu
+Achievements/95/Description=Tiêu diệt {0} bọ rùa vàng trong vòng {1:time}.
+
+Achievements/96/Name=Thợ săn Siêu đẳng
+Achievements/96/Description=Tiêu diệt {0} con quái {#Rarities/{1}/Name}.
+
+Achievements/97/Name=Hy sinh
+Achievements/97/Description=Chết trong vòng {0:time} sau khi hồi sinh ai đó.
+
+Achievements/98/Name=Vô ích
+Achievements/98/Description=Giết một con quái mà không cần gây ra bất kỳ sát thương nào.
+
+Achievements/99/Name=Vô ích
+Achievements/99/Description=Giết một con quái {#Rarities/{0}/Name} không cần bất kỳ sát thương nào.
+
+Achievements/100/Name=May mắn
+Achievements/100/Description=Thành công chế tạo {0} cánh hoa liên tiếp.
+
+Achievements/101/Name=Xui xẻo
+Achievements/101/Description=Thất bại trong việc chế tạo {0} cánh hoa liên tiếp.
+
+Achievements/102/Name=Giấy
+Achievements/102/Description=Chết bởi một cú tấn công có sát thương cao hơn máu tối đa của bạn.
+
+Achievements/103/Name=Tượng
+Achievements/103/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} mà không di chuyển.
+
+Achievements/104/Name=Tượng
+Achievements/104/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} mà không di chuyển.
+
+Achievements/105/Name=Hít vào, thở ra
+Achievements/105/Description=Trang bị và tháo bỏ {#Petals/{0}/Name} nhiều lần.
+
+Achievements/106/Name=Rào cản âm thanh
+Achievements/106/Description=Di chuyển thật nhanh.
+
+Achievements/107/Name=Rào cản âm thanh
+Achievements/107/Description=Di chuyển nhanh hơn.
+
+Achievements/108/Name=Nhà sinh vật học
+Achievements/108/Description=Tiêu diệt {0} loại quái vật khác nhau mà không chết.
+
+Achievements/109/Name=Nhà sưu tầm
+Achievements/109/Description=Thu thập {0} loại cánh hoa khác nhau mà không chết.
+
+Achievements/110/Name=Chạm cỏ
+Achievements/110/Description=Không chơi game trong {0:time}.
+
+Achievements/111/Name=Xe đua
+Achievements/111/Description=Đi từ Khu Vườn, Sa Mạc, Rừng Rậm, Đại Dương, rồi quay lại Khu Vườn trong thời gian ít hơn {0:time}.
+
+Achievements/112/Name=Xe đua
+Achievements/112/Description=Đi từ Khu Vườn, Sa Mạc, Rừng Rậm, Đại Dương, rồi quay lại Khu Vườn trong thời gian ít hơn {0:time}.
+
+Achievements/113/Name=Xe đua  
+Achievements/113/Description=Đi từ Khu Vườn, Sa Mạc, Rừng Rậm, Đại Dương, rồi quay lại Khu Vườn trong thời gian ít hơn {0:time}.
+
+Achievements/114/Name=Xe đua  
+Achievements/114/Description=Đi từ Khu Vườn, Sa Mạc, Rừng Rậm, Đại Dương, rồi quay lại Khu Vườn trong thời gian ít hơn {0:time}.
+
+Achievements/115/Name=Nhà sinh vật học
+Achievements/115/Description=Tiêu diệt {0} loại quái vật {#Rarities/{1}/Name}+ khác nhau mà không chết.
+
+Achievements/116/Name=Tệ theo mọi cách
+Achievements/116/Description=Chết bởi {0} loại quái vật khác nhau.
+
+Achievements/117/Name=Tệ theo mọi cách
+Achievements/117/Description=Chết bởi {0} loại quái vật khác nhau.
+
+Achievements/118/Name=Tệ theo mọi cách
+Achievements/118/Description=Chết bởi {0} loại quái vật khác nhau.
+
+Achievements/119/Name=Chạm
+Achievements/119/Description=Chạm vào Nhà phát triển.
+
+Achievements/120/Name=Né tránh
+Achievements/120/Description=Tránh được {0:tooltip} sát thương.
+
+Achievements/121/Name=Né tránh
+Achievements/121/Description=Tránh được {0:tooltip} sát thương.
+
+Achievements/122/Name=Né tránh
+Achievements/122/Description=Tránh được {0:tooltip} sát thương.
+
+Achievements/123/Name=Lời biện hộ của quỷ
+Achievements/123/Description=Trong Địa ngục, tiêu diệt {0} bông hoa mà không chết.
+
+Achievements/124/Name=Ghét
+Achievements/124/Description=Tiêu diệt {0} quái vật cùng loại liên tiếp mà không chết.
+
+Achievements/125/Name=Ghét
+Achievements/125/Description=Tiêu diệt {0} quái vật {#Rarities/{1}/Name}+ cùng loại liên tiếp mà không chết.
+
+Achievements/126/Name=Ghét
+Achievements/126/Description=Tiêu diệt {0} quái vật {#Rarities/{1}/Name}+ cùng loại liên tiếp mà không chết.
+
+Achievements/127/Name=Ghét
+Achievements/127/Description=Tiêu diệt {0} quái vật {#Rarities/{1}/Name}+ cùng loại liên tiếp mà không chết.
+
+Achievements/128/Name=Phục thù
+Achievements/128/Description=Tiêu diệt con quái đã giết bạn.
+
+Achievements/129/Name=Phục thù
+Achievements/129/Description=Tiêu diệt con quái đã giết bạn trong vòng {0:time} sau khi bạn chết.
+
+Achievements/130/Name=Trao đổi
+Achievements/130/Description=Lấy được một {#Petals/{0:base}/Name} thông qua việc trao đổi.
+
+Achievements/131/Name=Trao đổi
+Achievements/131/Description=Lấy được {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} thông qua việc trao đổi.
+
+Achievements/132/Name=Trao đổi
+Achievements/132/Description=Lấy được {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} thông qua việc trao đổi.
+
+Achievements/133/Name=Con bạc
+Achievements/133/Description=Thả {0} Phỉnh vào trong Plinko.
+
+Achievements/134/Name=JACKPOT!
+Achievements/134/Description=Giành được giải thưởng lớn nhất ở trong Plinko.
+
+Achievements/135/Name=Đại gia
+Achievements/135/Description=Thả {#Rarities/{0:rarity}/Article} {#Petals/{0:base}/Name} {#Rarities/{0:rarity}/Name} vào trong Plinko.
+
+Achievements/136/Name=Đấng toàn tri
+Achievements/136/Description=Tạo nên một cánh hoa nhờ tri thức từ Nhà tiên tri.
+
+Achievements/137/Name=Định mệnh
+Achievements/137/Description=Chế tạo một cánh hoa {#Rarities/{0}/Name}+ nhờ tri thức từ Nhà tiên tri.
+
+Achievements/138/Name=Pháp sư
+Achievements/138/Description=Trang bị một {#Petals/{0}/Name}.
+
+Achievements/139/Name=Tôi cảm thấy may mắn
+Achievements/139/Description=Nhận thêm vật phẩm rơi nhờ {#Petals/{0:base}/FullName}.
+
+Achievements/140/Name=Máu Hiến Tế
+Achievements/140/Description=Thực hiện Hiến Tế bằng Máu.

@@ -1,0 +1,459 @@
+Talents/crafting/Name=Крафт
+Talents/crafting/Description=Открывает возможность крафтить <c val="{#Colors/{0:rarity}}">{#Rarities/{0:rarity}/Name/Plural/Accusative/Inanimate}</c> лепестки
+Talents/crafting/Gender=Male
+
+Talents/crafting_unusual/Name={#Talents/crafting/Name}
+Talents/crafting_unusual/Description={#Talents/crafting/Description}
+Talents/crafting_unusual/Gender={#Talents/crafting/Gender}
+
+Talents/crafting_rare/Name={#Talents/crafting/Name}
+Talents/crafting_rare/Description={#Talents/crafting/Description}
+Talents/crafting_rare/Gender={#Talents/crafting/Gender}
+
+Talents/crafting_epic/Name={#Talents/crafting/Name}
+Talents/crafting_epic/Description={#Talents/crafting/Description}
+Talents/crafting_epic/Gender={#Talents/crafting/Gender}
+
+Talents/crafting_legendary/Name={#Talents/crafting/Name}
+Talents/crafting_legendary/Description={#Talents/crafting/Description}
+Talents/crafting_legendary/Gender={#Talents/crafting/Gender}
+
+Talents/crafting_mythic/Name={#Talents/crafting/Name}
+Talents/crafting_mythic/Description={#Talents/crafting/Description}
+Talents/crafting_mythic/Gender={#Talents/crafting/Gender}
+
+Talents/crafting_ultra/Name={#Talents/crafting/Name}
+Talents/crafting_ultra/Description={#Talents/crafting/Description}
+Talents/crafting_ultra/Gender={#Talents/crafting/Gender}
+
+Talents/crafting_super/Name={#Talents/crafting/Name}
+Talents/crafting_super/Description={#Talents/crafting/Description}
+Talents/crafting_super/Gender={#Talents/crafting/Gender}
+
+Talents/inventory6/Name=Снаряжение
+Talents/inventory6/Description=Открывает 6-й слот снаряжения для надевания лепестков.
+Talents/inventory6/Gender=Neuter
+
+Talents/inventory7/Name=Снаряжение
+Talents/inventory7/Description=Открывает 7-й слот снаряжения для надевания лепестков.
+Talents/inventory7/Gender=Neuter
+
+Talents/inventory8/Name=Снаряжение
+Talents/inventory8/Description=Открывает 8-й слот снаряжения для надевания лепестков.
+Talents/inventory8/Gender=Neuter
+
+Talents/inventory9/Name=Снаряжение
+Talents/inventory9/Description=Открывает 9-й слот снаряжения для надевания лепестков.
+Talents/inventory9/Gender=Neuter
+
+Talents/inventory10/Name=Снаряжение
+Talents/inventory10/Description=Открывает 10-й слот снаряжения для надевания лепестков.
+Talents/inventory10/Gender=Neuter
+
+Talents/health/Name=Здоровье
+Talents/health/Description={#Talents/health/Description/1xx/{!cmp:{1:perc}:<:200}}
+Talents/health/Description/1xx/0=Увеличивает базовое {#Flower/Attribute/HealthNoColon/Accusative} с {1:perc}% до {2:perc}%.
+Talents/health/Description/1xx/1=Увеличивает базовое {#Flower/Attribute/HealthNoColon/Accusative} со {1:perc}% до {2:perc}%.
+Talents/health/Gender=Neuter
+
+Talents/health1/Name={#Talents/health/Name}
+Talents/health1/Description=Увеличивает базовое {#Flower/Attribute/HealthNoColon/Accusative} на {0:perc}%.
+Talents/health1/Gender={#Talents/health/Gender}
+
+Talents/health2/Name={#Talents/health/Name}
+Talents/health2/Description={#Talents/health/Description}
+Talents/health2/Gender={#Talents/health/Gender}
+
+Talents/health3/Name={#Talents/health/Name}
+Talents/health3/Description={#Talents/health/Description}
+Talents/health3/Gender={#Talents/health/Gender}
+
+Talents/health4/Name={#Talents/health/Name}
+Talents/health4/Description={#Talents/health/Description}
+Talents/health4/Gender={#Talents/health/Gender}
+
+Talents/health5/Name={#Talents/health/Name}
+Talents/health5/Description={#Talents/health/Description}
+Talents/health5/Gender={#Talents/health/Gender}
+
+Talents/health6/Name={#Talents/health/Name}
+Talents/health6/Description={#Talents/health/Description}
+Talents/health6/Gender={#Talents/health/Gender}
+
+Talents/health7/Name={#Talents/health/Name}
+Talents/health7/Description={#Talents/health/Description}
+Talents/health7/Gender={#Talents/health/Gender}
+
+Talents/health8/Name={#Talents/health/Name}
+Talents/health8/Description={#Talents/health/Description}
+Talents/health8/Gender={#Talents/health/Gender}
+
+Talents/health9/Name={#Talents/health/Name}
+Talents/health9/Description={#Talents/health/Description}
+Talents/health9/Gender={#Talents/health/Gender}
+
+Talents/luck/Name=Удача
+Talents/luck/Description=Увеличивает {#Flower/Attribute/LuckNoColon/Accusative} на {0:tooltip}.<n/>{#UI/Luck/Help}
+Talents/luck/Gender=Female
+
+Talents/luck1/Name={#Talents/luck/Name}
+Talents/luck1/Description={#Talents/luck/Description}
+Talents/luck1/Gender={#Talents/luck/Gender}
+
+Talents/luck2/Name={#Talents/luck/Name}
+Talents/luck2/Description={#Talents/luck/Description}
+Talents/luck2/Gender={#Talents/luck/Gender}
+
+Talents/luck3/Name={#Talents/luck/Name}
+Talents/luck3/Description={#Talents/luck/Description}
+Talents/luck3/Gender={#Talents/luck/Gender}
+
+Talents/luck4/Name={#Talents/luck/Name}
+Talents/luck4/Description={#Talents/luck/Description}
+Talents/luck4/Gender={#Talents/luck/Gender}
+
+Talents/luck5/Name={#Talents/luck/Name}
+Talents/luck5/Description={#Talents/luck/Description}
+Talents/luck5/Gender={#Talents/luck/Gender}
+
+Talents/luck6/Name={#Talents/luck/Name}
+Talents/luck6/Description={#Talents/luck/Description}
+Talents/luck6/Gender={#Talents/luck/Gender}
+
+Talents/luck7/Name={#Talents/luck/Name}
+Talents/luck7/Description={#Talents/luck/Description}
+Talents/luck7/Gender={#Talents/luck/Gender}
+
+Talents/luck8/Name={#Talents/luck/Name}
+Talents/luck8/Description={#Talents/luck/Description}
+Talents/luck8/Gender={#Talents/luck/Gender}
+
+Talents/luck9/Name={#Talents/luck/Name}
+Talents/luck9/Description={#Talents/luck/Description}
+Talents/luck9/Gender={#Talents/luck/Gender}
+
+Talents/medic/Name=Медик
+Talents/medic/Description={#Talents/medic/Description/1xx/{!cmp:{1:perc}:<:200}}
+Talents/medic/Description/1xx/0=Увеличивает {#Flower/Attribute/HealingNoColon/Accusative} от ваших лепестков с {1:perc}% до {2:perc}%.<n/>Влияет на союзников, исцелённых вашими лепестками.
+Talents/medic/Description/1xx/1=Увеличивает {#Flower/Attribute/HealingNoColon/Accusative} от ваших лепестков со {1:perc}% до {2:perc}%.<n/>Влияет на союзников, исцелённых вашими лепестками.
+Talents/medic/Gender=Male
+
+Talents/medic1/Name={#Talents/medic/Name}
+Talents/medic1/Description={#Talents/medic/Description}
+Talents/medic1/Gender={#Talents/medic/Gender}
+
+Talents/medic2/Name={#Talents/medic/Name}
+Talents/medic2/Description={#Talents/medic/Description}
+Talents/medic2/Gender={#Talents/medic/Gender}
+
+Talents/medic3/Name={#Talents/medic/Name}
+Talents/medic3/Description={#Talents/medic/Description}
+Talents/medic3/Gender={#Talents/medic/Gender}
+
+Talents/medic4/Name={#Talents/medic/Name}
+Talents/medic4/Description={#Talents/medic/Description}
+Talents/medic4/Gender={#Talents/medic/Gender}
+
+Talents/medic5/Name={#Talents/medic/Name}
+Talents/medic5/Description={#Talents/medic/Description}
+Talents/medic5/Gender={#Talents/medic/Gender}
+
+Talents/medic6/Name={#Talents/medic/Name}
+Talents/medic6/Description={#Talents/medic/Description}
+Talents/medic6/Gender={#Talents/medic/Gender}
+
+Talents/medic7/Name={#Talents/medic/Name}
+Talents/medic7/Description={#Talents/medic/Description}
+Talents/medic7/Gender={#Talents/medic/Gender}
+
+Talents/medic8/Name={#Talents/medic/Name}
+Talents/medic8/Description={#Talents/medic/Description}
+Talents/medic8/Gender={#Talents/medic/Gender}
+
+Talents/medic9/Name={#Talents/medic/Name}
+Talents/medic9/Description={#Talents/medic/Description}
+Talents/medic9/Gender={#Talents/medic/Gender}
+
+Talents/summoner/Name=Призыватель
+Talents/summoner/Description={#Talents/summoner/Description/1xx/{!cmp:{1:perc}:<:200}}
+Talents/summoner/Description/1xx/0=Увеличивает {#Mob/Attribute/HealthNoColon/Accusative} призываемых мобов с {1:perc}% до {2:perc}%.
+Talents/summoner/Description/1xx/1=Увеличивает {#Mob/Attribute/HealthNoColon/Accusative} призываемых мобов со {1:perc}% до {2:perc}%.
+Talents/summoner/Gender=Male
+
+Talents/summoner1/Name={#Talents/summoner/Name}
+Talents/summoner1/Description={#Talents/summoner/Description}
+Talents/summoner1/Gender={#Talents/summoner/Gender}
+
+Talents/summoner2/Name={#Talents/summoner/Name}
+Talents/summoner2/Description={#Talents/summoner/Description}
+Talents/summoner2/Gender={#Talents/summoner/Gender}
+
+Talents/summoner3/Name={#Talents/summoner/Name}
+Talents/summoner3/Description={#Talents/summoner/Description}
+Talents/summoner3/Gender={#Talents/summoner/Gender}
+
+Talents/summoner4/Name={#Talents/summoner/Name}
+Talents/summoner4/Description={#Talents/summoner/Description}
+Talents/summoner4/Gender={#Talents/summoner/Gender}
+
+Talents/summoner5/Name={#Talents/summoner/Name}
+Talents/summoner5/Description={#Talents/summoner/Description}
+Talents/summoner5/Gender={#Talents/summoner/Gender}
+
+Talents/summoner6/Name={#Talents/summoner/Name}
+Talents/summoner6/Description={#Talents/summoner/Description}
+Talents/summoner6/Gender={#Talents/summoner/Gender}
+
+Talents/summoner7/Name={#Talents/summoner/Name}
+Talents/summoner7/Description={#Talents/summoner/Description}
+Talents/summoner7/Gender={#Talents/summoner/Gender}
+
+Talents/summoner8/Name={#Talents/summoner/Name}
+Talents/summoner8/Description={#Talents/summoner/Description}
+Talents/summoner8/Gender={#Talents/summoner/Gender}
+
+Talents/summoner9/Name={#Talents/summoner/Name}
+Talents/summoner9/Description={#Talents/summoner/Description}
+Talents/summoner9/Gender={#Talents/summoner/Gender}
+
+Talents/reload1/Name=Перезарядка
+Talents/reload1/Description=Уменьшает время перезарядки лепестков до -{0:perc}%.<n/>Уменьшает минимальное время перезарядки при смене лепестков с {3} с до {2} с.
+Talents/reload1/Gender=Female
+
+Talents/reload2/Name=Перезарядка
+Talents/reload2/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.<n/>Уменьшает минимальное время перезарядки при смене лепестков с {3} с до {2} с.
+Talents/reload2/Gender=Female
+
+Talents/reload3/Name=Перезарядка
+Talents/reload3/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.<n/>Уменьшает минимальное время перезарядки при смене лепестков с {3} с до {2} с.
+Talents/reload3/Gender=Female
+
+Talents/reload4/Name=Перезарядка
+Talents/reload4/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.<n/>Уменьшает минимальное время перезарядки при смене лепестков с {3} с до {2} с.
+Talents/reload4/Gender=Female
+
+Talents/reload5/Name=Перезарядка
+Talents/reload5/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.<n/>Уменьшает минимальное время перезарядки при смене лепестков с {3} с до {2} с.
+Talents/reload5/Gender=Female
+
+Talents/reload6/Name=Перезарядка
+Talents/reload6/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.
+Talents/reload6/Gender=Female
+
+Talents/reload7/Name=Перезарядка
+Talents/reload7/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.
+Talents/reload7/Gender=Female
+
+Talents/reload8/Name=Перезарядка
+Talents/reload8/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.
+Talents/reload8/Gender=Female
+
+Talents/reload9/Name=Перезарядка
+Talents/reload9/Description=Уменьшает время перезарядки лепестков с -{1:perc}% до -{0:perc}%.
+Talents/reload9/Gender=Female
+
+Talents/body_damage/Name=Острые Края
+Talents/body_damage/Description=Увеличивают {#Flower/Attribute/BodyDamageNoColon/Accusative} на {0:perc}%.
+Talents/body_damage/Gender=Plural
+
+Talents/body_damage1/Name={#Talents/body_damage/Name}
+Talents/body_damage1/Description={#Talents/body_damage/Description}
+Talents/body_damage1/Gender={#Talents/body_damage/Gender}
+
+Talents/body_damage2/Name={#Talents/body_damage/Name}
+Talents/body_damage2/Description={#Talents/body_damage/Description}
+Talents/body_damage2/Gender={#Talents/body_damage/Gender}
+
+Talents/body_damage3/Name={#Talents/body_damage/Name}
+Talents/body_damage3/Description={#Talents/body_damage/Description}
+Talents/body_damage3/Gender={#Talents/body_damage/Gender}
+
+Talents/body_damage4/Name={#Talents/body_damage/Name}
+Talents/body_damage4/Description={#Talents/body_damage/Description}
+Talents/body_damage4/Gender={#Talents/body_damage/Gender}
+
+Talents/body_damage5/Name={#Talents/body_damage/Name}
+Talents/body_damage5/Description={#Talents/body_damage/Description}
+Talents/body_damage5/Gender={#Talents/body_damage/Gender}
+
+Talents/body_damage6/Name={#Talents/body_damage/Name}
+Talents/body_damage6/Description={#Talents/body_damage/Description}
+Talents/body_damage6/Gender={#Talents/body_damage/Gender}
+
+Talents/body_damage7/Name={#Talents/body_damage/Name}
+Talents/body_damage7/Description={#Talents/body_damage/Description}
+Talents/body_damage7/Gender={#Talents/body_damage/Gender}
+
+Talents/body_damage8/Name={#Talents/body_damage/Name}
+Talents/body_damage8/Description={#Talents/body_damage/Description}
+Talents/body_damage8/Gender={#Talents/body_damage/Gender}
+
+Talents/petal_rotation/Name=Вращение Лепестков
+Talents/petal_rotation/Description=Увеличивает {#Flower/Attribute/RotationSpeedNoColon/Accusative} лепестков с {1:tooltip} до {0:tooltip} рад/с.
+Talents/petal_rotation/Gender=Neuter
+
+Talents/petal_rotation1/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation1/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation1/Gender={#Talents/petal_rotation/Gender}
+
+Talents/petal_rotation2/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation2/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation2/Gender={#Talents/petal_rotation/Gender}
+
+Talents/petal_rotation3/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation3/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation3/Gender={#Talents/petal_rotation/Gender}
+
+Talents/petal_rotation4/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation4/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation4/Gender={#Talents/petal_rotation/Gender}
+
+Talents/petal_rotation5/Name={#Talents/petal_rotation/Name}
+Talents/petal_rotation5/Description={#Talents/petal_rotation/Description}
+Talents/petal_rotation5/Gender={#Talents/petal_rotation/Gender}
+
+Talents/reach/Name=Размах
+Talents/reach/Description=Увеличивает {#Flower/Attribute/AttackRangeNoColon/Accusative} лепестков на {0:tooltip}.
+Talents/reach/Gender=Male
+
+Talents/reach1/Name={#Talents/reach/Name}
+Talents/reach1/Description={#Talents/reach/Description}
+Talents/reach1/Gender={#Talents/reach/Gender}
+
+Talents/reach2/Name={#Talents/reach/Name}
+Talents/reach2/Description={#Talents/reach/Description}
+Talents/reach2/Gender={#Talents/reach/Gender}
+
+Talents/reach3/Name={#Talents/reach/Name}
+Talents/reach3/Description={#Talents/reach/Description}
+Talents/reach3/Gender={#Talents/reach/Gender}
+
+Talents/second_chance1/Name=Второй Шанс
+Talents/second_chance1/Description=Предотвращает смерть на {0:tooltip} с при получении смертельного урона. Перезаряжается {1:tooltip} с.
+Talents/second_chance1/Gender=Male
+
+Talents/second_chance2/Name=Второй Шанс
+Talents/second_chance2/Description=Увеличивает длительность до {0:tooltip} с, уменьшает время перезарядки до {1:tooltip} с.
+Talents/second_chance2/Gender=Male
+
+Talents/magnetism/Name=Магнетизм
+Talents/magnetism/Description=Увеличивает дальность подбора лепестков на {0}, пока цветок жив.
+Talents/magnetism/Gender=Male
+
+Talents/body_toxicity/Name=Токсичность Тела
+Talents/body_toxicity/Description=При столкновении с врагом наносит дополнительный урон,<n/>равный {0:tooltip}-кратному {#Flower/Attribute/BodyDamageNoColon/Dative}, в виде {#Attribute/PoisonNoColon/Genitive} в течение {1:tooltip} с.
+Talents/body_toxicity/Gender=Female
+
+Talents/poison/Name=Яд
+Talents/poison/Description=Увеличивает весь урон от {#Attribute/PoisonNoColon/Genitive} на {0:perc}%.
+Talents/poison/Gender=Male
+
+Talents/poison1/Name={#Talents/poison/Name}
+Talents/poison1/Description={#Talents/poison/Description}
+Talents/poison1/Gender={#Talents/poison/Gender}
+
+Talents/poison2/Name={#Talents/poison/Name}
+Talents/poison2/Description={#Talents/poison/Description}
+Talents/poison2/Gender={#Talents/poison/Gender}
+
+Talents/poison3/Name={#Talents/poison/Name}
+Talents/poison3/Description={#Talents/poison/Description}
+Talents/poison3/Gender={#Talents/poison/Gender}
+
+Talents/poison4/Name={#Talents/poison/Name}
+Talents/poison4/Description={#Talents/poison/Description}
+Talents/poison4/Gender={#Talents/poison/Gender}
+
+Talents/poison5/Name={#Talents/poison/Name}
+Talents/poison5/Description={#Talents/poison/Description}
+Talents/poison5/Gender={#Talents/poison/Gender}
+
+Talents/poison6/Name={#Talents/poison/Name}
+Talents/poison6/Description={#Talents/poison/Description}
+Talents/poison6/Gender={#Talents/poison/Gender}
+
+Talents/poison7/Name={#Talents/poison/Name}
+Talents/poison7/Description={#Talents/poison/Description}
+Talents/poison7/Gender={#Talents/poison/Gender}
+
+Talents/poison8/Name={#Talents/poison/Name}
+Talents/poison8/Description={#Talents/poison/Description}
+Talents/poison8/Gender={#Talents/poison/Gender}
+
+Talents/poison9/Name={#Talents/poison/Name}
+Talents/poison9/Description={#Talents/poison/Description}
+Talents/poison9/Gender={#Talents/poison/Gender}
+
+Talents/concentrated_poison/Name=Концентрированный Яд
+Talents/concentrated_poison/Description=Увеличивает урон от {#Attribute/PoisonNoColon/Genitive} в секунду на {0:perc}%.<n/>Уменьшает длительность {#Attribute/PoisonNoColon/Genitive} на {1:perc}%.
+Talents/concentrated_poison/Gender=Male
+
+Talents/duplicator/Name=Дубликатор
+Talents/duplicator/Description=Добавляет дополнительную копию для лепестков, имеющих как минимум {0:tooltip} копии.
+Talents/duplicator/Gender=Male
+
+Talents/duplicator2/Name=Дубликатор
+Talents/duplicator2/Description=Добавляет дополнительную копию для лепестков, имеющих как минимум {0:tooltip} копии.
+Talents/duplicator2/Gender=Male
+
+Talents/duplicator3/Name=Дубликатор
+Talents/duplicator3/Description=Добавляет дополнительную копию для самого левого лепестка в снаряжении.<n/>Не влияет на <c val="{#Colors/{0}}">{#Rarities/{0}/Name/Plural}</c> лепестки.<n/>Не влияет на лепестки, эффект которых <c val="{#Colors/generic}">Не складывается</c>.
+Talents/duplicator3/Gender=Male
+
+Talents/duplicator4/Name=Дубликатор
+Talents/duplicator4/Description=Позволяет предыдущему таланту влиять на <c val="{#Colors/{0}}">{#Rarities/{0}/Name/Plural}</c> лепестки.
+Talents/duplicator4/Gender=Male
+
+Talents/antennae1/Name=Усики
+Talents/antennae1/Description=Увеличивают поле зрения на {0:perc}%.
+Talents/antennae1/Gender=Plural
+
+Talents/antennae2/Name=Усики
+Talents/antennae2/Description=Увеличивают дополнительное поле зрения с {2:perc}% до {1:perc}%.
+Talents/antennae2/Gender=Plural
+
+Talents/antennae3/Name=Усики
+Talents/antennae3/Description=Увеличивают дополнительное поле зрения с {2:perc}% до {1:perc}%.
+Talents/antennae3/Gender=Plural
+
+Talents/petal_health/Name=Здоровье Лепестков
+Talents/petal_health/Description={#Talents/petal_health/Description/1xx/{!cmp:{1:perc}:<:200}}
+Talents/petal_health/Description/1xx/0=Увеличивает {#Flower/Attribute/PetalHealthNoColon/Accusative} с {1:perc}% до {2:perc}%.
+Talents/petal_health/Description/1xx/1=Увеличивает {#Flower/Attribute/PetalHealthNoColon/Accusative} со {1:perc}% до {2:perc}%.
+Talents/petal_health/Gender=Neuter
+
+Talents/petal_health1/Name={#Talents/petal_health/Name}
+Talents/petal_health1/Description={#Talents/petal_health/Description}
+Talents/petal_health1/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health2/Name={#Talents/petal_health/Name}
+Talents/petal_health2/Description={#Talents/petal_health/Description}
+Talents/petal_health2/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health3/Name={#Talents/petal_health/Name}
+Talents/petal_health3/Description={#Talents/petal_health/Description}
+Talents/petal_health3/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health4/Name={#Talents/petal_health/Name}
+Talents/petal_health4/Description={#Talents/petal_health/Description}
+Talents/petal_health4/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health5/Name={#Talents/petal_health/Name}
+Talents/petal_health5/Description={#Talents/petal_health/Description}
+Talents/petal_health5/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health6/Name={#Talents/petal_health/Name}
+Talents/petal_health6/Description={#Talents/petal_health/Description}
+Talents/petal_health6/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health7/Name={#Talents/petal_health/Name}
+Talents/petal_health7/Description={#Talents/petal_health/Description}
+Talents/petal_health7/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health8/Name={#Talents/petal_health/Name}
+Talents/petal_health8/Description={#Talents/petal_health/Description}
+Talents/petal_health8/Gender={#Talents/petal_health/Gender}
+
+Talents/petal_health9/Name={#Talents/petal_health/Name}
+Talents/petal_health9/Description={#Talents/petal_health/Description}
+Talents/petal_health9/Gender={#Talents/petal_health/Gender}

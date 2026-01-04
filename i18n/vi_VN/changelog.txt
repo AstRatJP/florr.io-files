@@ -1,0 +1,443 @@
+# The format for this file is different
+# Date on a line by itself, then all entries for that date are prefixed by a TAB character.
+
+Ngày 21 Tháng 12, 2025
+	- Một khe nứt bí ẩn đã mở ra trong khu vườn. Nó dường như đưa những bông hoa quay về một thời kỳ giản đơn hơn.
+
+Ngày 26 Tháng 11, 2025
+	- Cơ chế rèn cánh hoa Độc Nhất đã được làm lại.
+	  Giờ đây bạn cần 5 cánh hoa Siêu Đẳng để rèn, nhưng bạn sẽ mất một cánh hoa Siêu Đẳng vĩnh viễn nếu có người chơi khác rèn một cánh hoa Độc nhất cùng loại.
+	  Mỗi loại cánh hoa sẽ có một thời gian hồi toàn cầu để tránh việc cánh hoa của bạn bị đánh cắp ngay lập tức.
+	  Thời gian hồi toàn cầu phụ thuộc vào mức độ thường xuyên mà cánh hoa đó được rèn.
+
+Ngày 25 Tháng 11, 2025
+	- Trò chơi sẽ yêu cầu quyền xem email của bạn khi đăng nhập bằng Discord hoặc Apple. Việc này giúp tránh tạo nhầm một tài khoản mới khi bạn đã có tài khoản đăng ký bằng email đó. Chúng tôi sẽ không gửi email cho bạn.
+
+Ngày 23 Tháng 10, 2025
+	- Cân bằng lại các thứ, chắc z
+
+Ngày 14 Tháng 10, 2025
+    - Chỉ số May mắn sẽ lần nữa ảnh hưởng đến chỉ số sản sinh của quái, làm tăng độ hiếm của quái xuất hiện ở khu vực đó.
+
+Ngày 23 Tháng 2, 2025
+	- Đã thêm bản đồ Nhà Máy. Vẫn còn nhiều thứ chưa được thêm vào, nhưng nó vẫn đạt tiêu chuẩn để có thể chơi.
+
+Ngày 6 Tháng 2, 2025
+	- Trứng bây giờ chỉ sinh ra quái khi vỡ.
+	- Bão cát bây giờ xuyên qua các thực thể không phải hoa (vẫn gây sát thương như bình thường).
+
+Ngày 16 Tháng 1, 2025
+	- Điện thoại đã hỗ trợ Bộ trang bị. Nhấn giữ nút X và bạn có thể thay đổi Bộ trang bị bằng cách nhấn vào dòng trang bị thứ 2. Mỗi Bộ trang bị hiện biểu tượng cho cánh hoa đầu trong Bộ trang bị.
+	- Để tải Bộ trang bị trên bàn phím, nhấn giữ L+phím_số, hoặc K+phím_số cho các Bộ trang bị thứ 2.
+	- Đã thay đổi cách thức lưu Bộ trang bị. Nếu đã bật "Tự động lưu Bộ trang bị", chúng sẽ tự động được lưu ngay khi thay đổi Bộ trang bị. Nếu đang tắt, bạn cần phải nhấn nút O để lưu Bộ trang bị hiện tại.
+
+Ngày 9 Tháng 1, 2025
+	- Hiệu ứng làm chậm đã được thay đổi. Chúng sẽ dựa trên thể loại quái và độ hiếm của cánh hoa.
+	- Bông Hoa vừa mới được hồi sinh sẽ phải đợi 30 giây để Yggdrasil có tác dụng.
+	- Những con quái vật hung dữ và bán hung dữ sẽ bỏ chạy nếu bị tấn công bởi một thực thể mà nó không thể tấn công lại (sau tường, dưới đất,...).
+	- Cải thiện Giao diện Chết.
+
+Ngày 25 Tháng 12, 2024
+	- Như một chút hoài niệm, trong vài ngày tới, bản đồ Khu Vườn sẽ có một số điểm trông quen thuộc.
+
+Ngày 16 Tháng 12, 2024
+	- Việc nhận và tiêu hao mana đã được điều chỉnh lại để tăng dựa trên độ hiếm cao.
+
+Ngày 5 Tháng 12, 2024
+	- Một vài cánh hoa mới vừa được thêm cùng với vài thứ.
+
+Ngày 2 Tháng 6, 2024
+	- Bây giờ bạn có thể cài lại Thiên Phú với số lượng không giới hạn và bất cứ lúc nào.
+
+Ngày 30 Tháng 5, 2024
+	- Bây giờ bạn có thể điều chỉnh tốc độ quay của các cánh hoa nhanh/chậm theo ý muốn. Chậm nhất là 30% của tốc độ quay tối đa.
+
+Ngày 22 Tháng 5, 2024
+	- Việc Tái sinh sẽ xóa lượng Sát thương đã gây ra trên quái. Việc này sẽ không áp dụng cho việc Hồi sinh.
+	- Đã xóa Thiên Phú Chế tạo.
+
+Ngày 11 Tháng 5, 2024
+	- Đã thay đổi cách thức Thành tựu được lưu, việc này sẽ làm một vài trong số chúng bị cài lại. Tuy nhiên, bởi vì sự thay đổi đó mà nó sẽ tự động cho rằng bạn đã hoàn thành Thành tựu này nếu bạn đã hoàn thành nó trước đó, dù cho việc nó có bị thay đổi ra sao.
+
+Ngày 8 Tháng 5, 2024
+	- XP cho mỗi Level đã được thay đổi và gấp đôi so với trước đó, việc này sẽ làm cho cấp độ của bạn giảm một nửa.
+	- Đã thêm Thành tựu. Chúng sẽ cho bạn TP, xem như là những TP bạn đã mất từ việc giảm cấp độ.
+	- Các Thành tựu khác sẽ được thêm vào.
+
+Ngày 21 Tháng 4, 2024
+	- Hấp thụ đã bị loại bỏ.
+	- Thiên Phú Cứu vớt đã bị loại bỏ.
+
+Ngày 20 Tháng 4, 2024
+	- Tiêu diệt quái vật bây giờ sẽ được kinh nghiệm.
+	- Việc hấp thụ cánh hoa sẽ bị loại bỏ trong một bản cập nhật ở tương lai.
+
+Ngày 12 Tháng 4, 2024
+	- Đã điều chỉnh tỉ lệ cho các quái Thần Thoại+.
+	- Một vài thay đổi nhỏ trên bản đồ.
+
+Ngày 3 Tháng 4, 2024
+	- Chúng tôi đã thêm thử thách hàng ngày. bây giờ bạn cần phải tiêu diệt các quái cụ thể để nhận sao.
+	- Sao không còn được cấp một cách thụ động khi bạn chơi.
+
+Ngày 1 Tháng 4, 2024
+	- Quảng cáo đã được tắt cho tất cả mọi người. Bạn vẫn sẽ nhận sao như thể bạn đã xem chúng.
+
+Ngày 17 Thành 1, 2024
+	- Thiên Phú Chế tạo
+	- Thời gian khôi phục lại Thiên Phú bây giờ phụ thuộc vào cấp độ của người chơi (2 + cấp độ/3).
+	- Thời gian khôi phục lại Thiên Phú của mọi người đã được khôi phục.
+
+Ngày 14 Tháng 1, 2024
+	- Đã thay đổi các phím để lưu/lưu lại các Bộ trang bị. L+phím_số để tải một Bộ trang bị cụ thể và L+Shift+phím_số để lưu Bộ trang bị hiện tại.
+
+Ngày 11 Tháng 1, 2024
+	- Hầu hết trong mọi trường hợp, giữa những người chơi sẽ có sự va chạm.
+
+Ngày 5 Tháng 1, 2024
+	- Quái Thần Thoại có thể sản sinh ở những nơi mà các quái khác có thể (khả năng cao ở những vùng có độ hiếm cao) nhưng vẫn chỉ có một con quái Thần Thoại tại một thời điểm và bộ đếm thời gian cục bộ cho mỗi vùng để ngăn chúng sinh ra quá nhanh.
+	- Các quái Siêu Đẳng không còn có khả năng cao để sinh ra nếu một con quái Thần Thoại tồn tại đủ lâu.
+	- Độc tố từ những người chơi khác nhau lên cùng một quái sẽ được cộng dồn.
+
+Ngày 4 Tháng 1, 2024
+	- Tiến trình từ đầu đến giữa trò chơi đã được điều chỉnh đáng kể.
+	- Các quái từ Huyền Thoại trở xuống bây giờ sẽ sinh ra nhanh hơn một chút. Điều này sẽ ảnh hưởng hầu hết các khu vực mà lượng lớn người chơi săn chúng.
+	- Máu của đạn từ quái bây giờ tăng theo máu cánh hoa thay vì theo máu quái.
+
+Ngày 1 Tháng 1, 2024
+	- Tăng gần gấp đôi đồ rơi ra từ quái Thần Thoại (không phải Siêu Đẳng).
+	- Tần xuất sinh ra các quái trên Thần Thoại trở lại trước bản cập nhật 25 Tháng 12.
+
+Ngày 30 Tháng 12, 2023
+	- Tăng gấp đôi hầu hết máu của các quái trên Thần Thoại.
+
+Ngày 29 Tháng 12, 2023
+	- Chúng tôi đã thêm các chức năng cơ bản của hội và sẽ sớm được mở rộng. Hiện tại thì chỉ có thể truy cập qua lệnh trò chuyện.
+
+Ngày 25 Tháng 12, 2023
+	- Các quái Thần Thoại bây giờ sẽ sinh ra nhanh gấp đôi. Tỉ lệ quái Siêu Đẳng xuất hiện còn nửa nên sẽ có tần suất tương tự như trước.
+
+Ngày 13 Tháng 12, 2023
+	- Những cánh hoa thụ động đã bị vô hiệu hóa trong Centralia và Ellne để giảm lag.
+
+Ngày 9 Tháng 12, 2023
+	- XP cho mỗi cấp giờ sẽ được làm tròn. Việc này sẽ làm cho một vài người chơi mất hoặc tăng thêm cấp độ dựa vào lượng XP hiện có.
+
+Ngày 8 Tháng 12, 2023.
+	- Kỹ năng giờ được gọi là Thiên Phú.
+	- Mở khóa lại Thiên Phú May Mắn.
+	- Thiên Phú không còn làm mất cấp độ khi cài lại.
+	- Thiên Phú có thể được cài lại miễn phí mỗi 30 ngày.
+
+Ngày 2 Tháng 12, 2023
+	- Chúng tôi đang chỉnh lại mức giá của một vài cánh hoa trong cửa hàng sao cho phù hợp với độ hiếm của chúng. Tạm thời, chúng tôi đang áp dụng giảm giá 50% cho tất cả mọi thứ.
+
+Ngày 3 Tháng 7, 2023
+	- Quái Siêu Đẳng sẽ ít sản sinh hơn nếu những con quái đó ở độ hiếm Thần Thoại không được tiêu diệt thường xuyên.
+
+Ngày 27 Tháng 6, 2023
+	- Chúng tôi đang dần dần thêm những khả năng đặc biệt cho quái Thần Thoại+. Hiện giờ quái Bão Cát và Sò đã có kĩ năng mới, nhiều quái khác sẽ có.
+
+Ngày 9 Tháng 5, 2023
+	- Tăng độ hồi phục của các cánh hoa hồi phục lên 50% so với trước đó (-25% so với trước ngày 1 tháng 5)
+	- Độ hồi phục và máu của các cánh hoa Thần Thoại/Siêu Đẳng bị giảm một ít.
+
+Ngày 3 Tháng 5, 2023
+	- Quái Thần Thoại giờ sinh ra 10x nhanh hơn bình thường, nhưng với 3-4x tỷ lệ rơi ít hơn.
+
+Ngày 1 Tháng 5, 2023
+	- Bản đồ giờ đã có thêm một vài khu vực mới để khám phá! Nó vẫn đang trong quá trình thử nghiệm, một vài khu vực mới sẽ sớm được cập nhật.
+	- Tất cả các cánh hoa hồi phục bị giảm 50% độ hồi phục.
+	- Một vài thay đổi mà tôi quên rồi.
+
+Ngày 13 Tháng 3, 2023
+	- PvP đã trở lại!
+	- Cổng vào được đặt ở bên phải Centralia.
+	- Đấu trường được chia thành 3 độ khó khác nhau: Thường Gặp-Sử Thi, Truyền Thuyết-Huyền Thoại, Thần Thoại-Siêu Đẳng. Bạn sẽ vào khu vực phù hợp đua trên độ hiếm của cánh hoa cao nhất mà bạn trang bị.
+	- Bạn không thể thay đổi Bộ trang bị khi đang trong đấu trường.
+
+Ngày 3 Tháng 3, 2023
+	- Mỗi khi quái Siêu Đẳng được sinh ra, sẽ có thông báo đến tất cả người chơi ở cùng một vùng.
+
+Ngày 2 Tháng 3, 2023
+	- Đã thêm khu vực mới trong Centralia Fields.
+
+Ngày 27 Tháng 2, 2023
+	- Đã thêm khu vực mới trong Địa Ngục Kiến.
+
+Ngày 22 Tháng 2, 2023
+	- Vật phẩm rơi không còn giống nhau với mỗi người chơi cùng tiêu diệt một quái. Chúng sẽ được rơi ngẫu nhiên cho mỗi người.
+	- Chúng tôi đã phát hiện một vấn đề khiến hệ thống thanh toán nhận diện sai quốc gia của người chơi, dẫn đến việc không thể xử lý một số giao dịch. Chúng tôi đã bật tùy chọn để người chơi chọn quốc gia thanh toán. Chúng tôi đang làm việc với đối tác thanh toán để sửa lỗi, và hệ thống sẽ tự động nhận diện quốc gia trong thời gian tới.
+
+Ngày 20 Tháng 2, 2023
+	- Đã thêm khu vực mới trong Địa Ngục Kiến.
+
+Ngày 19 Tháng 2, 2023
+	- Đã thêm 2 quái vào Centralia Sewers.
+	- Đã thêm 2 cánh hoa mới.
+
+Ngày 14 Tháng 2, 2023
+	- Quái Thần Thoại có 1% tỷ lệ biến thành quái Siêu Đẳng, mạnh hơn rất nhiều với khả năng rơi vật phẩm tuyệt vời.
+	- Ngưỡng sát thương của quái Thần Thoại+ để nhận vật phẩm đã giảm từ 5% xuống 1%. Số lượng người chơi tối đa có thể nhận vật phẩm đã tăng từ 4 lên 15.
+	- Yggdrasil đã bị giảm sức mạnh một chút, giờ đây hồi phục ít hơn khi hồi sinh.
+	- Đã sửa lỗi Hornet không nhận đòn đẩy lùi khi bắn tên lửa.
+
+Ngày 13 Tháng 2, 2023
+	- Tài khoản đã mua ngôi sao trong Cửa hàng sẽ không cần phải xem quảng cáo nữa (nhưng vẫn thu thập được ngôi sao như thể họ đã làm).
+
+Ngày 12 Tháng 2, 2023
+	- Hiệu quả Tam Nhãn không còn chồng lên nhau nữa.
+
+Ngày 10 Tháng 2, 2023
+	- Đã thêm Cửa hàng. Giờ bạn có thể ủng hộ trò chơi bằng cách mua cánh hoa bằng sao bằng tiền hoặc xem quảng cáo.
+	- Cân bằng lại một số cánh hoa.
+	- Thya đổi mức giá trị TP của nhiều Thiên Phú.
+	- Thay đổi cách nhận được TP cho mỗi cấp độ (1 TP cho mỗi cấp).
+	- Thêm một vài Thiên Phú mới.
+	- Tất cả Thiên Phú của người chơi được cài lại miễn phí.
+
+Ngày 29 Tháng 1, 2023
+	- Chúng tôi đã cân bằng lại tất cả quái và cánh hoa. Việc này nhằm để kéo dài một chút giai đoạn đầu game, vì trước đây việc có được cánh hoa huyền thoại trong giờ chơi đầu tiên quá dễ dàng.
+
+Ngày 28 Tháng 1, 2023
+	- Nicknames bây giờ sẽ là vĩnh viễn và độc quyền. Bạn sẽ phải chọn một cái cho lần chơi đầu tiên.
+	- Quái vật không còn bị giới hạn bởi không gian vật lý đơn giản nữa. Hitbox của chúng so với bản đồ đã được giảm đáng kể.
+
+Ngày 21 Tháng 1, 2023
+	- Đã thêm một phần bản đồ mới vào Centralia Fields, East Waters và South Desert.
+	- Thay đổi cách Bọ Cánh Cứng di chuyển.
+
+Ngày 19 Tháng 1, 2023
+	- Game đã có bản đồ. Hãy tận hưởng việc khám phá và tìm kiếm những địa điểm thú vị!
+	- Lưu ý rằng bản đồ vẫn còn khá nhỏ, chúng tôi dự định sẽ thêm nhiều khu vực mới trong thời gian tới.
+	- Các đội nhóm tạm thời đã bị vô hiệu hóa vì chúng cần rất nhiều công sức để có thể hoạt động lại.
+
+Ngày 2 Tháng 1, 2023
+	- Do nhu cầu lớn từ người chơi, thay đổi được đề cập trong bản nhật ký trước đã được áp dụng ngay từ hôm nay.
+	- Gưới thiệu độ hiếm mới: Siêu Đẳng.
+	- Chúng tôi đã thêm một số lệnh để tham gia/tạo đội nhóm khi đang trong trò chơi. Gõ /help trong khung chat để biết thêm thông tin!
+	- Mặc định, tin nhắn chat chỉ hiển thị cho những người xung quanh bạn. Để gửi tin nhắn đến các thành viên trong đội dù họ ở đâu, hãy dùng /squad hoặc nhấn TAB.
+
+Ngày 1 Tháng 1, 2023
+	- Đã mở khóa các cánh hoa triệu hồi. Những quái được triệu hồi sẽ không thể va chạm với những con quái khác trong đội. Chúng có thể gây sát thương va chạm với những con quái khác.
+	- Một khu vực sẽ tạm thời cạn kiệt quái nếu chúng bị săn quá nhiều.
+	- Chế tạo cánh hoa Thần Thoại đã tạm thời bị tắt. Chúng tôi đang tiến hành chỉnh chúng lại thành độ hiếm vĩnh viễn. Những cánh hoa Thần Thoại vẫn có thể được sử dụng. Vào ngày 3 Tháng 1: mỗi 10 cánh hoa Thần Thoại sẽ biến thành một cánh hoa Huyền Thoại. Những phần còn lại sẽ bị Hấp Thụ và cho 50k XP cho mỗi cái.
+	- Những quái có độ hiếm cao sẽ có mức độ khác làm chậm khác nhau.
+
+Ngày 30 Tháng 12, 2022
+	- Trang bị rơi sẽ được chia với 4 người chơi đã gây sát thương cao nhất lên quái (chỉ khi họ gây ít nhất 5% sát thương). Sát thương cả đội được tính chung. Chỉ những Hoa ở khoảng cách một màn hình thì quái mới có thể rơi trang bị.
+
+Ngày 29 Tháng 12, 2022
+	- Như một sự kiện đặc biệt, chúng tôi sẽ cho các chế độ game 
+	- Như một sự kiện đặc biệt, chúng tôi sẽ ra mắt một chế độ chơi mà một số bạn có thể thấy quen thuộc. Chúc các bạn chơi vui vẻ!
+	- Một số cánh hoa triệu hồi bị vô hiệu hóa trên bản đồ chính của chế độ này (nhưng vẫn có thể sử dụng trong tổ kiến). Đáng tiếc, điều này đã bị lạm dụng quá mức.
+
+Ngày 28 Tháng 12, 2022
+	- Chúng tôi đang thử nghiệm một đợt cân bằng lại RẤT LỚN cho toàn bộ trò chơi. Vì điều này, chúng tôi đã đặt lại tất cả các đợt cao nhất của người chơi. Hãy kiên nhẫn khi chúng tôi điều chỉnh để mọi thứ trở nên hoàn hảo!
+	- Ý tưởng của chúng tôi là tăng khoảng cách giữa các độ hiếm. Như vậy, nếu bạn có cánh hoa Ít Gặp, một con quái Hiếm Gặp sẽ thực sự là một thử thách lớn hơn. Trước bản cập nhật này, sự khác biệt giữa các cấp độ hiếm của quái chưa thực sự rõ ràng.
+
+Ngày 26 Tháng 12, 2022
+	- Đã thêm tính năng trò chuyện.
+	- Sát thương giờ sẽ hiện số, có thể tắt/mở trong phần cài đặt (mở ở mặc định).
+	- Thông tin của cánh hoa sẽ được cập nhật đúng chính xác theo Thiên Phú bạn có.
+	- Đã thêm nhiều cấp độ Bác Sĩ trong nhánh cây Thiên Phú.
+	- Loại bỏ Thiên Phú May Mắn, những ai từng có nó sẽ được hoàn trả TP.
+
+Ngày 20 Tháng 12, 2022
+	- Chúng tôi đã thêm nền cho Sa Mạc. Những bản đồ khác cũng sẽ có sớm thôi. Hãy kiểm tra máy chủ Discord để biết thêm về cuộc thi!
+
+Ngày 11 Tháng 12, 2022
+	- Bây giờ đã có thể hoàn lại tất cả TP, bạn sẽ mất 5 cấp độ để hoàn lại.
+
+Ngày 10 Tháng 12, 2022
+	- Do một vài thay đổi trong nhánh cây Thiên Phú, chúng tôi đã cài lại Thiên Phú của người chơi và hoàn lại tất cả các TP.
+
+Ngày 30 Tháng 11, 2022
+	- Người dùng điện thoại có thể nhấn và giữ lên một cánh hoa trong menu chế tạo để thêm nhiều cánh hoa hơn trong khoảng thời gian nhất định.
+	- Để làm game dễ hơn một chút, cánh hoa sẽ di chuyển lên phía quái với phạm vi nhất định, việc này làm cho chúng dễ dàng đánh trúng quái hơn.
+	- Bởi vì có rất nhiều người chơi đã dùng TP mà không biết rằng chúng vĩnh viễn ở đó, chúng tôi sẽ tạo một hệ thống (cuối tháng 12) để mọi người có thể cài lại TP của họ 
+	- Since many people have spent their TP without realizing how permanent they are, we will be doing a future update (in late December) in which players can reset their TP mỗi lần trong năm.
+	- Chúng tôi sẽ thêm vài thứ để người chơi tiêu TP.
+
+Ngày 29 Tháng 11, 2022
+	- Cập nhật về Thiên Phú đã đến
+	- Tiêu diệt quái sẽ không còn nhận được XP nữa. Chúng tôi đã cài lại cấp độ của người chơi về 1 cũng như là sự thay đổi đáng kể về cách thức mà cấp độ hoạt động.
+	- Hấp Thụ các cánh hoa để tăng XP.
+	- Tăng cấp độ sẽ nhận thêm TP, nó sẽ cho bạn điểm tăng cấp trong Thiên Phú.
+	- Thiên Phú sẽ có tác dụng vĩnh viễn lên Hoa của bạn. Một khi đã tăng cấp chúng thì chúng sẽ mở khóa vĩnh viễn. Không có cách nào để hoàn lại TP đã dùng. 
+	- Chúng tôi có thể sẽ thay đổi lượng kinh nghiệm cần thiết cho mỗi cấp. Nếu thế, chúng tôi sẽ chỉnh lại cấp độ của mọi người sao cho phù hợp với công thức mới (thêm hoặc mất bất kì TP nào).
+	- Giới hạn cấp độ được tăng lên đến 200.
+
+Ngày 15 Tháng 11, 2022
+	- Giảm máu của Ong Vò Vẽ.
+
+Ngày 6 Tháng 11, 2022
+	- Chỉnh sửa lại số lượng quái ở mỗi đợt.
+	- Chỉnh sửa lại kích thước bản đồ ở mỗi đợt.
+	- Chúng tôi đang cố gắng khuyến khích người chơi tiêu diệt hết quái trước khi đợt kết thúc bằng cách khiến tất cả quái trở nên hung hãn khi đợt kết thúc. Việc thay đổi kích thước bản đồ cũng làm cho việc đứng yên một chỗ và tank toàn bộ quái trở nên khó khăn hơn.
+	- Chúng tôi đã cài lại đợt đánh bại cao nhất của người chơi về 25, nếu đợt cao nhất của người chơi vượt qua 25. Việc này nhằm cho việc chỉnh sửa độ khó của các đợt.
+	- Quái không còn có phạm vi tấn công xa bằng phạm vi gây hấn nữa (vì thế những con Ong Vò Vẽ sẽ không bắt đầu tấn công từ phía nửa bên kia của bản đồ).
+
+Ngày 4 Tháng 11, 2022
+	- Bản đồ sẽ tăng/giảm dựa trên số lượng quái tồn tại, điều này sẽ giúp những đợt tấn công về sau tránh bị chèn ép.
+	  Công thức chế tạo cánh hoa Thần Thoại đã được thay đổi.
+	  Bây giờ bạn có thể tạo 50 cánh hoa Thần Thoại từ 5 cánh hoa Huyền Thoại.
+
+Ngày 3 Tháng 11, 2022
+	- Đã thay đổi cách chế tạo cánh hoa Thần Thoại.
+	  Bây giờ có thể tạo 3 cánh hoa Thần Thoại chỉ từ 1 cánh hoa Huyền Thoại.
+	  Tuy nhiên, các cánh hoa Huyền Thoại sẽ không quay lại sau mỗi lần sử dụng, chúng sẽ bị mất vĩnh viễn.
+	  Những cánh hoa Thần Thoại đã được tạo trước cập nhật này đã được biến đổi thành 2 cánh hoa Huyền Thoại (công thức chế tạo cũ).
+
+Ngày 2 Tháng 11, 2022
+	- Đã thêm cánh hoa Thần Thoại.
+	  Bạn có thể kết hợp 2 cánh hoa Huyền Thoại để tạo thành một cánh hoa Thần Thoại.
+	  Cánh hoa Thần Thoại mạnh hơn nhiều lần cho với cánh hoa Huyền Thoại, nhưng nó chỉ tồn tại cho một trận duy nhất.
+	  Sau mỗi trận, chúng sẽ quay trở lại thành 1 cánh hoa Huyền Thoại (cái còn lại sẽ bị mất).
+
+Ngày 20 Tháng 10, 2022
+	- Hệ thống phân phối ngẫu nhiên giả (PRNG) vừa bị loại bỏ khỏi hệ thống chế tạo. Bây giờ các tỷ lệ chế tạo quay trở về với hệ phân phối ngẫu nhiên thực (TNRG), nó sẽ không tăng tỷ lệ sau mỗi lần thất bại. Nếu bạn có bất kì lần thất bại trên một cánh hoa cụ thể nào, nó sẽ vẫn dùng hệ thống cũ cho đến khi bạn chế tạo thành công chúng (vì vậy bạn không mất đi những tỷ lệ tăng thêm mà bạn đã tích lũy được).
+
+Ngày 11 Tháng 10, 2022
+	- Đã thêm cách đăng nhập bằng Apple ID. Lưu ý rằng nó sẽ không gộp chung tài khoản Apple và Discord. Nếu bạn đã đăng nhập bằng Discord, hãy cứ dùng nó. Lần cập nhật này chỉ để giúp những người chơi không dùng Discord mà vẫn có thể lưu tiến trình của họ.
+
+Ngày 13 Tháng 9, 2022
+	- PvP giờ có quái có độ hiếm cao hơn (tương đương với đợt tấn công thứ 18 trong PvE).
+	- PvP giờ có bảng điểm trở lại.
+	- Tiêu diệt người chơi trong PvP giờ đây sẽ thưởng cánh hoa Cơ Bản, độ hiếm phụ thuộc vào số điểm mà họ có.
+	- Kích thước bản đồ PvP thay đổi tùy thuộc vào số lượng người chơi trong trận.
+	- Nam Châm không còn tăng phạm vi nhặt đồ trong PvP nữa.
+
+Ngày 12 Tháng 9, 2022
+	- Đã thêm các chỉ số khác trong Phòng trưng bày Quái.
+
+Ngày 6 Tháng 9, 2022
+	- Vì độ khó của các đợt tấn công đã thay đổi đáng kể, chúng tôi đã đặt lại đợt tấn công cao nhất mà người chơi đã vượt qua về lại 0.
+	- Tỷ lệ xuất hiện đợt tấn công đặc biệt là 15%.
+
+Ngày 5 Tháng 9, 2022
+	- Con Đĩa giờ đây sẽ chia sẻ lượng máu cho tất cả các phân đoạn của chúng.
+	- Các đợt tấn công đặc biệt với quái đơn không còn xuất hiện ở các đợt tấn công nhất định nữa, mà có thể xuất hiện ngẫu nhiên ở bất kỳ đợt tấn công nào.
+	- Đã thay đổi cách tính đợt tấn công ban đầu cho một đội, cho phép các đợt tấn công ban đầu cao hơn.
+	- Tỷ lệ rơi đã được giảm nhẹ để bù đắp.
+	- Khi tham gia một nhóm công cộng, người chơi sẽ luôn được đưa vào trò chơi có đợt tấn công cao nhất hiện có đối với họ.
+
+Ngày 1 Tháng 9, 2022
+	- Tăng tỷ lệ chế tạo Huyền Thoại lên 3%.
+
+Ngày 31 Tháng 8, 2022
+	- Đậu đã được chia ra thành Đậu và Nho. Những hạt Đậu trước đây đã được biến thành Nho.
+
+Ngày 30 Tháng 8, 2022
+	- Chỉnh sửa lại một số cánh hoa Huyền thoại.
+	- Lá bây giờ có thể hồi phục cái con quái thân thiên.
+
+Ngày 29 Tháng 8, 2022
+	- Đã thêm thanh tiến trình của đợt tấn công.
+	- Chúng tôi đã bắt đầu cấm những người sử dụng bất kỳ loại tệp lệnh nào. Lệnh cấm sẽ là vĩnh viễn và dẫn đến việc mất toàn bộ tiến trình.
+
+Ngày 28 Tháng 8, 2022
+	- Đã thêm nút Tự động Chế tạo ở dưới cùng của menu chế tạo. Nó sẽ tự động giữ lại các cánh hoa hiếm nhất của bạn, đảm bảo rằng chúng luôn được an toàn để sử dụng.
+
+Ngày 26 Tháng 8, 2022
+	- Có rất nhiều thay đổi trong tuần qua, nhưng chúng tôi quá lười để đưa chúng vào Nhật ký.
+	- Đã thêm bộ đếm giờ AFK cho các đội công cộng.
+
+Ngày 18 Tháng 8, 2022
+	- Tổ kiến giờ có thời gian đếm ngược để ngăn người chơi AFK bên trong.
+
+Ngày 17 Tháng 8, 2022
+	- Đã giảm một chút tỷ lệ rơi của các độ hiếm cao hơn.
+	- Đã tăng tỷ lệ chế tạo cho các độ hiếm cao hơn.
+
+Ngày 16 Tháng 8, 2022
+	- Người chơi giờ có thể bắt đầu từ đợt tấn công thứ 11.
+	- Quái giờ chỉ có thể rơi cánh hoa có độ hiếm tối đa bằng độ hiếm của chúng.
+	- Tỷ lệ rơi cánh hoa đã được điều chỉnh để bù đắp.
+	- Tỷ lệ chế tạo đã được thay đổi.
+	- Màu sắc của petal Hiếm Gặp giờ có màu xanh hơn.
+
+Ngày 10 Tháng 8, 2022
+	- Đã thêm một khu vực chống di chuyển xung quanh giữa màn hình để người dùng chuột có thể giữ hoa ổn định.
+
+Ngày 9 Tháng 8, 2022
+	- Đã thêm một nút chế tạo tất cả lên điện thoại (vẫn chưa hỗ trợ đầy đủ, nhưng cái này sẽ hỗ trợ phần khó).
+	- Đã thêm một vài đặt hiển thị đợt thu nhỏ mà sẽ không hiển thị quái lên màn hình.
+
+Ngày 7 Tháng 8, 2022
+	- Đã cân bằng lại nhiều loại cánh hoa. Chúng giờ đây được phân tách thành các loại tấn công và phòng thủ, sẽ làm thay đổi sát thương và máu của chúng.
+	- Đã sửa lỗi sai của Chết vì Độc.
+
+Ngày 5 Tháng 8, 2022
+	- Người chơi giờ sẽ tự động tham gia các trận đấu công cộng hiện có, miễn là họ đã vượt qua đợt tấn công mà đội đang ở.
+
+Ngày 4 Tháng 8, 2022
+	- Đã cân bằng lại các đợt tấn công cuối game. Chúng sẽ ngắn hơn đáng kể so với trước đây.
+	- Đã làm lại cánh hoa Sét.
+
+Ngày 2 Tháng 8, 2022
+	- Chúng tôi đã làm bản đồ PvE luân phiên thay đổi mỗi 24 giờ.
+
+Ngày 1 Tháng 8, 2022
+	- Đã thêm Phòng trưng bày Quái. Nó sẽ liên tục theo dõi tiến trình mỗi khi bạn tiêu diệt quái.
+
+Ngày 30 Tháng 7, 2022
+	- Giảm phạm vi của cánh hoa Sét
+	- Xương Rồng không còn có nộc độc ở các độ hiếm cao hơn, thay vào đó chúng sẽ có nhiều máu hơn.
+
+Ngày 29 Tháng 7, 2022
+	- Đã phát hành bản đồ Đại Dương. Nó sẽ thay thế Sa Mạc trong vài ngày, sau đó chúng tôi sẽ làm cho chúng thay phiên nhau mỗi ngày.
+
+Ngày 25 Tháng 7, 2022
+	- Các nhà khoa học đã phát hiện rằng bản đồ là một vòng tròn, chứ không phải hình vuông như trước đây.
+	- Đã điều chỉnh quái trong mỗi đợt tấn công.
+	- Đã thêm cài đặt để ẩn vật phẩm rơi có độ hiếm thấp. Bạn vẫn có thể nhặt chúng, chỉ là chúng sẽ không hiển thị. Đây là giải pháp tạm thời cho đến khi tối ưu hóa để tránh gây lag game.
+
+Ngày 24 Tháng 7, 2022
+	- Hiệu quả của Mạng Nhện không còn có thể chồng lên nhau nữa, tốc độ làm chậm tăng lên đến -75%.
+
+Ngày 22 Tháng 7, 2022
+	- Độ hiếm của Mạng Nhện sẽ ảnh hưởng đến bán kính của nó thay vì thời gian duy trì.
+
+Ngày 21 Tháng 7, 2022
+	- Đội bây giờ sẽ bắt đầu ở đợt quái cao hơn dựa trên đợt quái cao nhất mà từng thành viên đã đánh bại.
+	- Cân bằng một vài thứ.
+
+Ngày 20 Tháng 7, 2022
+	- Tăng sát thương độc cơ bản từ 9/giây lên 15/giây.
+	- Tăng tỷ lệ chế tạo cánh hoa Huyền Thoại lên 2%. Điều này có thể sẽ là tạm thời.
+	- Hiệu quả Nam Châm không còn có thể chồng lên nhau nữa.
+
+Ngày 19 Tháng 7, 2022
+	- Hệ thống chế tạo giờ sử dụng phân phối ngẫu nhiên giả (PRNG), tăng tỷ lệ thành công sau mỗi lần thất bại cho đến khi chế tạo thành công.
+	- Tỷ lệ chế tạo vẫn giữ nguyên sau mỗi lần thất bại. Hệ thống sẽ không hiển thị tỷ lệ chế tạo đã được tính toán cho mỗi lần thử.
+	- Ví dụ, một lần chế tạo với tỷ lệ 75% thành công có nghĩa là sẽ có xác suất 66% cho lần chế tạo đầu tiên, và 100% cho lần kế tiếp.
+
+Ngày 18 Tháng 7, 2022
+	- Đã phát hành bản đồ PvP.
+	- Muối có thể chồng hiệu quả lên nhau. Phản sát thương giảm khi đối đầu với các Hoa khác.
+	- Độ giảm tốc độ của Mạng nhện giảm từ -75% còn -50%.
+
+Ngày 16 Tháng 7, 2022
+	- Đợt quái kế tiếp sẽ bắt đầu khi đợi hiện tại có 4 con quái đang sống hoặc ít hơn.
+	- Phạm vị gây hấn của quái sẽ tăng dần khi nó còn sống.
+	- Những con quái có độ hiếm càng cao sẽ cho càng nhiều kinh nghiệm.
+	- Yêu cầu về kinh nghiệm mỗi cấp độ đã được tăng lên để bù đắp.
+
+Ngày 15 Tháng 7, 2022
+	- Đã phát hành bản đồ Sa mạc.
+
+Ngày 14 Tháng 7, 2022
+	- Quản lý Túi đồ trong trò chơi đã được đơn giản hoá, bây giờ chỉ có thể đổi các cánh hoa trong mỗi ô của Bộ trang bị chính và phụ.
+
+Ngày 13 Tháng 7, 2022
+	- Tổ kiến bây giờ có thể có độ hiếm cao hơn Hiếm Gặp, nhưng kiến chúa sẽ cao hơn Hiếm Gặp.
+	- Cánh hoa bây giờ có độ hiếm Huyền Thoại. Nó không thể rơi ra từ quái, chỉ có thể tồn tại thông qua chế tạo.
+
+Ngày 12 Tháng 7, 2022
+	- Quái bây giờ chỉ có thể rơi ra cánh hoa có độ hiếm cao hơn một cấp
+	- Tổ kiến bây giờ không còn có độ hiếm cao hơn Hiếm Gặp
+	- Đã thêm vào nút Chế tạo tất cả, giữ SHIFT trước khi nhấn vào nút Chế tạo
+
+Ngày 11 Tháng 7, 2022
+	- Trò chơi đã được tái phát hành. Nó không còn như trước nữa, nên chắc cũng xoá luôn nhật ký thay đổi này luôn vậy :)

@@ -1,0 +1,73 @@
+UI/Chat/CommandHelp=/{0} {#Chat/Command/{0}/Args} - {#Chat/Command/{0}/Description}
+
+Chat/Command/help/Args=[lệnh]
+Chat/Command/help/Description=Liệt kê tất cả các lệnh hoặc trợ giúp với một lệnh cụ thể
+
+Chat/Command/guild/Args=<tin nhắn>
+Chat/Command/guild/Description=Gửi tin nhắn đến những thành viên khác trong hội
+
+Chat/Command/guild-create/Args=<tên> <thẻ>
+Chat/Command/guild-create/Description=Tạo một hội mới. Tên phải có 3-13 kí tự. Thẻ phải có 2-4 kí tự
+
+Chat/Command/guild-invite/Args=<tên>
+Chat/Command/guild-invite/Description=Mời người chơi vào hội. Chỉ hội trưởng mới được quyền. Người chơi phải ở gần bạn
+
+Chat/Command/guild-transfer-leader/Args=<mục tiêu>
+Chat/Command/guild-transfer-leader/Description=Chuyển quyền lãnh đạo hội cho người khác
+
+Chat/Command/guild-motd/Args=<văn bản>
+Chat/Command/guild-motd/Description=Thiết lập tin nhắn trong ngày của hội
+
+Chat/Command/squad/Args=<tin nhắn>
+Chat/Command/squad/Description=Gửi tin nhắn đến những thành viên khác trong đội
+
+Chat/Command/squad-create/Args=
+Chat/Command/squad-create/Description=Tạo đội
+
+Chat/Command/squad-invite/Args=<mục tiêu>
+Chat/Command/squad-invite/Description=Mời một người chơi vào đội
+
+Chat/Command/squad-leave/Args=
+Chat/Command/squad-leave/Description=Rời đội
+
+Chat/Command/squad-find-public/Args=
+Chat/Command/squad-find-public/Description=Tham gia đội công khai
+
+Chat/Command/squad-public/Args=
+Chat/Command/squad-public/Description=Công khai đội
+
+Chat/Command/squad-private/Args=
+Chat/Command/squad-private/Description=Làm đội trở nên riêng tư
+
+Chat/Command/whisper/Args=<mục tiêu> <tin nhắn>
+Chat/Command/whisper/Description=Gửi tin nhắn đến người chơi cụ thể
+
+Chat/Command/w/Args={#Chat/Command/whisper/Args}
+Chat/Command/w/Description={#Chat/Command/whisper/Description}
+
+Chat/Command/reply/Args=<tin nhắn>
+Chat/Command/reply/Description=Trả lời tin nhắn thì thầm gần nhất
+
+Chat/Command/r/Args={#Chat/Command/reply/Args}
+Chat/Command/r/Description={#Chat/Command/reply/Description}
+
+Chat/Command/local/Args=<tin nhắn>
+Chat/Command/local/Description=Gửi tin nhắn đến những người chơi khác xung quanh
+
+Chat/Command/map/Args=<tin nhắn>
+Chat/Command/map/Description=Gửi tin nhắn trong khu vực
+
+Chat/Command/global/Args=<tin nhắn>
+Chat/Command/global/Description=Gửi tin nhắn toàn cầu
+
+Chat/Command/unblock/Args=<tên>
+Chat/Command/unblock/Description=Xóa ai đó khỏi danh sách chặn
+
+Chat/Command/unblock-all/Args=
+Chat/Command/unblock-all/Description=Xóa tất cả mọi người khỏi danh sách chặn
+
+Chat/Command/rot-speed/Args=<giá trị>
+Chat/Command/rot-speed/Description=Đặt tốc độ quay cánh hoa, từ 0.0 đến 1.0
+
+Chat/Command/print-players/Args=
+Chat/Command/print-players/Description=Liệt kê ID tài khoản của những người chơi gần bạn

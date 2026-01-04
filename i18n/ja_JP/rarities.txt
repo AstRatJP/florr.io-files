@@ -1,0 +1,44 @@
+Rarities/common/Name=コモン
+Rarities/common/ArticleUpper=コモン
+Rarities/common/Article=コモン
+Rarities/common/NameColored=<c val="{#Colors/common}">{#Rarities/common/Name}</c>
+
+Rarities/unusual/Name=アンコモン
+Rarities/unusual/ArticleUpper=アンコモン
+Rarities/unusual/Article=アンコモン
+Rarities/unusual/NameColored=<c val="{#Colors/unusual}">{#Rarities/unusual/Name}</c>
+
+Rarities/rare/Name=レア
+Rarities/rare/ArticleUpper=レア
+Rarities/rare/Article=レア
+Rarities/rare/NameColored=<c val="{#Colors/rare}">{#Rarities/rare/Name}</c>
+
+Rarities/epic/Name=エピック
+Rarities/epic/ArticleUpper=エピック
+Rarities/epic/Article=エピック
+Rarities/epic/NameColored=<c val="{#Colors/epic}">{#Rarities/epic/Name}</c>
+
+Rarities/legendary/Name=レジェンダリー
+Rarities/legendary/ArticleUpper=レジェンダリー
+Rarities/legendary/Article=レジェンダリー
+Rarities/legendary/NameColored=<c val="{#Colors/legendary}">{#Rarities/legendary/Name}</c>
+
+Rarities/mythic/Name=ミシック
+Rarities/mythic/ArticleUpper=ミシック
+Rarities/mythic/Article=ミシック
+Rarities/mythic/NameColored=<c val="{#Colors/mythic}">{#Rarities/mythic/Name}</c>
+
+Rarities/ultra/Name=ウルトラ
+Rarities/ultra/ArticleUpper=ウルトラ
+Rarities/ultra/Article=ウルトラ
+Rarities/ultra/NameColored=<c val="{#Colors/ultra}">{#Rarities/ultra/Name}</c>
+
+Rarities/super/Name=スーパー
+Rarities/super/ArticleUpper=スーパー
+Rarities/super/Article=スーパー
+Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
+
+Rarities/unique/Name=ユニーク
+Rarities/unique/ArticleUpper=ユニーク
+Rarities/unique/Article=ユニーク
+Rarities/unique/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>

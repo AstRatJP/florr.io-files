@@ -1,0 +1,101 @@
+UI/Time/Days={#UI/Time/Days/{#UI/Time/Resolve}}
+UI/Time/Hours={#UI/Time/Hours/{#UI/Time/Resolve}}
+UI/Time/Minutes={#UI/Time/Minutes/{#UI/Time/Resolve}}
+UI/Time/Seconds={#UI/Time/Seconds/{#UI/Time/Resolve}}
+UI/Time/Now=сразу же
+
+UI/TooltipTime/Days={#UI/TooltipTime/Days/{#UI/Time/Resolve}}
+UI/TooltipTime/Hours={#UI/TooltipTime/Hours/{#UI/Time/Resolve}}
+UI/TooltipTime/Minutes={#UI/TooltipTime/Minutes/{#UI/Time/Resolve}}
+UI/TooltipTime/Seconds={#UI/TooltipTime/Seconds/{#UI/Time/Resolve}}
+UI/TooltipTime/Now=сразу же
+
+UI/Time/Days/Singular/Nominative={0} день
+UI/Time/Days/Singular/Genitive={0} дня
+UI/Time/Days/Singular/Accusative={0} день
+UI/Time/Days/Plural/Genitive={0} дней
+
+UI/Time/Hours/Singular/Nominative={0} час
+UI/Time/Hours/Singular/Genitive={0} часа
+UI/Time/Hours/Singular/Accusative={0} час
+UI/Time/Hours/Plural/Genitive={0} часов
+
+UI/Time/Minutes/Singular/Nominative={0} минута
+UI/Time/Minutes/Singular/Genitive={0} минуты
+UI/Time/Minutes/Singular/Accusative={0} минуту
+UI/Time/Minutes/Plural/Genitive={0} минут
+
+UI/Time/Seconds/Singular/Nominative={0} секунда
+UI/Time/Seconds/Singular/Genitive={0} секунды
+UI/Time/Seconds/Singular/Accusative={0} секунду
+UI/Time/Seconds/Plural/Genitive={0} секунд
+
+UI/TooltipTime/Days/Singular/Nominative={0:tooltip} день
+UI/TooltipTime/Days/Singular/Genitive={0:tooltip} дня
+UI/TooltipTime/Days/Singular/Accusative={0:tooltip} день
+UI/TooltipTime/Days/Plural/Genitive={0:tooltip} дней
+
+UI/TooltipTime/Hours/Singular/Nominative={0:tooltip} час
+UI/TooltipTime/Hours/Singular/Genitive={0:tooltip} часа
+UI/TooltipTime/Hours/Singular/Accusative={0:tooltip} час
+UI/TooltipTime/Hours/Plural/Genitive={0:tooltip} часов
+
+UI/TooltipTime/Minutes/Singular/Nominative={0:tooltip} минута
+UI/TooltipTime/Minutes/Singular/Genitive={0:tooltip} минуты
+UI/TooltipTime/Minutes/Singular/Accusative={0:tooltip} минуту
+UI/TooltipTime/Minutes/Plural/Genitive={0:tooltip} минут
+
+UI/TooltipTime/Seconds/Singular/Nominative={0:tooltip} секунда
+UI/TooltipTime/Seconds/Singular/Genitive={0:tooltip} секунды
+UI/TooltipTime/Seconds/Singular/Accusative={0:tooltip} секунду
+UI/TooltipTime/Seconds/Plural/Genitive={0:tooltip} секунд
+
+UI/Tooltip/Grouping=1000
+UI/Tooltip/Group0={0}
+UI/Tooltip/Group1={0}к
+UI/Tooltip/Group2={0}м
+UI/Tooltip/Group3={0}б
+UI/Tooltip/Group4={0}т
+
+# Helpers
+UI/Time/Resolve={#UI/Time/Resolve/{#UI/Time/Digits}/{#UI/Time/Context}}
+UI/Time/Digits={#UI/Time/Digits/SecondToLastDigit}
+UI/Time/Context={#UI/Time/Context/{1}}
+UI/Time/Digits/SecondToLastDigit={#UI/Time/Digits/SecondToLastDigit/{0:secondToLastDigit}}
+UI/Time/Digits/LastDigit={#UI/Time/Digits/LastDigit/{0:lastDigit}}
+
+UI/Time/Digits/SecondToLastDigit/0={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/1=Plural/Genitive
+UI/Time/Digits/SecondToLastDigit/2={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/3={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/4={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/5={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/6={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/7={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/8={#UI/Time/Digits/LastDigit}
+UI/Time/Digits/SecondToLastDigit/9={#UI/Time/Digits/LastDigit}
+
+UI/Time/Digits/LastDigit/0=Plural/Genitive
+UI/Time/Digits/LastDigit/1=Singular/Nominative
+UI/Time/Digits/LastDigit/2=Singular/Genitive
+UI/Time/Digits/LastDigit/3=Singular/Genitive
+UI/Time/Digits/LastDigit/4=Singular/Genitive
+UI/Time/Digits/LastDigit/5=Plural/Genitive
+UI/Time/Digits/LastDigit/6=Plural/Genitive
+UI/Time/Digits/LastDigit/7=Plural/Genitive
+UI/Time/Digits/LastDigit/8=Plural/Genitive
+UI/Time/Digits/LastDigit/9=Plural/Genitive
+
+UI/Time/Context/nominative=Singular/Nominative
+UI/Time/Context/genitive=Singular/Genitive
+UI/Time/Context/accusative=Singular/Accusative
+
+UI/Time/Resolve/Plural/Genitive/Singular/Nominative=Plural/Genitive
+UI/Time/Resolve/Plural/Genitive/Singular/Genitive=Plural/Genitive
+UI/Time/Resolve/Plural/Genitive/Singular/Accusative=Plural/Genitive
+UI/Time/Resolve/Singular/Genitive/Singular/Nominative=Singular/Genitive
+UI/Time/Resolve/Singular/Genitive/Singular/Genitive=Plural/Genitive
+UI/Time/Resolve/Singular/Genitive/Singular/Accusative=Singular/Genitive
+UI/Time/Resolve/Singular/Nominative/Singular/Nominative=Singular/Nominative
+UI/Time/Resolve/Singular/Nominative/Singular/Genitive=Singular/Genitive
+UI/Time/Resolve/Singular/Nominative/Singular/Accusative=Singular/Accusative
