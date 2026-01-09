@@ -125,11 +125,6 @@
          "value":true
         }, 
         {
-         "name":"max_entities",
-         "type":"int",
-         "value":1024
-        }, 
-        {
          "name":"repeat_border",
          "type":"bool",
          "value":true

@@ -102,6 +102,8 @@ Chat/Guild/Welcome=Welcome to the guild.
 Chat/Guild/Kicked=Player kicked.
 Chat/Guild/MOTDUpdated=MOTD updated.
 
+Chat/CommandError/NoAvailableChannels=All chat channels are disabled.
+Chat/CommandError/MessageTooLong=Message too long.
 Chat/CommandError/Invalid=Invalid command, type /help to list all commands.
 Chat/CommandError/SpaceError=There can be no space after the /.
 Chat/CommandError/EmptyMessage=Message cannot be empty.
