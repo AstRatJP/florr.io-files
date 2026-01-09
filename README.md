@@ -11,3 +11,6 @@ This repository contains assets **automatically extracted from florr.io WebAssem
 
 
 *Last updated automatically.*
+
+## Credit
+Thank you to PImmediately for providing the WASM bytecode parser
