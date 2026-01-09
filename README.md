@@ -1,8 +1,8 @@
 # florr.io wasm extracted assets
 
-This repository contains assets **automatically extracted from florr.io WebAssembly builds**
+This repository contains assets **automatically extracted from florr.io WebAssembly builds**.
 
-you can access each file by `https://florr.io/static/<path to the file>`
+you can also access each file by `https://florr.io/static/<path to the file>` (installed on florr.io)
 
 ## Latest build
 
@@ -15,4 +15,4 @@ you can access each file by `https://florr.io/static/<path to the file>`
 *Last updated automatically.*
 
 ## Credit
-Thank you to PImmediately for providing the WASM bytecode parser
+Thank you to PImmediately for providing the WASM bytecode parser.
