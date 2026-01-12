@@ -323,7 +323,7 @@ Achievements/103/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/
 Achievements/104/Name=Statue
 Achievements/104/Description=Spawn then kill {#Rarities/{0}/Article} {#Rarities/{0}/Name} mob without moving.
 
-Achievements/105/Name=Breath in, breath out
+Achievements/105/Name=Breathe in, breathe out
 Achievements/105/Description=Equip and unequip {#Petals/{0}/Name} many times
 
 Achievements/106/Name=Sound barrier
