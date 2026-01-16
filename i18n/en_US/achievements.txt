@@ -430,3 +430,6 @@ Achievements/139/Description=Get an extra drop due to a {#Rarities/{0:rarity}/Na
 
 Achievements/140/Name=Blood Sacrifice
 Achievements/140/Description=Perform a Blood Sacrifice.
+
+Achievements/141/Name=Consolation prize
+Achievements/141/Description=Fail to craft {#Rarities/{1}/Article} {#Rarities/{1}/Name} petal and lose {0} petals.

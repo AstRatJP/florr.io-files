@@ -41,7 +41,7 @@ Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 Rarities/eternal/Name=Eternal
 Rarities/eternal/ArticleUpper=An
 Rarities/eternal/Article=an
-Rarities/eternal/NameColored=<c val="{#Colors/unique}">{#Rarities/unique/Name}</c>
+Rarities/eternal/NameColored=<c val="{#Colors/eternal}">{#Rarities/eternal/Name}</c>
 
 Rarities/unique/Name=Unique
 Rarities/unique/ArticleUpper=A

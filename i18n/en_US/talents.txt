@@ -293,10 +293,10 @@ Talents/duplicator2/Name=Duplicator
 Talents/duplicator2/Description=Adds an extra copy for petals that have at least {0:tooltip} copies.
 
 Talents/duplicator3/Name=Duplicator
-Talents/duplicator3/Description=Adds an extra copy for the left-most petal in the loadout.<n/>Does not affect <c val="{#Colors/{0}}">{#Rarities/{0}/Name}</c> petals.<n/>Does not affect <c val="{#Colors/generic}">Unstackable</c> petals.
+Talents/duplicator3/Description=Adds an extra copy for the left-most petal in the loadout.<n/>Does not affect {#Rarities/{0}/NameColored} and {#Rarities/{1}/NameColored} petals.<n/>Does not affect <c val="{#Colors/generic}">Unstackable</c> petals.
 
 Talents/duplicator4/Name=Duplicator
-Talents/duplicator4/Description=Allows the previous talent to affect <c val="{#Colors/{0}}">{#Rarities/{0}/Name}</c> petals.
+Talents/duplicator4/Description=Allows the previous talent to affect {#Rarities/{0}/NameColored} and {#Rarities/{1}/NameColored} petals.
 
 Talents/antennae1/Name=Antennae
 Talents/antennae1/Description=Increases vision range by {0:perc}%.
