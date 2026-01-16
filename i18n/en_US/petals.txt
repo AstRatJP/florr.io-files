@@ -370,13 +370,17 @@ Petals/mimic/Name=Mimic
 Petals/mimic/FullName=Mimic
 Petals/mimic/Description=Copies the petal to the left of this, with the same rarity as this.
 
-Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
-Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
-Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity}/Name#Petals/mjolnir/default/Name}
+Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity}/FullName#Petals/mjolnir/default/FullName}
+Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity}/Description#Petals/mjolnir/default/Description}
 
-Petals/mjolnir/not-unique/Name=Fragment
-Petals/mjolnir/not-unique/FullName=Fragment
-Petals/mjolnir/not-unique/Description=Perhaps this could be used to forge something great?
+Petals/mjolnir/default/Name=Fragment
+Petals/mjolnir/default/FullName=Fragment
+Petals/mjolnir/default/Description=Perhaps this could be used to forge something great?
+
+Petals/mjolnir/eternal/Name=Mjölnir
+Petals/mjolnir/eternal/FullName=Mjölnir
+Petals/mjolnir/eternal/Description=Only the most powerful hammer in the universe.
 
 Petals/mjolnir/unique/Name=Mjölnir
 Petals/mjolnir/unique/FullName=Mjölnir
@@ -466,7 +470,8 @@ Petals/splitter/Name=Splitter
 Petals/splitter/FullName=Soul Splitter
 Petals/splitter/Description={#Petals/splitter/Description/{0:rarity}#Petals/splitter/Description/default}
 Petals/splitter/Description/default=Fractures your soul into two.<n/><n/><c val="{#Colors/generic}">Select this petal again to control the other half.</c>
-Petals/splitter/Description/unique=Fractures your soul into three.<n/><n/><c val="{#Colors/generic}">Select this petal again to control a different third.</c>
+Petals/splitter/Description/eternal=Fractures your soul into three.<n/><n/><c val="{#Colors/generic}">Select this petal again to control a different third.</c>
+Petals/splitter/Description/unique={#Petals/splitter/Description/eternal}
 
 Petals/goggles/Name=Goggles
 Petals/goggles/FullName=Paranormal Goggles

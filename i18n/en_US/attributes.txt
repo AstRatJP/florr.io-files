@@ -41,6 +41,8 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Lightning:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Bounces:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Evasion:</c> {0:perc}%
 Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">Undead:</c> {0:tooltipTime}
+Mob/Attribute/Charges=<c val="{#Colors/generic}">Charges:</c> {0:tooltip}
+Mob/Attribute/Interval=<c val="{#Colors/generic}">Interval:</c> {0:tooltipTime}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Reload:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Number of Copies:</c> {0:tooltip}

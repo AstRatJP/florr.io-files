@@ -6,6 +6,7 @@ Colors/legendary=#DE1F1F
 Colors/mythic=#1fdbde
 Colors/ultra=#ff2b75
 Colors/super=#2bffa3
+Colors/eternal=#eeeeee
 Colors/unique=#555555
 
 Colors/generic=#FFE763
