@@ -23,7 +23,7 @@ Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Sát Thương:
 Mob/Attribute/Armor=<c val="{#Colors/armor}">Giáp:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">Độc:</c> {0:tooltip} ({1:tooltip}/giây)
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Độc:</c> {0:tooltip}/giây
-Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">Kết Nối Tâm Linh</c>
+Mob/Attribute/PsionicConnection=<c val="{#Colors/psionic}">Kết Nối Tâm Linh</c>
 Mob/Attribute/PollenHealth=<c val="{#Colors/health}">Máu Phấn Hoa:</c> {0:tooltip}
 Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">Sát Thương Phấn Hoa:</c> {0:tooltip}
 Mob/Attribute/MissileHealth=<c val="{#Colors/health}">Máu Đạn:</c> {0:tooltip}
@@ -141,3 +141,4 @@ Petal/Attribute/MissilePoison=<c val="{#Colors/poison}">Độc Đạn:</c> {0:to
 Petal/Attribute/PetalAttractionRange=<c val="{#Colors/generic}">Phạm Vi Thu Hút của Cánh Hoa:</c> +{0:tooltip}
 Petal/Attribute/PetalHealthBonus=<c val="{#Colors/health}">Máu Cánh Hoa:</c> +{0:perc}%
 Petal/Attribute/ReloadPercInc=<c val="{#Colors/generic}">Thời gian tái tạo:</c> +{0:perc}%
+Petal/Attribute/RelicAura=<c val="{#Colors/generic}">Ảnh hưởng đến các bông hoa xung quanh bạn.</c>

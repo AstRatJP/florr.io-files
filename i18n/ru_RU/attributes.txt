@@ -22,7 +22,7 @@ Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">Урон:</c> 
 Mob/Attribute/Armor=<c val="{#Colors/armor}">Броня:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">Яд:</c> {0:tooltip} ({1:tooltip}/с)
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">Яд:</c> {0:tooltip}/с
-Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">Псионическая Связь</c>
+Mob/Attribute/PsionicConnection=<c val="{#Colors/psionic}">Псионическая Связь</c>
 Mob/Attribute/PollenHealth=<c val="{#Colors/health}">Здоровье Пыльцы:</c> {0:tooltip}
 Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">Урон Пыльцы:</c> {0:tooltip}
 Mob/Attribute/MissileHealth=<c val="{#Colors/health}">Здоровье Снаряда:</c> {0:tooltip}

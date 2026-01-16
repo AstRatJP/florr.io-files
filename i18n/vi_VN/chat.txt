@@ -1,5 +1,7 @@
 Mobs/AnnouncementPrefix=Một{#Mobs/{0:base}/Clf} {#Mobs/{0:base}/Name} {#Rarities/{0:rarity}/Name}
+Mobs/AnnouncementPrefixNoRarity=Một{#Mobs/{0:base}/Clf} {#Mobs/{0:base}/Name}
 Petals/AnnouncementPrefix=Một{#Petals/{0:base}/Clf} {#Petals/{0:base}/FullName} {#Rarities/{0:rarity}/Name}
+Petals/AnnouncementPrefixNoRarity=Một{#Petals/{0:base}/Clf} {#Petals/{0:base}/FullName}
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
 Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
@@ -11,10 +13,13 @@ Chat/PetalCraftedNamed/not-unique={#Petals/AnnouncementPrefix:0} đã được c
 Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
 Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}
 Chat/PetalFoundUnnamed/generic={#Petals/AnnouncementPrefix:0} đã được tìm thấy!
-Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0} đã được tìm thấy bởi {1}!
+Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0} đã được {1} tìm thấy!
 
-Chat/PetalFoundUnnamed/pharaoh_crown={#Petals/{0:base}/FullName} đã bị lấy cắp!
-Chat/PetalFoundNamed/pharaoh_crown={#Petals/{0:base}/FullName} đã bị lấy cắp bởi {1}!
+Chat/PetalFoundUnnamed/pharaoh_crown={#Petals/AnnouncementPrefixNoRarity:0} đã bị lấy cắp!
+Chat/PetalFoundNamed/pharaoh_crown={#Petals/AnnouncementPrefixNoRarity:0} đã bị {1} lấy cắp!
+
+Chat/PetalFoundUnnamed/champion_crown={#Petals/AnnouncementPrefixNoRarity:0} đã bị lấy mất!
+Chat/PetalFoundNamed/champion_crown={#Petals/AnnouncementPrefixNoRarity:0} đã bị {1} lấy mất!
 
 Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
@@ -57,6 +62,8 @@ Chat/MatchEnding=Trận đấu sẽ kết thúc sau {0:time}.
 Chat/MatchEnded=Trận đấu đã kết thúc. Tạm biệt.
 Chat/MatchWinner={0} là người chiến thắng của trận đấu.
 
+Chat/DamageDone/Self=Bạn đã gây {0:short} sát thương lên{#Mobs/{1:base}/Clf} {#Mobs/{1:base}/Name} {#Rarities/{1:rarity}/Name}.
+
 Chat/Squad/Created=Đội đã được tạo.
 Chat/Squad/Joined=Đã tham gia đội.
 Chat/Squad/Left=Đã rời đội.
@@ -97,6 +104,8 @@ Chat/Guild/Welcome=Chào mừng đến với hội.
 Chat/Guild/Kicked=Đã đuổi người chơi ra.
 Chat/Guild/MOTDUpdated=Đã cập nhật Tin nhắn trong ngày của hội.
 
+Chat/CommandError/NoAvailableChannels=Tất cả các kênh trò chuyện đều đã bị vô hiệu hoá.
+Chat/CommandError/MessageTooLong=Tin nhắn quá dài.
 Chat/CommandError/Invalid=Lệnh không hợp lệ, gõ /help để liệt kê tất cả các lệnh.
 Chat/CommandError/SpaceError=Không được có bất kì khoảng trắng nào sau /.
 Chat/CommandError/EmptyMessage=Tin nhắn không được để trống.

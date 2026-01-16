@@ -93,10 +93,10 @@ Achievements/27/Name=Trưởng thành
 Achievements/27/Description=Đạt cấp {0}.
 
 Achievements/28/Name=Lãng phí
-Achievements/28/Description=Phá hủy {0:tooltip} cánh hoa trong các lần chế tạo.
+Achievements/28/Description=Phá hủy {0:short} cánh hoa trong các lần chế tạo.
 
 Achievements/29/Name=Thợ chế tạo số lượng lớn
-Achievements/29/Description=Chế tạo {0:tooltip} cánh hoa.
+Achievements/29/Description=Chế tạo {0:short} cánh hoa.
 
 Achievements/30/Name=Sa mạc
 Achievements/30/Description=Chạm đất Sa Mạc.
@@ -189,13 +189,13 @@ Achievements/59/Name=Nhầm trò chơi rồi bạn à
 Achievements/59/Description=Tiêu diệt một hình vuông.
 
 Achievements/60/Name=Kẻ gieo đau thương
-Achievements/60/Description=Gây {0:tooltip} sát thương.
+Achievements/60/Description=Gây {0:short} sát thương.
 
 Achievements/61/Name=Kẻ gieo đau thương
-Achievements/61/Description=Gây {0:tooltip} sát thương.
+Achievements/61/Description=Gây {0:short} sát thương.
 
 Achievements/62/Name=Kẻ gieo đau thương
-Achievements/62/Description=Gây {0:tooltip} sát thương.
+Achievements/62/Description=Gây {0:short} sát thương.
 
 Achievements/63/Name=Một nhát kết liễu
 Achievements/63/Description=Tiêu diệt một con quái {#Rarities/{0}/Name} chỉ trong một nhát.
@@ -369,13 +369,13 @@ Achievements/119/Name=Chạm
 Achievements/119/Description=Chạm vào Nhà phát triển.
 
 Achievements/120/Name=Né tránh
-Achievements/120/Description=Tránh được {0:tooltip} sát thương.
+Achievements/120/Description=Tránh được {0:short} sát thương.
 
 Achievements/121/Name=Né tránh
-Achievements/121/Description=Tránh được {0:tooltip} sát thương.
+Achievements/121/Description=Tránh được {0:short} sát thương.
 
 Achievements/122/Name=Né tránh
-Achievements/122/Description=Tránh được {0:tooltip} sát thương.
+Achievements/122/Description=Tránh được {0:short} sát thương.
 
 Achievements/123/Name=Lời biện hộ của quỷ
 Achievements/123/Description=Trong Địa ngục, tiêu diệt {0} bông hoa mà không chết.

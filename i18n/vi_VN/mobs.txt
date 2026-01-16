@@ -119,12 +119,12 @@ Mobs/fire_ant_burrow/Description=Có thể có gì đó ở trong đây?
 
 Mobs/sandstorm/Name=Bão Cát
 Mobs/sandstorm/SortName=b*0a*4o*0 c*0a*1t*0
-Mobs/sandstorm/Description=Darude - Sandstorm (1999) (một tác phẩm âm nhạc)
+Mobs/sandstorm/Description=Darude - Sandstorm (1999)
 
 Mobs/bubble/Name=Bong Bóng
 Mobs/bubble/SortName=b*0o*0n*0g*0 b*0o*1n*0g*0
 Mobs/bubble/Description=Pop
-Mobs/bubble/Clf= quả
+Mobs/bubble/Clf= cái
 
 Mobs/bumble_bee/Name=Ong Nghệ
 Mobs/bumble_bee/SortName=o*0n*0g*0 n*0g*0h*0e+5
@@ -411,3 +411,4 @@ Mobs/ghost/Description=Một linh hồn đau khổ, giải thoát cho nó là đ
 Mobs/crystal/Name=Pha Lê
 Mobs/crystal/SortName=p*0h*0a*0 l*0e+0
 Mobs/crystal/Description= 
+Mobs/crystal/Clf= khối

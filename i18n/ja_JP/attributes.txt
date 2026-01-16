@@ -21,7 +21,7 @@ Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">攻撃力:</c>
 Mob/Attribute/Armor=<c val="{#Colors/armor}">防御力:</c> {0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">毒:</c> {0:tooltip} (毎秒{1:tooltip})
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">毒:</c> 毎秒{0:tooltip}
-Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">超接続</c>
+Mob/Attribute/PsionicConnection=<c val="{#Colors/psionic}">集合精神</c>
 Mob/Attribute/PollenHealth=<c val="{#Colors/health}">花粉の体力:</c> {0:tooltip}
 Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">花粉の攻撃力:</c> {0:tooltip}
 Mob/Attribute/MissileHealth=<c val="{#Colors/health}">ミサイルの体力:</c> {0:tooltip}

@@ -21,7 +21,7 @@ Mob/Attribute/DamagePerSecond/Lightning=<c val="{#Colors/damage}">伤害：</c>{
 Mob/Attribute/Armor=<c val="{#Colors/armor}">护甲：</c>{0:tooltip}
 Mob/Attribute/Poison=<c val="{#Colors/poison}">剧毒：</c>{0:tooltip}（{1:tooltip}/秒）
 Mob/Attribute/PoisonPerSecond=<c val="{#Colors/poison}">剧毒：</c>{0:tooltip}/秒
-Mob/Attribute/PsyonicConnection=<c val="{#Colors/psyonic}">灵魂联结</c>
+Mob/Attribute/PsionicConnection=<c val="{#Colors/psionic}">心灵感应</c>
 Mob/Attribute/PollenHealth=<c val="{#Colors/health}">花粉耐久：</c>{0:tooltip}
 Mob/Attribute/PollenDamage=<c val="{#Colors/damage}">花粉伤害：</c>{0:tooltip}
 Mob/Attribute/MissileHealth=<c val="{#Colors/health}">导弹耐久：</c>{0:tooltip}
@@ -41,6 +41,8 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">闪电：</c>{0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">连锁：</c>{0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">闪避：</c>{0:perc}%
 Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">死亡延缓：</c>{0:tooltipTime}
+Mob/Attribute/Charges=<c val="{#Colors/generic}">充能：</c>{0:tooltip}
+Mob/Attribute/Interval=<c val="{#Colors/generic}">间隔：</c>{0:tooltipTime}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">冷却时间：</c>{0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">子瓣数量：</c>{0:tooltip}

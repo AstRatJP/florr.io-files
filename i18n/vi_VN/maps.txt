@@ -6,6 +6,13 @@ Maps/ant_hole3/Name=Tổ Kiến
 Maps/ant_hole4/Name=Tổ Kiến
 Maps/ant_hole5/Name=Tổ Kiến
 
+Maps/br/main/Name=Khe Nứt
+Maps/br/ant_hell/Name=Khe Nứt
+Maps/br/factory/Name=Khe Nứt
+Maps/br/hel/Name=Khe Nứt
+Maps/br/ocean/Name=Khe Nứt
+Maps/br/victory/Name=Khe Nứt
+
 Maps/crystal_room/Name=Phòng Pha Lê
 
 Maps/desert/Name=Sa Mạc

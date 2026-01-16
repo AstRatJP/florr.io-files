@@ -234,20 +234,20 @@ UI/Craft/FailureInstructions=失败会损失{0}～{1}个花瓣
 
 UI/Absorb/Title=吸收
 UI/Absorb/Button=吸收
-UI/Absorb/Instructions=吸收花瓣以获取经验<n/>水晶在使用后需要一段时间来重新充能。<n/><c val="{#Colors/danger}">警告：花瓣会在吸收过程中被消耗。</c>
+UI/Absorb/Instructions=吸收花瓣以获取经验<n/>水晶在使用后需要一段时间来重新充能。<n/><c val="{#Colors/danger}">警告：花瓣会在吸收过程中被消耗</c>
 UI/Absorb/Crystal/Title=水晶能量
 UI/Absorb/Crystal/1={0:perc}%
 UI/Absorb/Crystal/2=+{0:perc}%/小时
 
 UI/CoinCraft/Title=交易
 UI/CoinCraft/Button=交易
-UI/CoinCraft/Instructions=你可以给商人一个花瓣来换一枚同样品质的硬币。
-UI/CoinCraft/Delay=你可以{0:time:left}继续交易。
+UI/CoinCraft/Instructions=你可以给商人一个花瓣来换一枚同样品质的硬币
+UI/CoinCraft/Delay=你可以{0:time:left}继续交易
 
 UI/OracleCraft/Title=神谕
 UI/OracleCraft/Button=合成
 UI/OracleCraft/Instructions=神使会用一个合适的价格来保证一次合成的成功。
-UI/OracleCraft/Delay=你可以{0:time:left}继续合成。
+UI/OracleCraft/Delay=你可以{0:time:left}继续合成
 
 UI/Plinko/Title=弹珠游戏
 UI/Plinko/Auto=自动

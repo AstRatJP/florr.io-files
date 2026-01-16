@@ -93,10 +93,10 @@ Achievements/27/Name=成長
 Achievements/27/Description=レベル{0}に到達する。
 
 Achievements/28/Name=ごみの山
-Achievements/28/Description=クラフトで{0:tooltip}枚の花びらを失う。
+Achievements/28/Description=クラフトで{0:short}枚の花びらを失う。
 
 Achievements/29/Name=大量作成者
-Achievements/29/Description=花びらを{0:tooltip}枚クラフトする。
+Achievements/29/Description=花びらを{0:short}枚クラフトする。
 
 Achievements/30/Name=砂漠
 Achievements/30/Description=砂漠を訪れる。
@@ -189,13 +189,13 @@ Achievements/59/Name=ゲームが違う
 Achievements/59/Description=Squareを倒す。
 
 Achievements/60/Name=傷害者
-Achievements/60/Description=累計{0:tooltip}ダメージを与える。
+Achievements/60/Description=累計{0:short}ダメージを与える。
 
 Achievements/61/Name=傷害者
-Achievements/61/Description=累計{0:tooltip}ダメージを与える。
+Achievements/61/Description=累計{0:short}ダメージを与える。
 
 Achievements/62/Name=傷害者
-Achievements/62/Description=累計{0:tooltip}ダメージを与える。
+Achievements/62/Description=累計{0:short}ダメージを与える。
 
 Achievements/63/Name=ワンパン
 Achievements/63/Description={#Rarities/{0}/Name}の生き物を一撃で倒す。
@@ -369,13 +369,13 @@ Achievements/119/Name=接触
 Achievements/119/Description=開発者に触れる。
 
 Achievements/120/Name=すばしっこい
-Achievements/120/Description={0:tooltip}ダメージを回避して無効化する。
+Achievements/120/Description={0:short}ダメージを回避して無効化する。
 
 Achievements/121/Name=すばしっこい
-Achievements/121/Description={0:tooltip}ダメージを回避して無効化する。
+Achievements/121/Description={0:short}ダメージを回避して無効化する。
 
 Achievements/122/Name=すばしっこい
-Achievements/122/Description={0:tooltip}ダメージを回避して無効化する。
+Achievements/122/Description={0:short}ダメージを回避して無効化する。
 
 Achievements/123/Name=天邪鬼
 Achievements/123/Description=ヘルヘイムで{0}体の花を死なずに倒す。

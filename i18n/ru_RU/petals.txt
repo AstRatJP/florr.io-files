@@ -722,3 +722,9 @@ Petals/bean/FullName=Боб
 Petals/bean/FullName/Prepositional=Бобе
 Petals/bean/Description=Наносит больше урона, если вокруг вас нет цветков-союзников.
 Petals/bean/Gender=Male
+
+Petals/champion_crown/Name=Корона
+Petals/champion_crown/FullName=Корона Чемпиона
+Petals/champion_crown/FullName/Prepositional=Короне Чемпиона
+Petals/champion_crown/Description=Даёт цветкам вокруг вас {#Rarities/super/NameColored/{#Petals/basic/Gender}/Accusative/Inanimate} {#Petals/basic/FullName} лепесток.<n/>Вы получаете награду за нанесённый им урон.
+Petals/champion_crown/Gender=Female

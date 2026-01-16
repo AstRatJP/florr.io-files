@@ -293,10 +293,10 @@ Talents/duplicator2/Name=重瓣
 Talents/duplicator2/Description=为至少有{0:tooltip}个子瓣的花瓣增加一个额外的子瓣。
 
 Talents/duplicator3/Name=重瓣
-Talents/duplicator3/Description=为物品栏最左侧的花瓣增加一个额外的子瓣。<n/>对<c val="{#Colors/{0}}">{#Rarities/{0}/Name}</c>或<c val="{#Colors/generic}">不可叠加</c>的花瓣无效。
+Talents/duplicator3/Description=为物品栏最左侧的花瓣增加一个额外的子瓣。<n/>对{#Rarities/{0}/NameColored}、{#Rarities/{1}/NameColored}和<c val="{#Colors/generic}">不可叠加</c>的花瓣无效。
 
 Talents/duplicator4/Name=重瓣
-Talents/duplicator4/Description=使其前置天赋对<c val="{#Colors/{0}}">{#Rarities/{0}/Name}</c>花瓣也有效。
+Talents/duplicator4/Description=使其前置天赋对{#Rarities/{0}/NameColored}和{#Rarities/{1}/NameColored}花瓣也有效。
 
 Talents/antennae1/Name=触角
 Talents/antennae1/Description=将视野距离提高{0:perc}%。

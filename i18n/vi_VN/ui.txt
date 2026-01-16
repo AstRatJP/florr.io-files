@@ -42,6 +42,7 @@ UI/Login/SupportPINHidden=PIN hỗ trợ: (nhấn để hiển thị)
 UI/Login/SupportPINInstructions1=Lưu mã này phòng khi bạn mất tài khoản
 UI/Login/SupportPINInstructions2=Đừng chia sẽ mã PIN hỗ trợ với bất kì ai
 UI/Login/Reminder=Liên kết tài khoản để lưu tiến trình
+UI/Login/SupportWebsite=Nếu bạn mất quyền truy cập tới tài khoản, vui lòng truy cập:
 
 UI/Social/Discord=Tham gia cộng đồng Discord của chúng tôi!
 UI/Social/QQ=加入我们的QQ群!
@@ -264,7 +265,7 @@ UI/Settings/Title=Cài Đặt
 UI/Settings/Game=Trò chơi
 UI/Settings/Graphics=Đồ họa
 UI/Settings/Controls=Điều khiển
-UI/Settings/Credits=Danh đề
+UI/Settings/Credits=Credits
 
 UI/Settings/Language=Ngôn ngữ
 UI/Settings/Language/Warning=LƯU Ý: chỉ có tác dụng sau khi khởi động lại game
@@ -322,7 +323,7 @@ UI/Settings/TermsOfService=Điều khoản Dịch vụ
 UI/Credits/MadeBy=Được sáng lập bởi {0}
 UI/Credits/SomeIcons=Một số biểu tượng từ {0}
 UI/Credits/SomeTiles=Một số nền từ {0}
-UI/Credits/SpecialThanks=Đặc biệt Cảm ơn
+UI/Credits/SpecialThanks=Chân thành cảm ơn
 UI/Credits/Translators=Người Phiên dịch
 
 # The little arrows around dead flowers

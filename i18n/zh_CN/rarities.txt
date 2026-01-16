@@ -38,6 +38,11 @@ Rarities/super/ArticleUpper=一个
 Rarities/super/Article=一个
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
+Rarities/eternal/Name=永恒
+Rarities/eternal/ArticleUpper=一个
+Rarities/eternal/Article=一个
+Rarities/eternal/NameColored=<c val="{#Colors/eternal}">{#Rarities/eternal/Name}</c>
+
 Rarities/unique/Name=唯一
 Rarities/unique/ArticleUpper=一个
 Rarities/unique/Article=一个

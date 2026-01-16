@@ -40,6 +40,9 @@ Chat/PetalFoundNamed/generic/Plural={#Petals/AnnouncementPrefix:0} были на
 Chat/PetalFoundUnnamed/pharaoh_crown={#Petals/{0:base}/FullName} была украдена!
 Chat/PetalFoundNamed/pharaoh_crown={#Petals/{0:base}/FullName} была украдена игроком {1}!
 
+Chat/PetalFoundUnnamed/champion_crown={#Petals/{0:base}/FullName} была захвачена!
+Chat/PetalFoundNamed/champion_crown={#Petals/{0:base}/FullName} была захвачена игроком {1}!
+
 Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}/{#Mobs/{0:base}/Gender}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/{#Mobs/{0:base}/Gender}}
 Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}/{#Mobs/{0:base}/Gender}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/{#Mobs/{0:base}/Gender}}
 
@@ -114,6 +117,8 @@ Chat/ServerNoLongerClosing=Сервер больше не запланирова
 Chat/MatchEnding=Этот матч заканчивается через {0:time:accusative}.
 Chat/MatchEnded=Матч окончен. До встречи.
 Chat/MatchWinner=Игрок {0} — победитель матча.
+
+Chat/DamageDone/Self=Вы нанесли {0:short} урона {#Rarities/{1:rarity}/Name/{#Mobs/{1:base}/Gender}/Dative} {#Mobs/{1:base}/Name/Dative}.
 
 Chat/Squad/Created=Команда создана.
 Chat/Squad/Joined=Вы зашли в команду.

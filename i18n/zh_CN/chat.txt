@@ -1,12 +1,12 @@
 Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Rarities/{0:rarity}/Name}稀有度的{#Mobs/{0:base}/Name}
 Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper}{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/FullName}
 
-Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}}
-Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}}
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity}#Chat/PetalCraftedUnnamed/default}
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity}#Chat/PetalCraftedNamed/default}
 Chat/PetalCraftedUnnamed/unique=有人锻造了{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/FullName}！
 Chat/PetalCraftedNamed/unique={1}锻造了{#Rarities/{0:rarity}/Name}品质的{#Petals/{0:base}/FullName}！
-Chat/PetalCraftedUnnamed/not-unique=有人合成了{#Petals/AnnouncementPrefix:0}！
-Chat/PetalCraftedNamed/not-unique={1}合成了{#Petals/AnnouncementPrefix:0}！
+Chat/PetalCraftedUnnamed/default=有人合成了{#Petals/AnnouncementPrefix:0}！
+Chat/PetalCraftedNamed/default={1}合成了{#Petals/AnnouncementPrefix:0}！
 
 Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic}
 Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic}
@@ -15,6 +15,9 @@ Chat/PetalFoundNamed/generic={1}发现了{#Petals/AnnouncementPrefix:0}！
 
 Chat/PetalFoundUnnamed/pharaoh_crown=有人夺走了{#Petals/{0:base}/FullName}！
 Chat/PetalFoundNamed/pharaoh_crown={1}夺走了{#Petals/{0:base}/FullName}！
+
+Chat/PetalFoundUnnamed/champion_crown=有人赢得了{#Petals/{0:base}/FullName}！
+Chat/PetalFoundNamed/champion_crown={1}赢得了{#Petals/{0:base}/FullName}！
 
 Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
@@ -57,6 +60,8 @@ Chat/MatchEnding=本场比赛将{0:time:left}结束。
 Chat/MatchEnded=本场比赛已结束，下次再见。
 Chat/MatchWinner={0}赢得了本场比赛的冠军。
 
+Chat/DamageDone/Self=你对{#Rarities/{1:rarity}/Name}稀有度的{#Mobs/{1:base}/Name}造成了{0:short}点伤害。
+
 Chat/Squad/Created=已创建小队。
 Chat/Squad/Joined=你加入了小队。
 Chat/Squad/Left=你离开了小队。
@@ -97,6 +102,8 @@ Chat/Guild/Welcome=欢迎来到公会。
 Chat/Guild/Kicked=已踢出玩家。
 Chat/Guild/MOTDUpdated=已更新公告。
 
+Chat/CommandError/NoAvailableChannels=所有聊天频道均已被禁用。
+Chat/CommandError/MessageTooLong=消息过长。
 Chat/CommandError/Invalid=无效的命令，输入/help以列出所有命令。
 Chat/CommandError/SpaceError=“/”之后不能为空格。
 Chat/CommandError/EmptyMessage=消息不能为空。

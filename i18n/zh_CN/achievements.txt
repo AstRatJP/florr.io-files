@@ -121,11 +121,11 @@ Achievements/27/Description=达到{0}级。
 Achievements/27/Py=zhuozhuangchengzhang
 
 Achievements/28/Name=挥霍无度
-Achievements/28/Description=累计在合成过程中消耗{0:tooltip}个花瓣。
+Achievements/28/Description=累计在合成过程中消耗{0:short}个花瓣。
 Achievements/28/Py=huihuowudu
 
 Achievements/29/Name=资深合成师
-Achievements/29/Description=合成出{0:tooltip}个花瓣。
+Achievements/29/Description=合成出{0:short}个花瓣。
 Achievements/29/Py=zishenhechengshi
 
 Achievements/30/Name=沙漠
@@ -249,15 +249,15 @@ Achievements/59/Description=消灭一个正方形。
 Achievements/59/Py=zoucuoyouxi
 
 Achievements/60/Name=痛魁祸首
-Achievements/60/Description=造成{0:tooltip}点伤害。
+Achievements/60/Description=造成{0:short}点伤害。
 Achievements/60/Py=tongkuihuoshou
 
 Achievements/61/Name=痛魁祸首
-Achievements/61/Description=造成{0:tooltip}点伤害。
+Achievements/61/Description=造成{0:short}点伤害。
 Achievements/61/Py=tongkuihuoshou
 
 Achievements/62/Name=痛魁祸首
-Achievements/62/Description=造成{0:tooltip}点伤害。
+Achievements/62/Description=造成{0:short}点伤害。
 Achievements/62/Py=tongkuihuoshou
 
 Achievements/63/Name=一击致命
@@ -280,9 +280,9 @@ Achievements/67/Name=一击致命
 Achievements/67/Description=一击消灭{#Rarities/{0}/Article}{#Rarities/{0}/Name}生物。
 Achievements/67/Py=yijizhiming
 
-Achievements/68/Name=被晒黑了
+Achievements/68/Name=被烧焦了
 Achievements/68/Description=在冥界生存{0:time}。
-Achievements/68/Py=beishaiheile
+Achievements/68/Py=beishaojiaole
 
 Achievements/69/Name=技术问题
 Achievements/69/Description=找到死去的开发者花朵。
@@ -489,15 +489,15 @@ Achievements/119/Description=触碰开发者。
 Achievements/119/Py=chupeng
 
 Achievements/120/Name=凌波微步
-Achievements/120/Description=闪避{0:tooltip}点伤害。
+Achievements/120/Description=闪避{0:short}点伤害。
 Achievements/120/Py=lingboweibu
 
 Achievements/121/Name=凌波微步
-Achievements/121/Description=闪避{0:tooltip}点伤害。
+Achievements/121/Description=闪避{0:short}点伤害。
 Achievements/121/Py=lingboweibu
 
 Achievements/122/Name=凌波微步
-Achievements/122/Description=闪避{0:tooltip}点伤害。
+Achievements/122/Description=闪避{0:short}点伤害。
 Achievements/122/Py=lingboweibu
 
 Achievements/123/Name=魔鬼代言人
@@ -571,3 +571,7 @@ Achievements/139/Py=hongyundangtou
 Achievements/140/Name=血祭
 Achievements/140/Description=进行一次血祭。
 Achievements/140/Py=xueji
+
+Achievements/141/Name=安慰奖
+Achievements/141/Description=合成{#Rarities/{1}/Article}{#Rarities/{1}/Name}品质的花瓣失败，并损失{0}个花瓣。
+Achievements/141/Py=anweijiang

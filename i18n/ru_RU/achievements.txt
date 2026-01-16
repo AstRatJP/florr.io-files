@@ -93,10 +93,10 @@ Achievements/27/Name=Развитие
 Achievements/27/Description=Достигните {0}-го Уровня.
 
 Achievements/28/Name=Бесполезный Крафт
-Achievements/28/Description=Потеряйте {0:tooltip} лепестков в попытках крафта.
+Achievements/28/Description=Потеряйте {0:short} лепестков в попытках крафта.
 
 Achievements/29/Name=Крафтер-трудяга
-Achievements/29/Description=Скрафтьте {0:tooltip} лепестков.
+Achievements/29/Description=Скрафтьте {0:short} лепестков.
 
 Achievements/30/Name=Пустыня
 Achievements/30/Description=Посетите пустыню.
@@ -189,13 +189,13 @@ Achievements/59/Name=Не та игра
 Achievements/59/Description=Убейте Квадрат
 
 Achievements/60/Name=Причинитель боли
-Achievements/60/Description=Нанесите {0:tooltip} урона.
+Achievements/60/Description=Нанесите {0:short} урона.
 
 Achievements/61/Name=Причинитель боли
-Achievements/61/Description=Нанесите {0:tooltip} урона.
+Achievements/61/Description=Нанесите {0:short} урона.
 
 Achievements/62/Name=Причинитель боли
-Achievements/62/Description=Нанесите {0:tooltip} урона.
+Achievements/62/Description=Нанесите {0:short} урона.
 
 Achievements/63/Name=Нокаут
 Achievements/63/Description=Убейте {#Rarities/{0}/Name/Male/Accusative/Animate} моба с одного удара.
@@ -369,13 +369,13 @@ Achievements/119/Name=Тронутый
 Achievements/119/Description=Дотроньтесь до разработчика.
 
 Achievements/120/Name=Неуловимый
-Achievements/120/Description=Уклонитесь от {0:tooltip} единиц урона.
+Achievements/120/Description=Уклонитесь от {0:short} единиц урона.
 
 Achievements/121/Name=Неуловимый
-Achievements/121/Description=Уклонитесь от {0:tooltip} единиц урона.
+Achievements/121/Description=Уклонитесь от {0:short} единиц урона.
 
 Achievements/122/Name=Неуловимый
-Achievements/122/Description=Уклонитесь от {0:tooltip} единиц урона.
+Achievements/122/Description=Уклонитесь от {0:short} единиц урона.
 
 Achievements/123/Name=Адвокат дьявола
 Achievements/123/Description=Убейте {0} цветков в Аду, не умирая.

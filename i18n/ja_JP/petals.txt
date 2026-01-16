@@ -475,3 +475,7 @@ Petals/goggles/Description=心霊現象を見つけることができるよう�
 Petals/bean/Name=豆
 Petals/bean/FullName=豆
 Petals/bean/Description=味方の花が近くにいない場合はより多くのダメージを与える。
+
+Petals/champion_crown/Name=冠
+Petals/champion_crown/FullName=勝者の冠
+Petals/champion_crown/Description=あなたの周りの花に{#Rarities/super/NameColored} {#Petals/basic/FullName}を一個与える。<n/>それらのダメージは自分が与えたものとなる。

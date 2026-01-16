@@ -16,6 +16,9 @@ Chat/PetalFoundNamed/generic={#Petals/AnnouncementPrefix:0}が{1}によって見
 Chat/PetalFoundUnnamed/pharaoh_crown={#Petals/{0:base}/FullName}が盗まれた！
 Chat/PetalFoundNamed/pharaoh_crown={#Petals/{0:base}/FullName}が{1}によって盗まれた！
 
+Chat/PetalFoundUnnamed/champion_crown={#Petals/{0:base}/FullName}が獲得された！
+Chat/PetalFoundNamed/champion_crown={#Petals/{0:base}/FullName}は{1}により獲得された！
+
 Chat/MobSpawnedHere={#Chat/MobSpawnedHere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedHere/Text}
 Chat/MobSpawnedSomewhere={#Chat/MobSpawnedSomewhere/Special/{1}#Mobs/{0:base}/Spawn#Chat/MobSpawnedSomewhere/Text}
 
@@ -57,6 +60,8 @@ Chat/MatchEnding=この試合はあと{0:time}で終わります。
 Chat/MatchEnded=試合は終了しました。さようなら。
 Chat/MatchWinner={0}が試合の勝者だ。
 
+Chat/DamageDone/Self=あなたは{#Rarities/{1:rarity}/Name} {#Mobs/{1:base}/Name}に{0:short}ダメージを与えた。
+
 Chat/Squad/Created=スクワッドを作成しました。
 Chat/Squad/Joined=スクワッドに参加しました。
 Chat/Squad/Left=スクワッドを去りました。
@@ -97,6 +102,8 @@ Chat/Guild/Welcome=ギルドへようこそ。
 Chat/Guild/Kicked=プレイヤーを追放しました。
 Chat/Guild/MOTDUpdated=MOTDを更新しました。
 
+Chat/CommandError/NoAvailableChannels=全てのチャットが無効化されています。
+Chat/CommandError/MessageTooLong=メッセージが長すぎます。
 Chat/CommandError/Invalid=無効なコマンドです、/helpで全てのコマンドの一覧を表示します。
 Chat/CommandError/SpaceError=「/」以降に空白を含めることはできません。
 Chat/CommandError/EmptyMessage=何もないメッセージを送ることはできません。
