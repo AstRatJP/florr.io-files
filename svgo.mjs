@@ -1,18 +1,18 @@
 export default {
 	multipass: true,
-	js2svg: {
-		indent: '\t',
-		pretty: true,
-	},
+	//js2svg: {
+	//	indent: '\t',
+	//	pretty: true,
+	//},
 	plugins: [
 		"convertStyleToAttrs",
 		"removeDimensions",
-		"removeXMLNS",
+		//"removeXMLNS",
 		"removeXlink",
 		"removeUnusedNS",
 		
-		"removeDoctype",
-		"removeXMLProcInst",
+		//"removeDoctype",
+		//"removeXMLProcInst",
 		"removeComments",
 		"removeMetadata",
 		"removeEditorsNSData",
