@@ -12,7 +12,7 @@ export default {
 		"removeUnusedNS",
 		
 		//"removeDoctype",
-		//"removeXMLProcInst",
+		"removeXMLProcInst",
 		"removeComments",
 		"removeMetadata",
 		"removeEditorsNSData",
@@ -30,7 +30,7 @@ export default {
 		"cleanupEnableBackground",
 		"removeHiddenElems",
 		"removeEmptyText",
-		//"convertShapeToPath",
+		"convertShapeToPath",
 		"convertEllipseToCircle",
 		"moveElemsAttrsToGroup",
 		//"moveGroupAttrsToElems",
