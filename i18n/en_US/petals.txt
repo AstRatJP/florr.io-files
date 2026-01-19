@@ -378,10 +378,6 @@ Petals/mjolnir/default/Name=Fragment
 Petals/mjolnir/default/FullName=Fragment
 Petals/mjolnir/default/Description=Perhaps this could be used to forge something great?
 
-Petals/mjolnir/eternal/Name=Mjölnir
-Petals/mjolnir/eternal/FullName=Mjölnir
-Petals/mjolnir/eternal/Description=Only the most powerful hammer in the universe.
-
 Petals/mjolnir/unique/Name=Mjölnir
 Petals/mjolnir/unique/FullName=Mjölnir
 Petals/mjolnir/unique/Description=Only the most powerful hammer in the universe.
