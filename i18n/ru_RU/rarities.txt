@@ -334,6 +334,48 @@ Rarities/super/NameColored/Plural/Accusative/Inanimate=<c val="{#Colors/super}">
 Rarities/super/NameColored/Plural/Prepositional=<c val="{#Colors/super}">{#Rarities/super/Name/Plural/Prepositional}</c>
 Rarities/super/About=о
 
+Rarities/eternal/Name/Male=Вечный
+Rarities/eternal/Name/Male/Genitive=Вечного
+Rarities/eternal/Name/Male/Dative=Вечному
+Rarities/eternal/Name/Male/Accusative/Animate=Вечного
+Rarities/eternal/Name/Male/Accusative/Inanimate=Вечный
+Rarities/eternal/Name/Male/Instrumental=Вечным
+Rarities/eternal/Name/Male/Prepositional=Вечном
+Rarities/eternal/Name/Female=Вечная
+Rarities/eternal/Name/Female/Dative=Вечной
+Rarities/eternal/Name/Female/Accusative=Вечную
+Rarities/eternal/Name/Female/Prepositional=Вечной
+Rarities/eternal/Name/Neuter=Вечное
+Rarities/eternal/Name/Neuter/Dative=Вечному
+Rarities/eternal/Name/Neuter/Prepositional=Вечном
+Rarities/eternal/Name/Plural=Вечные
+Rarities/eternal/Name/Plural/Genitive=Вечных
+Rarities/eternal/Name/Plural/Dative=Вечным
+Rarities/eternal/Name/Plural/Accusative/Animate=Вечных
+Rarities/eternal/Name/Plural/Accusative/Inanimate=Вечные
+Rarities/eternal/Name/Plural/Prepositional=Вечных
+Rarities/eternal/NameColored/Male=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Male}</c>
+Rarities/eternal/NameColored/Male/Genitive=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Male/Genitive}</c>
+Rarities/eternal/NameColored/Male/Dative=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Male/Dative}</c>
+Rarities/eternal/NameColored/Male/Accusative/Animate=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Male/Accusative/Animate}</c>
+Rarities/eternal/NameColored/Male/Accusative/Inanimate=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Male/Accusative/Inanimate}</c>
+Rarities/eternal/NameColored/Male/Instrumental=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Male/Instrumental}</c>
+Rarities/eternal/NameColored/Male/Prepositional=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Male/Prepositional}</c>
+Rarities/eternal/NameColored/Female=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Female}</c>
+Rarities/eternal/NameColored/Female/Dative=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Female/Dative}</c>
+Rarities/eternal/NameColored/Female/Accusative=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Female/Accusative}</c>
+Rarities/eternal/NameColored/Female/Prepositional=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Female/Prepositional}</c>
+Rarities/eternal/NameColored/Neuter=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Neuter}</c>
+Rarities/eternal/NameColored/Neuter/Dative=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Neuter/Dative}</c>
+Rarities/eternal/NameColored/Neuter/Prepositional=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Neuter/Prepositional}</c>
+Rarities/eternal/NameColored/Plural=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Plural}</c>
+Rarities/eternal/NameColored/Plural/Genitive=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Plural/Genitive}</c>
+Rarities/eternal/NameColored/Plural/Dative=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Plural/Dative}</c>
+Rarities/eternal/NameColored/Plural/Accusative/Animate=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Plural/Accusative/Animate}</c>
+Rarities/eternal/NameColored/Plural/Accusative/Inanimate=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Plural/Accusative/Inanimate}</c>
+Rarities/eternal/NameColored/Plural/Prepositional=<c val="{#Colors/eternal}">{#Rarities/eternal/Name/Plural/Prepositional}</c>
+Rarities/eternal/About=о
+
 Rarities/unique/Name/Male=Уникальный
 Rarities/unique/Name/Male/Genitive=Уникального
 Rarities/unique/Name/Male/Dative=Уникальному

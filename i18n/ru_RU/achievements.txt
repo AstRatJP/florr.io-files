@@ -430,3 +430,6 @@ Achievements/139/Description=Получите дополнительный ле�
 
 Achievements/140/Name=Жертва Крови
 Achievements/140/Description=Совершите Жертву Крови.
+
+Achievements/141/Name=Утешительный приз
+Achievements/141/Description=Провалите крафт {#Rarities/{1}/Name/Male/Genitive} лепестка и потеряйте {0} лепестка.

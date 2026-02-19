@@ -473,11 +473,6 @@ Petals/mjolnir/default/FullName=碎片
 Petals/mjolnir/default/Description=也许这能锻造出一些神秘的东西？
 Petals/mjolnir/default/Py=suipian
 
-Petals/mjolnir/eternal/Name=雷神之锤
-Petals/mjolnir/eternal/FullName=雷神之锤
-Petals/mjolnir/eternal/Description=整个宇宙中最强大的锤子。
-Petals/mjolnir/eternal/Py=leishenzhichui
-
 Petals/mjolnir/unique/Name=雷神之锤
 Petals/mjolnir/unique/FullName=雷神之锤
 Petals/mjolnir/unique/Description=整个宇宙中最强大的锤子。

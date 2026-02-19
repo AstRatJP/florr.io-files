@@ -42,6 +42,8 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">Молния:</c> {0:toolti
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">Отскоки:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">Уклонение:</c> {0:perc}%
 Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">Нежить:</c> {0:tooltipTime:nominative}
+Mob/Attribute/Charges=<c val="{#Colors/generic}">Заряды:</c> {0:tooltip}
+Mob/Attribute/Interval=<c val="{#Colors/generic}">Интервал:</c> {0:tooltipTime:nominative}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">Перезарядка:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">Количество Копий:</c> {0:tooltip}

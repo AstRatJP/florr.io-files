@@ -293,10 +293,10 @@ Talents/duplicator2/Name=複製
 Talents/duplicator2/Description=単体で最低でも{0:tooltip}個の複製を持つ花びらに追加の複製ができる。
 
 Talents/duplicator3/Name=複製
-Talents/duplicator3/Description=一番左のスロットに装備された花びらに追加の複製ができる。<n/><c val="{#Colors/{0}}">{#Rarities/{0}/Name}</c>の花びらや重複しない花びらには効果がない。
+Talents/duplicator3/Description=一番左のスロットに装備された花びらに追加の複製ができる。<n/>{#Rarities/{0}/NameColored}と{#Rarities/{1}/NameColored}の花びらや重複しない花びらには効果がない。
 
 Talents/duplicator4/Name=複製
-Talents/duplicator4/Description=前の能力が<c val="{#Colors/{0}}">{#Rarities/{0}/Name}</c>の花びらにも効果が適用される。
+Talents/duplicator4/Description=前の能力が{#Rarities/{0}/NameColored}と{#Rarities/{1}/NameColored}の花びらにも効果が適用される。
 
 Talents/antennae1/Name=アンテナ
 Talents/antennae1/Description=視野を{0:perc}%拡張する。

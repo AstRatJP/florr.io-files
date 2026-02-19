@@ -38,6 +38,11 @@ Rarities/super/ArticleUpper=スーパー
 Rarities/super/Article=スーパー
 Rarities/super/NameColored=<c val="{#Colors/super}">{#Rarities/super/Name}</c>
 
+Rarities/eternal/Name=エタノール
+Rarities/eternal/ArticleUpper=エタノール
+Rarities/eternal/Article=エタノール
+Rarities/eternal/NameColored=<c val="{#Colors/eternal}">{#Rarities/eternal/Name}</c>
+
 Rarities/unique/Name=ユニーク
 Rarities/unique/ArticleUpper=ユニーク
 Rarities/unique/Article=ユニーク

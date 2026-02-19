@@ -370,13 +370,13 @@ Petals/mimic/Name=ミミック
 Petals/mimic/FullName=ミミック
 Petals/mimic/Description=これと同じレアリティで、この左にある花びらを複製する。
 
-Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
-Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
-Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
+Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity}/Name#Petals/mjolnir/default/Name}
+Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity}/FullName#Petals/mjolnir/default/FullName}
+Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity}/Description#Petals/mjolnir/default/Description}
 
-Petals/mjolnir/not-unique/Name=破片
-Petals/mjolnir/not-unique/FullName=破片
-Petals/mjolnir/not-unique/Description=もしかしたら何か偉大なものを鍛造するのに使えそう？
+Petals/mjolnir/default/Name=破片
+Petals/mjolnir/default/FullName=破片
+Petals/mjolnir/default/Description=もしかしたら何か偉大なものを鍛造するのに使えそう？
 
 Petals/mjolnir/unique/Name=ミョルニル
 Petals/mjolnir/unique/FullName=ミョルニル
@@ -466,7 +466,8 @@ Petals/splitter/Name=分裂
 Petals/splitter/FullName=魂の分裂
 Petals/splitter/Description={#Petals/splitter/Description/{0:rarity}#Petals/splitter/Description/default}
 Petals/splitter/Description/default=あなたの魂を2つに分裂させる。<n/><n/><c val="{#Colors/generic}">もう片方を操作するにはこの花びらを選択する。</c>
-Petals/splitter/Description/unique=あなたの魂を3つに分裂させる。<n/><n/><c val="{#Colors/generic}">分かれた花のうちの1つを操作するにはこの花びらを選択する。</c>
+Petals/splitter/Description/eternal=あなたの魂を3つに分裂させる。<n/><n/><c val="{#Colors/generic}">分かれた花のうちの1つを操作するにはこの花びらを選択する。</c>
+Petals/splitter/Description/unique={#Petals/splitter/Description/eternal}
 
 Petals/goggles/Name=ゴーグル
 Petals/goggles/FullName=心霊現象ゴーグル

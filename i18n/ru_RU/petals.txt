@@ -564,17 +564,23 @@ Petals/mimic/FullName/Prepositional=Мимике
 Petals/mimic/Description=Копирует лепесток слева от этого, с той же редкостью, что и этот.
 Petals/mimic/Gender=Male
 
-Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity:is-unique}/Name}
-Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity:is-unique}/FullName}
-Petals/mjolnir/FullName/Prepositional={#Petals/mjolnir/{0:rarity:is-unique}/FullName/Prepositional}
-Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity:is-unique}/Description}
-Petals/mjolnir/Gender={#Petals/mjolnir/{0:rarity:is-unique}/Gender}
+Petals/mjolnir/Name={#Petals/mjolnir/{0:rarity}/Name#Petals/mjolnir/default/Name}
+Petals/mjolnir/FullName={#Petals/mjolnir/{0:rarity}/FullName#Petals/mjolnir/default/FullName}
+Petals/mjolnir/FullName/Prepositional={#Petals/mjolnir/{0:rarity}/FullName/Prepositional#Petals/mjolnir/default/FullName/Prepositional}
+Petals/mjolnir/Description={#Petals/mjolnir/{0:rarity}/Description#Petals/mjolnir/default/Description}
+Petals/mjolnir/Gender={#Petals/mjolnir/{0:rarity}/Gender#Petals/mjolnir/default/Gender}
 
-Petals/mjolnir/not-unique/Name=Фрагмент
-Petals/mjolnir/not-unique/FullName=Фрагмент
-Petals/mjolnir/not-unique/FullName/Prepositional=Фрагменте
-Petals/mjolnir/not-unique/Description=Возможно, из них можно выковать нечто великое?
-Petals/mjolnir/not-unique/Gender=Male
+Petals/mjolnir/default/Name=Фрагмент
+Petals/mjolnir/default/FullName=Фрагмент
+Petals/mjolnir/default/FullName/Prepositional=Фрагменте
+Petals/mjolnir/default/Description=Возможно, из них можно выковать нечто великое?
+Petals/mjolnir/default/Gender=Male
+
+Petals/mjolnir/eternal/Name=Мьёльнир
+Petals/mjolnir/eternal/FullName=Мьёльнир
+Petals/mjolnir/eternal/FullName/Prepositional=Мьёльнире
+Petals/mjolnir/eternal/Description=Самый мощный молот во вселенной.
+Petals/mjolnir/eternal/Gender=Male
 
 Petals/mjolnir/unique/Name=Мьёльнир
 Petals/mjolnir/unique/FullName=Мьёльнир
@@ -708,7 +714,8 @@ Petals/splitter/FullName=Разделитель Душ
 Petals/splitter/FullName/Prepositional=Разделителе Душ
 Petals/splitter/Description={#Petals/splitter/Description/{0:rarity}#Petals/splitter/Description/default}
 Petals/splitter/Description/default=Разбивает вашу душу на две части.<n/><n/><c val="{#Colors/generic}">Выберите этот лепесток снова, чтобы управлять другой половиной.</c>
-Petals/splitter/Description/unique=Разбивает вашу душу на три части.<n/><n/><c val="{#Colors/generic}">Выберите этот лепесток снова, чтобы управлять другой третью.</c>
+Petals/splitter/Description/eternal=Разбивает вашу душу на три части.<n/><n/><c val="{#Colors/generic}">Выберите этот лепесток снова, чтобы управлять другой третью.</c>
+Petals/splitter/Description/unique={#Petals/splitter/Description/eternal}
 Petals/splitter/Gender=Male
 
 Petals/goggles/Name=Очки

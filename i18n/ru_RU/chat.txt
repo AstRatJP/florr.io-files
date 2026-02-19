@@ -1,8 +1,8 @@
 Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/Name/{#Mobs/{0:base}/Gender}} {#Mobs/{0:base}/Name}
 Petals/AnnouncementPrefix={#Rarities/{0:rarity}/Name/{#Petals/{0:base}/Gender}} {#Petals/{0:base}/FullName}
 
-Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity:is-unique}/{#Petals/{0:base}/Gender}}
-Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity:is-unique}/{#Petals/{0:base}/Gender}}
+Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity}/{#Petals/{0:base}/Gender}#Chat/PetalCraftedUnnamed/default/{#Petals/{0:base}/Gender}}
+Chat/PetalCraftedNamed={#Chat/PetalCraftedNamed/{0:rarity}/{#Petals/{0:base}/Gender}#Chat/PetalCraftedNamed/default/{#Petals/{0:base}/Gender}}
 
 Chat/PetalCraftedUnnamed/unique/Male={#Petals/AnnouncementPrefix:0} был выкован!
 Chat/PetalCraftedUnnamed/unique/Female={#Petals/AnnouncementPrefix:0} была выкована!
@@ -14,15 +14,15 @@ Chat/PetalCraftedNamed/unique/Female={#Petals/AnnouncementPrefix:0} была в�
 Chat/PetalCraftedNamed/unique/Neuter={#Petals/AnnouncementPrefix:0} было выковано игроком {1}!
 Chat/PetalCraftedNamed/unique/Plural={#Petals/AnnouncementPrefix:0} были выкованы игроком {1}!
 
-Chat/PetalCraftedUnnamed/not-unique/Male={#Petals/AnnouncementPrefix:0} был скрафчен!
-Chat/PetalCraftedUnnamed/not-unique/Female={#Petals/AnnouncementPrefix:0} была скрафчена!
-Chat/PetalCraftedUnnamed/not-unique/Neuter={#Petals/AnnouncementPrefix:0} было скрафчено!
-Chat/PetalCraftedUnnamed/not-unique/Plural={#Petals/AnnouncementPrefix:0} были скрафчены!
+Chat/PetalCraftedUnnamed/default/Male={#Petals/AnnouncementPrefix:0} был скрафчен!
+Chat/PetalCraftedUnnamed/default/Female={#Petals/AnnouncementPrefix:0} была скрафчена!
+Chat/PetalCraftedUnnamed/default/Neuter={#Petals/AnnouncementPrefix:0} было скрафчено!
+Chat/PetalCraftedUnnamed/default/Plural={#Petals/AnnouncementPrefix:0} были скрафчены!
 
-Chat/PetalCraftedNamed/not-unique/Male={#Petals/AnnouncementPrefix:0} был скрафчен игроком {1}!
-Chat/PetalCraftedNamed/not-unique/Female={#Petals/AnnouncementPrefix:0} была скрафчена игроком {1}!
-Chat/PetalCraftedNamed/not-unique/Neuter={#Petals/AnnouncementPrefix:0} было скрафчено игроком {1}!
-Chat/PetalCraftedNamed/not-unique/Plural={#Petals/AnnouncementPrefix:0} были скрафчены игроком {1}!
+Chat/PetalCraftedNamed/default/Male={#Petals/AnnouncementPrefix:0} был скрафчен игроком {1}!
+Chat/PetalCraftedNamed/default/Female={#Petals/AnnouncementPrefix:0} была скрафчена игроком {1}!
+Chat/PetalCraftedNamed/default/Neuter={#Petals/AnnouncementPrefix:0} было скрафчено игроком {1}!
+Chat/PetalCraftedNamed/default/Plural={#Petals/AnnouncementPrefix:0} были скрафчены игроком {1}!
 
 Chat/PetalFoundUnnamed={#Chat/PetalFoundUnnamed/{0:base}#Chat/PetalFoundUnnamed/generic/{#Petals/{0:base}/Gender}}
 Chat/PetalFoundNamed={#Chat/PetalFoundNamed/{0:base}#Chat/PetalFoundNamed/generic/{#Petals/{0:base}/Gender}}
@@ -160,6 +160,8 @@ Chat/Guild/Welcome=Добро пожаловать в гильдию.
 Chat/Guild/Kicked=Игрок выгнан.
 Chat/Guild/MOTDUpdated=Сообщение дня обновлено.
 
+Chat/CommandError/NoAvailableChannels=Все каналы чата отключены.
+Chat/CommandError/MessageTooLong=Сообщение слишком длинное.
 Chat/CommandError/Invalid=Неверная команда, введите /help, чтобы показать все команды.
 Chat/CommandError/SpaceError=После / не должно быть пробела.
 Chat/CommandError/EmptyMessage=Сообщение не может быть пустым.

@@ -135,7 +135,7 @@ Achievements/41/Name=勝者
 Achievements/41/Description={#Rarities/{0}/Name}の生き物を初めて倒す。
 
 Achievements/42/Name=どこへ行くの？！
-Achievements/42/Description=別次元へ訪れる。
+Achievements/42/Description=別次元を訪れる。
 
 Achievements/43/Name=挑戦者
 Achievements/43/Description=チャレンジを達成する。
@@ -171,22 +171,22 @@ Achievements/53/Name=装備せよ
 Achievements/53/Description={#Rarities/{0}/Name}の花びらを{1}枚装備する。
 
 Achievements/54/Name=召喚士
-Achievements/54/Description=友好的な生き物を生み出す。
+Achievements/54/Description=友好的な生き物を召喚する。
 
 Achievements/55/Name=召喚士
-Achievements/55/Description=友好的な生き物を{0}体生み出す。
+Achievements/55/Description=友好的な生き物を{0}体召喚する。
 
 Achievements/56/Name=召喚士
-Achievements/56/Description=友好的な生き物を{0}体生み出す。
+Achievements/56/Description=友好的な生き物を{0}体召喚する。
 
 Achievements/57/Name=召喚士
-Achievements/57/Description=友好的な生き物を{0}体産み出す。
+Achievements/57/Description=友好的な生き物を{0}体召喚する。
 
 Achievements/58/Name=眩しい！
-Achievements/58/Description=Shiny Ladybugを倒す。
+Achievements/58/Description=輝くテントウムシを倒す。
 
 Achievements/59/Name=ゲームが違う
-Achievements/59/Description=Squareを倒す。
+Achievements/59/Description=四角形を倒す。
 
 Achievements/60/Name=傷害者
 Achievements/60/Description=累計{0:short}ダメージを与える。
@@ -219,7 +219,7 @@ Achievements/69/Name=下手くそ
 Achievements/69/Description=開発者の死んだ花を見つける.
 
 Achievements/70/Name=シロアリ...？
-Achievements/70/Description=友好的な白蟻を生み出す。
+Achievements/70/Description=友好的なシロアリを生み出す。
 
 Achievements/71/Name=平和主義者
 Achievements/71/Description=何も破壊することなく、自然に感嘆して{0:time}過ごす。
@@ -294,7 +294,7 @@ Achievements/94/Name=荒稼ぎ
 Achievements/94/Description={1:time}以内に{0}個の拾得物を集める。
 
 Achievements/95/Name=シャイニーハンター
-Achievements/95/Description={1:time}以内にShiny Ladybugを{0}体倒す。
+Achievements/95/Description={1:time}以内に輝くテントウムシを{0}体倒す。
 
 Achievements/96/Name=スーパーハンター
 Achievements/96/Description={#Rarities/{1}/Name}の生き物を{0}体倒す。
@@ -324,10 +324,10 @@ Achievements/104/Name=像
 Achievements/104/Description=ゲームを遊び始めてから、一歩も動かずに{#Rarities/{0}/Name}以上の生き物を倒す。
 
 Achievements/105/Name=吸って、吐いて
-Achievements/105/Description={#Petals/{0}/Name}を付けて、外してを沢山繰り返す。
+Achievements/105/Description={#Petals/{0}/Name}を付けて、外してを何回も繰り返す。
 
 Achievements/106/Name=超音速
-Achievements/106/Description=本当に早く動く。
+Achievements/106/Description=とても早く動く。
 
 Achievements/107/Name=超音速
 Achievements/107/Description=もっと早く動く。
@@ -399,22 +399,22 @@ Achievements/129/Name=復讐
 Achievements/129/Description=あなたを殺した生き物を死んでから{0:time}以内に倒す。
 
 Achievements/130/Name=トレード
-Achievements/130/Description={#Petals/{0:base}/Name}をトレードで手にいれる。
+Achievements/130/Description={#Petals/{0:base}/Name}をトレードで手に入れる。
 
 Achievements/131/Name=トレード
-Achievements/131/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をトレードで手にいれる。
+Achievements/131/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をトレードで手に入れる。
 
 Achievements/132/Name=トレード
-Achievements/132/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をトレードで手にいれる。
+Achievements/132/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をトレードで手に入れる。
 
 Achievements/133/Name=ギャンブラー
-Achievements/133/Description=チップを{0}枚Plinkoに挿れる。
+Achievements/133/Description=チップを{0}枚プリンコに挿れる。
 
 Achievements/134/Name=ジャックポット！
-Achievements/134/Description=Plinkoでジャックポットを当てる。
+Achievements/134/Description=プリンコでジャックポットを当てる。
 
 Achievements/135/Name=大博打
-Achievements/135/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をPlinkoに挿れる。
+Achievements/135/Description={#Rarities/{0:rarity}/Name}以上の{#Petals/{0:base}/Name}をプリンコに挿れる。
 
 Achievements/136/Name=全てを見通す者
 Achievements/136/Description=オラクルを使って花びらをクラフトする。
@@ -430,3 +430,6 @@ Achievements/139/Description={#Rarities/{0:rarity}/Name} {#Petals/{0:base}/Name}
 
 Achievements/140/Name=血の犠牲
 Achievements/140/Description=血の犠牲をささげる。
+
+Achievements/141/Name=残念賞
+Achievements/141/Description={#Rarities/{1}/Name}の花びらのクラフトに失敗し花びらを{0}枚失う。

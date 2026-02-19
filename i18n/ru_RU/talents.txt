@@ -397,11 +397,11 @@ Talents/duplicator2/Description=Добавляет дополнительную 
 Talents/duplicator2/Gender=Male
 
 Talents/duplicator3/Name=Дубликатор
-Talents/duplicator3/Description=Добавляет дополнительную копию для самого левого лепестка в снаряжении.<n/>Не влияет на <c val="{#Colors/{0}}">{#Rarities/{0}/Name/Plural}</c> лепестки.<n/>Не влияет на лепестки, эффект которых <c val="{#Colors/generic}">Не складывается</c>.
+Talents/duplicator3/Description=Добавляет дополнительную копию для самого левого лепестка в снаряжении.<n/>Не влияет на {#Rarities/{0}/NameColored/Plural} и {#Rarities/{1}/NameColored/Plural} лепестки.<n/>Не влияет на лепестки, эффект которых <c val="{#Colors/generic}">Не складывается</c>.
 Talents/duplicator3/Gender=Male
 
 Talents/duplicator4/Name=Дубликатор
-Talents/duplicator4/Description=Позволяет предыдущему таланту влиять на <c val="{#Colors/{0}}">{#Rarities/{0}/Name/Plural}</c> лепестки.
+Talents/duplicator4/Description=Позволяет предыдущему таланту влиять на {#Rarities/{0}/NameColored/Plural} и {#Rarities/{1}/NameColored/Plural} лепестки.
 Talents/duplicator4/Gender=Male
 
 Talents/antennae1/Name=Усики

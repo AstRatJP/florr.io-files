@@ -41,6 +41,8 @@ Mob/Attribute/Lightning=<c val="{#Colors/lightning}">電撃:</c> {0:tooltip}
 Mob/Attribute/Bounces=<c val="{#Colors/generic}">連鎖数:</c> {0:tooltip}
 Mob/Attribute/Evasion=<c val="{#Colors/generic}">回避率:</c> {0:perc}%
 Mob/Attribute/UndeadDuration=<c val="{#Colors/undead}">不死身:</c> {0:tooltipTime}
+Mob/Attribute/Charges=<c val="{#Colors/generic}">回数:</c> {0:tooltip}
+Mob/Attribute/Interval=<c val="{#Colors/generic}">時間間隔:</c> {0:tooltipTime}
 
 Petal/Attribute/Reload=<c val="{#Colors/generic}">再生時間:</c> {0}
 Petal/Attribute/NumCopies=<c val="{#Colors/generic}">コピーの数:</c> {0:tooltip}
