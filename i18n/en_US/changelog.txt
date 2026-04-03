@@ -1,6 +1,9 @@
 # The format for this file is different
 # Date on a line by itself, then all entries for that date are prefixed by a TAB character.
 
+April 1st 2026
+	- We have decided that flowers have too many petals available. From now on they will be limited to 3 slots.
+
 December 21st 2025
 	- A mysterious rift has opened in the garden. It seems to take flowers back to a simpler time.
 

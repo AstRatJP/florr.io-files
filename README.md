@@ -10,8 +10,8 @@ you can also access each file by `https://florr.io/static/<path to the file>`
 
 | Item | Value |
 |---|---|
-| **versionHash** | `329c2bb843fba9c8f369c2009e8166e2dec20410` |
-| **updatedTime** | `2026-03-12T18:26:26.533Z` |
+| **versionHash** | `8fc3e021b28b4000e486c6cc0c5486508238e6ee` |
+| **updatedTime** | `2026-04-03T11:42:36.230Z` |
 
 ## Credit
 Thank you to PImmediately for providing the WASM bytecode parser.
